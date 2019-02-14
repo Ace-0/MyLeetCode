@@ -1,7 +1,7 @@
 # My LeetCode Record
 
 ```shell
-{ %%%%%%------------------------------------------------------}  9%   89 / 941
+{ %%%%%%------------------------------------------------------} 10.1%   95/941
 ```
 
 ID | Title | Difficulty | Status
@@ -54,7 +54,7 @@ ID | Title | Difficulty | Status
 46 | Permutations | Medium | Accepted
 47 | Permutations II | Medium | 
 48 | Rotate Image | Medium | Accepted
-49 | Group Anagrams | Medium | 
+49 | Group Anagrams | Medium | Accepted
 50 | Pow(x, n) | Medium | 
 51 | N-Queens | Hard | 
 52 | N-Queens II | Hard | 
@@ -69,7 +69,7 @@ ID | Title | Difficulty | Status
 61 | Rotate List | Medium | 
 62 | Unique Paths | Medium | Accepted
 63 | Unique Paths II | Medium | Accepted
-64 | Minimum Path Sum | Medium | 
+64 | Minimum Path Sum | Medium | Accepted
 65 | Valid Number | Hard | 
 66 | Plus One | Easy | 
 67 | Add Binary | Easy | 
@@ -101,7 +101,7 @@ ID | Title | Difficulty | Status
 93 | Restore IP Addresses | Medium | 
 94 | Binary Tree Inorder Traversal | Medium | Accepted
 95 | Unique Binary Search Trees II | Medium | 
-96 | Unique Binary Search Trees | Medium | 
+96 | Unique Binary Search Trees | Medium | Accepted
 97 | Interleaving String | Hard | 
 98 | Validate Binary Search Tree | Medium | Accepted
 99 | Recover Binary Search Tree | Hard | 
@@ -204,7 +204,7 @@ ID | Title | Difficulty | Status
 212 | Word Search II | Hard | 
 213 | House Robber II | Medium | Accepted
 214 | Shortest Palindrome | Hard | 
-215 | Kth Largest Element in an Array | Medium | 
+215 | Kth Largest Element in an Array | Medium | Accepted
 216 | Combination Sum III | Medium | Accepted
 217 | Contains Duplicate | Easy | 
 218 | The Skyline Problem | Hard | 
@@ -473,7 +473,7 @@ ID | Title | Difficulty | Status
 491 | Increasing Subsequences | Medium | Accepted
 492 | Construct the Rectangle | Easy | 
 493 | Reverse Pairs | Hard | 
-494 | Target Sum | Medium | 
+494 | Target Sum | Medium | Accepted
 495 | Teemo Attacking | Medium | 
 496 | Next Greater Element I | Easy | 
 498 | Diagonal Traverse | Medium | 
@@ -515,7 +515,7 @@ ID | Title | Difficulty | Status
 540 | Single Element in a Sorted Array | Medium | 
 541 | Reverse String II | Easy | 
 542 | 01 Matrix | Medium | 
-543 | Diameter of Binary Tree | Easy | 
+543 | Diameter of Binary Tree | Easy | Accepted
 544 | Output Contest Matches | Medium | 
 545 | Boundary of Binary Tree | Medium | 
 546 | Remove Boxes | Hard | 

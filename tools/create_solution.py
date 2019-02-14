@@ -4,11 +4,15 @@ import json
 import csv
 import os
 
+import update_record
 
 def main():
+    target_dir = os.getcwd()
+    tool_dir = 'tools'
+    cookie_file = os.path.join(target_dir, tool_dir, 'cookie.txt')
+    record_file = os.path.join(target_dir, tool_dir, 'record.json')
+    leetcode_list_file = os.path.join(target_dir, tool_dir, 'problem_list.csv')
     leetcode_url = 'https://leetcode.com/api/problems/algorithms/'
-    leetcode_list_file = 'F:\\LeetCode\\tools\\problem_list.csv'
-    target_dir = 'F:\\LeetCode'
 
     parser = argparse.ArgumentParser(description='Process some arguments.')
 
@@ -20,7 +24,7 @@ def main():
     # Template file to use
     parser.add_argument('--template', '-t',
                         type=argparse.FileType('r'),
-                        default='F:\\LeetCode\\tools\\Template.py',
+                        default=os.path.join(target_dir, tool_dir, 'Template.py'),
                         help='template file to use (default: Template)'
                         )
     # Update from the Internet or not
@@ -30,7 +34,7 @@ def main():
 
     args = parser.parse_args()
 
-    question_list = get_question_list(url=leetcode_url, list_file=leetcode_list_file, update=args.update)
+    question_list = get_question_list(leetcode_list_file, args.update, record_file, leetcode_url, cookie_file)
 
     question = search_question_from_list(args.id, question_list)
 
@@ -42,22 +46,20 @@ def main():
     print('|')
     print('===============================================================')
 
-def update_list_file(url, list_file):
+def update_list_file(list_file, record_file, url, cookie_file):
     '''Update file of question list using APIs of OJ.
 
     Args:
         url (str): Url of APIs.
         list_file (str): File name of the file used to save question list.
-    
-    '''
-    html = requests.get(url)
 
-    json_object = json.loads(html.content.decode('utf-8'))
+    '''
+    cookie = update_record.load_cookie(cookie_file)
+    json_object = update_record.get_record_and_save(record_file, url, cookie)
 
     question_list = json_object['stat_status_pairs']
     question_list.sort(key=lambda p: p['stat']['frontend_question_id'])
 
-    # TODO: frontend_question_id and question_id
     with open(list_file, 'w') as csv_file:
         field_names = ['question_id', 'question__title', 'question__title_slug', 'question__article__live', 'total_submitted',
                         'is_new_question', 'question__article__slug', 'question__hide', 'frontend_question_id', 'total_acs']
@@ -66,7 +68,7 @@ def update_list_file(url, list_file):
         for question in question_list:
             writer.writerow(question['stat'])
 
-def get_question_list(url, list_file, update):
+def get_question_list(list_file, update, record_file, url, cookie_file):
     '''Get question list from file.
 
     Args:
@@ -79,7 +81,7 @@ def get_question_list(url, list_file, update):
     
     '''
     if update:
-        update_list_file(url, list_file)
+        update_list_file(list_file, record_file, url, cookie_file)
     
     question_list = []
     with open(list_file, 'r') as csv_file:

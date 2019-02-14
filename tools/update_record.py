@@ -1,26 +1,42 @@
+import requests
 import json
 import os
 
 
 def main():
-    record_file = 'F:\\LeetCode\\tools\\my_record.json'
-    target_dir = os.path.dirname(os.getcwd())
-    target_file = 'F:\\LeetCode\\README.md'
+    target_dir = os.getcwd()
+    tool_dir = 'tools'
+    cookie_file = os.path.join(target_dir, tool_dir, 'cookie.txt')
+    record_file = os.path.join(target_dir, tool_dir, 'record.json')
+    target_file = os.path.join(target_dir, 'README.md')
+    leetcode_url = 'https://leetcode.com/api/problems/algorithms/'
 
-    record_json = load_record_file(record_file)
+    cookie = load_cookie(cookie_file)
+    record_json = get_record_and_save(record_file, leetcode_url, cookie)
     # del record_json['stat_status_pairs']
 
-    generate_record_md(record_json, target_dir, target_file)
+    generate_record_md(record_json, target_file)
 
-def load_record_file(record_file):
-    with open(record_file, 'r') as f:
-        json_object = json.load(f)
+def load_cookie(cookie_file):
+    cookie = ''
+    with open(cookie_file, 'r') as f:
+        cookie = f.read()
+    return cookie
 
-        return json_object
+def get_record_and_save(record_file, leetcode_url, cookie):
+    headers = {
+        'cookie': cookie,
+    }
+    html = requests.get(leetcode_url, headers=headers)
+    json_object = json.loads(html.content.decode('utf-8'))
 
-def generate_record_md(record_json, target_dir, target_file):
-    final_file_name = os.path.join(target_dir, target_file)
-    with open(final_file_name, 'w') as f:
+    with open(record_file, 'w') as f:
+        f.write(str(json_object))
+
+    return json_object
+
+def generate_record_md(record_json, target_file):
+    with open(target_file, 'w') as f:
         # title
         title = 'My LeetCode Record'
         f.write('# ' + title + '\n\n')
@@ -33,8 +49,8 @@ def generate_record_md(record_json, target_dir, target_file):
         length_solved = round(progress_total * max_length)
         length_unsolved = round((1 - progress_total) * max_length)
         f.write('```shell\n{ ' + ('%' * length_solved) + ('-' * length_unsolved) + '} ')
-        f.write(' ' + str(round(progress_total * 100)) + '%')
-        f.writelines('   ' + str(num_solved) + ' / ' + str(num_total) + '\n```\n\n')
+        f.write(str(round(progress_total * 100, 1)) + '%')
+        f.writelines('   ' + str(num_solved) + '/' + str(num_total) + '\n```\n\n')
 
         # # difficulty
         # ac_easy = record_json['ac_easy']
