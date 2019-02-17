@@ -1,6 +1,7 @@
 import requests
 import json
 import os
+import csv
 
 
 def main():
@@ -10,12 +11,14 @@ def main():
     record_file = os.path.join(target_dir, tool_dir, 'record.json')
     target_file = os.path.join(target_dir, 'README.md')
     leetcode_url = 'https://leetcode.com/api/problems/algorithms/'
+    leetcode_list_file = os.path.join(target_dir, tool_dir, 'problem_list.csv')
 
     cookie = load_cookie(cookie_file)
     record_json = get_record_and_save(record_file, leetcode_url, cookie)
     # del record_json['stat_status_pairs']
 
-    generate_record_md(record_json, target_file)
+    # update Record and Problem-list
+    generate_record_md(record_json, target_file, leetcode_list_file)
 
 def load_cookie(cookie_file):
     cookie = ''
@@ -35,7 +38,43 @@ def get_record_and_save(record_file, leetcode_url, cookie):
 
     return json_object
 
-def generate_record_md(record_json, target_file):
+def update_list_file(list_file, sorted_question_list):
+    with open(list_file, 'w') as csv_file:
+        field_names = ['frontend_question_id', 'question_id',
+                       'question__title', 'question__title_slug', 'question__article__slug',
+                       'question__article__live', 'is_new_question', 'question__hide',
+                       'total_submitted', 'total_acs'
+                       ]
+        writer = csv.DictWriter(csv_file, fieldnames=field_names)
+        writer.writeheader()
+        for question in sorted_question_list:
+            writer.writerow(question['stat'])
+
+def find_src_file(questions_list):
+    src_dir = 'src'
+    id2file = {}
+    files = os.listdir(src_dir)
+    for f_name in files:
+        ch_list = ''.join(f_name)
+        i = 0
+        num_str = ''
+        while i < len(ch_list) and ord('0') <= ord(ch_list[i]) <= ord('9'):
+            num_str += ch_list[i]
+            i += 1
+        if len(num_str):
+            id2file[int(num_str)] = f_name
+        # print(id2file)
+        # print(id2file[1])
+    for ques in questions_list:
+        if ques['stat']['frontend_question_id'] in id2file:
+            ques['stat']['src_file'] = id2file[ques['stat']['frontend_question_id']]
+        else:
+            ques['stat']['src_file'] = ''
+
+    return questions_list
+
+
+def generate_record_md(record_json, target_file, question_list_file):
     with open(target_file, 'w') as f:
         # title
         title = 'My LeetCode Record'
@@ -61,16 +100,22 @@ def generate_record_md(record_json, target_file):
         # questions list
         questions_list = record_json['stat_status_pairs']
         questions_list.sort(key=lambda p: p['stat']['question_id'])
+        update_list_file(question_list_file, questions_list)
+        questions_list = find_src_file(questions_list)
 
         f.write('ID | Title | Difficulty | Status\n-|-|-|-\n')
         str_list = []
         for ques in questions_list:
             frontend_question_id = ques['stat']['frontend_question_id']
             question__title = ques['stat']['question__title']
+            question_title_slug = ques['stat']['question__title_slug']
             difficulty = ques['difficulty']
             status = ques['status']
+            src_dir = '/src/'
+            src_file = src_dir + ques['stat']['src_file']
 
-            ques_str = str(frontend_question_id) + ' | ' + question__title + ' | '
+            ques_str = str(frontend_question_id) + ' | '
+            ques_str += '[' + question__title + '](' + src_file + ')' + ' | '
             if difficulty['level'] == 1:
                 ques_str += 'Easy'
             elif difficulty['level'] == 2:
