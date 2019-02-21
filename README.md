@@ -1,21 +1,21 @@
 # My LeetCode Record
 
 ```shell
-{ %%%%%%%-----------------------------------------------------} 10.9%   103/945
+{ %%%%%%%-----------------------------------------------------} 11.2%   106/945
 ```
 
 ID | Title | Difficulty | Status
 -|-|-|-
 1 | [Two Sum](/src/1-two-sum.py) | Easy | Accepted
 2 | [Add Two Numbers](/src/) | Medium | Accepted
-3 | [Longest Substring Without Repeating Characters](/src/) | Medium | Accepted
-4 | [Median of Two Sorted Arrays](/src/) | Hard | Accepted
+3 | [Longest Substring Without Repeating Characters](/src/3-longest-substring-without-repeating-characters.cpp) | Medium | Accepted
+4 | [Median of Two Sorted Arrays](/src/4-median-of-two-sorted-arrays.cpp) | Hard | Accepted
 5 | [Longest Palindromic Substring](/src/) | Medium | Accepted
 6 | [ZigZag Conversion](/src/) | Medium | 
 7 | [Reverse Integer](/src/) | Easy | Accepted
 8 | [String to Integer (atoi)](/src/8-string-to-integer.py) | Medium | 
 9 | [Palindrome Number](/src/) | Easy | Accepted
-10 | [Regular Expression Matching](/src/) | Hard | Accepted
+10 | [Regular Expression Matching](/src/10-regular-expression-matching.cpp) | Hard | Accepted
 11 | [Container With Most Water](/src/) | Medium | Accepted
 12 | [Integer to Roman](/src/) | Medium | 
 13 | [Roman to Integer](/src/) | Easy | Accepted
@@ -24,7 +24,7 @@ ID | Title | Difficulty | Status
 16 | [3Sum Closest](/src/) | Medium | 
 17 | [Letter Combinations of a Phone Number](/src/) | Medium | Accepted
 18 | [4Sum](/src/) | Medium | 
-19 | [Remove Nth Node From End of List](/src/) | Medium | Accepted
+19 | [Remove Nth Node From End of List](/src/19-remove-nth-node-from-end-of-list.cpp) | Medium | Accepted
 20 | [Valid Parentheses](/src/) | Easy | Accepted
 21 | [Merge Two Sorted Lists](/src/) | Easy | Accepted
 22 | [Generate Parentheses](/src/) | Medium | Accepted
@@ -47,7 +47,7 @@ ID | Title | Difficulty | Status
 39 | [Combination Sum](/src/39-combination-sum.py) | Medium | Accepted
 40 | [Combination Sum II](/src/40-combination-sum-ii.py) | Medium | Accepted
 41 | [First Missing Positive](/src/) | Hard | Accepted
-42 | [Trapping Rain Water](/src/42-trapping-rain-water.py) | Hard | 
+42 | [Trapping Rain Water](/src/42-trapping-rain-water.py) | Hard | Accepted
 43 | [Multiply Strings](/src/) | Medium | 
 44 | [Wildcard Matching](/src/) | Hard | 
 45 | [Jump Game II](/src/) | Hard | 
@@ -60,7 +60,7 @@ ID | Title | Difficulty | Status
 52 | [N-Queens II](/src/) | Hard | 
 53 | [Maximum Subarray](/src/53-maximum-subarray.py) | Easy | Accepted
 54 | [Spiral Matrix](/src/) | Medium | 
-55 | [Jump Game](/src/) | Medium | Accepted
+55 | [Jump Game](/src/55-jump-game.cpp) | Medium | Accepted
 56 | [Merge Intervals](/src/) | Medium | 
 57 | [Insert Interval](/src/) | Hard | 
 58 | [Length of Last Word](/src/) | Easy | 
@@ -84,12 +84,12 @@ ID | Title | Difficulty | Status
 76 | [Minimum Window Substring](/src/) | Hard | Accepted
 77 | [Combinations](/src/) | Medium | 
 78 | [Subsets](/src/78-subsets.py) | Medium | Accepted
-79 | [Word Search](/src/) | Medium | 
+79 | [Word Search](/src/79-word-search.py) | Medium | Accepted
 80 | [Remove Duplicates from Sorted Array II](/src/) | Medium | 
 81 | [Search in Rotated Sorted Array II](/src/) | Medium | 
 82 | [Remove Duplicates from Sorted List II](/src/) | Medium | 
 83 | [Remove Duplicates from Sorted List](/src/) | Easy | 
-84 | [Largest Rectangle in Histogram](/src/) | Hard | 
+84 | [Largest Rectangle in Histogram](/src/84-largest-rectangle-in-histogram.py) | Hard | Accepted
 85 | [Maximal Rectangle](/src/) | Hard | 
 86 | [Partition List](/src/) | Medium | 
 87 | [Scramble String](/src/) | Hard | Accepted
@@ -125,7 +125,7 @@ ID | Title | Difficulty | Status
 117 | [Populating Next Right Pointers in Each Node II](/src/) | Medium | 
 118 | [Pascal's Triangle](/src/) | Easy | 
 119 | [Pascal's Triangle II](/src/) | Easy | 
-120 | [Triangle](/src/) | Medium | Accepted
+120 | [Triangle](/src/120-triangle.cpp) | Medium | Accepted
 121 | [Best Time to Buy and Sell Stock](/src/) | Easy | Accepted
 122 | [Best Time to Buy and Sell Stock II](/src/) | Easy | 
 123 | [Best Time to Buy and Sell Stock III](/src/) | Hard | 
@@ -138,7 +138,7 @@ ID | Title | Difficulty | Status
 130 | [Surrounded Regions](/src/) | Medium | 
 131 | [Palindrome Partitioning](/src/) | Medium | 
 132 | [Palindrome Partitioning II](/src/) | Hard | 
-133 | [Clone Graph](/src/) | Medium | Accepted
+133 | [Clone Graph](/src/133-clone-graph.cpp) | Medium | Accepted
 134 | [Gas Station](/src/) | Medium | 
 135 | [Candy](/src/) | Hard | 
 136 | [Single Number](/src/136-single-number.py) | Easy | Accepted
@@ -157,7 +157,7 @@ ID | Title | Difficulty | Status
 149 | [Max Points on a Line](/src/) | Hard | 
 150 | [Evaluate Reverse Polish Notation](/src/) | Medium | 
 151 | [Reverse Words in a String](/src/) | Medium | 
-152 | [Maximum Product Subarray](/src/) | Medium | Accepted
+152 | [Maximum Product Subarray](/src/152-maximum-product-subarray.cpp) | Medium | Accepted
 153 | [Find Minimum in Rotated Sorted Array](/src/) | Medium | 
 154 | [Find Minimum in Rotated Sorted Array II](/src/) | Hard | 
 155 | [Min Stack](/src/) | Easy | 
@@ -196,7 +196,7 @@ ID | Title | Difficulty | Status
 204 | [Count Primes](/src/) | Easy | 
 205 | [Isomorphic Strings](/src/) | Easy | 
 206 | [Reverse Linked List](/src/206-reverse-linked-list.py) | Easy | Accepted
-207 | [Course Schedule](/src/) | Medium | Accepted
+207 | [Course Schedule](/src/207-course-schedule.cpp) | Medium | Accepted
 208 | [Implement Trie (Prefix Tree)](/src/) | Medium | 
 209 | [Minimum Size Subarray Sum](/src/) | Medium | 
 210 | [Course Schedule II](/src/) | Medium | Accepted
@@ -210,7 +210,7 @@ ID | Title | Difficulty | Status
 218 | [The Skyline Problem](/src/) | Hard | 
 219 | [Contains Duplicate II](/src/) | Easy | 
 220 | [Contains Duplicate III](/src/) | Medium | 
-221 | [Maximal Square](/src/) | Medium | Accepted
+221 | [Maximal Square](/src/221-maximal-square.cpp) | Medium | Accepted
 222 | [Count Complete Tree Nodes](/src/) | Medium | 
 223 | [Rectangle Area](/src/) | Medium | 
 224 | [Basic Calculator](/src/) | Hard | 
@@ -229,7 +229,7 @@ ID | Title | Difficulty | Status
 237 | [Delete Node in a Linked List](/src/) | Easy | 
 238 | [Product of Array Except Self](/src/238-product-of-array-except-self.py) | Medium | Accepted
 239 | [Sliding Window Maximum](/src/) | Hard | 
-240 | [Search a 2D Matrix II](/src/) | Medium | Accepted
+240 | [Search a 2D Matrix II](/src/240-search-a-2d-matrix-ii.cpp) | Medium | Accepted
 241 | [Different Ways to Add Parentheses](/src/) | Medium | 
 242 | [Valid Anagram](/src/) | Easy | 
 243 | [Shortest Word Distance](/src/) | Easy | 
@@ -267,7 +267,7 @@ ID | Title | Difficulty | Status
 276 | [Paint Fence](/src/) | Easy | 
 277 | [Find the Celebrity](/src/) | Medium | 
 278 | [First Bad Version](/src/) | Easy | 
-279 | [Perfect Squares](/src/) | Medium | Accepted
+279 | [Perfect Squares](/src/279-perfect-squares.cpp) | Medium | Accepted
 280 | [Wiggle Sort](/src/) | Medium | 
 281 | [Zigzag Iterator](/src/) | Medium | 
 282 | [Expression Add Operators](/src/) | Hard | 
@@ -287,7 +287,7 @@ ID | Title | Difficulty | Status
 296 | [Best Meeting Point](/src/) | Hard | 
 297 | [Serialize and Deserialize Binary Tree](/src/) | Hard | 
 298 | [Binary Tree Longest Consecutive Sequence](/src/) | Medium | 
-299 | [Bulls and Cows](/src/) | Medium | Accepted
+299 | [Bulls and Cows](/src/299-bulls-and-cows.cpp) | Medium | Accepted
 300 | [Longest Increasing Subsequence](/src/) | Medium | Accepted
 301 | [Remove Invalid Parentheses](/src/) | Hard | 
 302 | [Smallest Rectangle Enclosing Black Pixels](/src/) | Hard | 
@@ -304,7 +304,7 @@ ID | Title | Difficulty | Status
 313 | [Super Ugly Number](/src/) | Medium | 
 314 | [Binary Tree Vertical Order Traversal](/src/) | Medium | 
 315 | [Count of Smaller Numbers After Self](/src/) | Hard | 
-316 | [Remove Duplicate Letters](/src/) | Hard | Accepted
+316 | [Remove Duplicate Letters](/src/316-remove-duplicate-letters.cpp) | Hard | Accepted
 317 | [Shortest Distance from All Buildings](/src/) | Hard | 
 318 | [Maximum Product of Word Lengths](/src/) | Medium | 
 319 | [Bulb Switcher](/src/) | Medium | 
@@ -318,7 +318,7 @@ ID | Title | Difficulty | Status
 327 | [Count of Range Sum](/src/) | Hard | 
 328 | [Odd Even Linked List](/src/) | Medium | 
 329 | [Longest Increasing Path in a Matrix](/src/) | Hard | 
-330 | [Patching Array](/src/) | Hard | Accepted
+330 | [Patching Array](/src/330-patching-array.cpp) | Hard | Accepted
 331 | [Verify Preorder Serialization of a Binary Tree](/src/) | Medium | 
 332 | [Reconstruct Itinerary](/src/) | Medium | 
 333 | [Largest BST Subtree](/src/) | Medium | 
@@ -470,7 +470,7 @@ ID | Title | Difficulty | Status
 487 | [Max Consecutive Ones II](/src/) | Medium | 
 488 | [Zuma Game](/src/) | Hard | 
 490 | [The Maze](/src/) | Medium | 
-491 | [Increasing Subsequences](/src/) | Medium | Accepted
+491 | [Increasing Subsequences](/src/491-increasing-subsequences.cpp) | Medium | Accepted
 492 | [Construct the Rectangle](/src/) | Easy | 
 493 | [Reverse Pairs](/src/) | Hard | 
 494 | [Target Sum](/src/494-target-sum.py) | Medium | Accepted
@@ -604,7 +604,7 @@ ID | Title | Difficulty | Status
 665 | [Non-decreasing Array](/src/) | Easy | 
 666 | [Path Sum IV](/src/) | Medium | 
 667 | [Beautiful Arrangement II](/src/) | Medium | 
-668 | [Kth Smallest Number in Multiplication Table](/src/) | Hard | Accepted
+668 | [Kth Smallest Number in Multiplication Table](/src/668-kth-smallest-number-in-multiplication-table.cpp) | Hard | Accepted
 669 | [Trim a Binary Search Tree](/src/) | Easy | 
 670 | [Maximum Swap](/src/) | Medium | 
 671 | [Second Minimum Node In a Binary Tree](/src/) | Easy | 
@@ -620,8 +620,8 @@ ID | Title | Difficulty | Status
 681 | [Next Closest Time](/src/) | Medium | 
 682 | [Baseball Game](/src/) | Easy | 
 683 | [K Empty Slots](/src/) | Hard | 
-684 | [Redundant Connection](/src/) | Medium | Accepted
-685 | [Redundant Connection II](/src/) | Hard | Accepted
+684 | [Redundant Connection](/src/684-redundant-connection.cpp) | Medium | Accepted
+685 | [Redundant Connection II](/src/685-redundant-connection-ii.cpp) | Hard | Accepted
 686 | [Repeated String Match](/src/) | Easy | 
 687 | [Longest Univalue Path](/src/) | Easy | 
 688 | [Knight Probability in Chessboard](/src/) | Medium | 
