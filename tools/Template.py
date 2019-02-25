@@ -8,10 +8,12 @@ if __name__ == "__main__":
     start = time.clock()
 
     s = Solution()
-    
-    ans = s.function(0)
+
+    test_case = 0
+
+    ans = s.function(test_case)
+
     print(ans)
 
     end = time.clock()
     print('Running time: %s ms' % ((end - start) * 1000))
-        

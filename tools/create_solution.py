@@ -1,6 +1,4 @@
 import argparse
-import requests
-import json
 import csv
 import os
 
@@ -47,6 +45,7 @@ def get_question_list(list_file):
     
     return question_list
 
+
 def search_question_from_list(question_id, question_list):
     # Find the exact question
     current_id = question_id - 1
@@ -61,6 +60,7 @@ def search_question_from_list(question_id, question_list):
     else:
         return {}
 
+
 def create_solution_file(question, target_dir, template_file):
     question_id = question['question_id']
     question_title = question['question__title']
@@ -69,7 +69,7 @@ def create_solution_file(question, target_dir, template_file):
     solution_file_name = str(question_id) + '-' + question_title_slug + '.py'
     final_file_name = os.path.join(target_dir, solution_file_name)
     with open(final_file_name, 'w') as sln_file:
-        sln_file.write('# ' + question_id + '. ' + question_title +'\n\n')
+        sln_file.write('# ' + question_id + '. ' + question_title + '\n\n\n')
         sln_file.writelines(template_file)
     return final_file_name
 

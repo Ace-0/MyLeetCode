@@ -20,11 +20,13 @@ def main():
     # update Record and Problem-list
     generate_record_md(record_json, target_file, leetcode_list_file)
 
+
 def load_cookie(cookie_file):
     cookie = ''
     with open(cookie_file, 'r') as f:
         cookie = f.read()
     return cookie
+
 
 def get_record_and_save(record_file, leetcode_url, cookie):
     headers = {
@@ -38,6 +40,7 @@ def get_record_and_save(record_file, leetcode_url, cookie):
 
     return json_object
 
+
 def update_list_file(list_file, sorted_question_list):
     with open(list_file, 'w') as csv_file:
         field_names = ['frontend_question_id', 'question_id',
@@ -49,6 +52,7 @@ def update_list_file(list_file, sorted_question_list):
         writer.writeheader()
         for question in sorted_question_list:
             writer.writerow(question['stat'])
+
 
 def find_src_file(questions_list):
     src_dir = 'src'
@@ -78,7 +82,7 @@ def generate_record_md(record_json, target_file, question_list_file):
     with open(target_file, 'w') as f:
         # title
         title = 'My LeetCode Record'
-        f.write('# ' + title + '\n\n')
+        f.write('# ' + title + '\n\n\n')
 
         # progress bar
         num_total = record_json['num_total']
@@ -108,7 +112,6 @@ def generate_record_md(record_json, target_file, question_list_file):
         for ques in questions_list:
             frontend_question_id = ques['stat']['frontend_question_id']
             question__title = ques['stat']['question__title']
-            question_title_slug = ques['stat']['question__title_slug']
             difficulty = ques['difficulty']
             status = ques['status']
             src_dir = '/src/'
@@ -131,7 +134,6 @@ def generate_record_md(record_json, target_file, question_list_file):
 
             str_list.append(ques_str)
         f.writelines(str_list)
-
 
 
 if __name__ == "__main__":

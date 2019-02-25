@@ -1,7 +1,8 @@
 # My LeetCode Record
 
+
 ```shell
-{ %%%%%%%-----------------------------------------------------} 12.0%   114/949
+{ %%%%%%%-----------------------------------------------------} 12.1%   115/949
 ```
 
 ID | Title | Difficulty | Status
@@ -189,7 +190,7 @@ ID | Title | Difficulty | Status
 191 | Number of 1 Bits | Easy | 
 198 | [House Robber](/src/198-house-robber.py) | Easy | Accepted
 199 | Binary Tree Right Side View | Medium | 
-200 | Number of Islands | Medium | 
+200 | [Number of Islands](/src/200-number-of-islands.py) | Medium | Accepted
 201 | Bitwise AND of Numbers Range | Medium | 
 202 | Happy Number | Easy | 
 203 | Remove Linked List Elements | Easy | 
@@ -404,7 +405,7 @@ ID | Title | Difficulty | Status
 413 | Arithmetic Slices | Medium | Accepted
 414 | Third Maximum Number | Easy | 
 415 | Add Strings | Easy | 
-416 | Partition Equal Subset Sum | Medium | 
+416 | [Partition Equal Subset Sum](/src/416-partition-equal-subset-sum.py) | Medium | 
 417 | Pacific Atlantic Water Flow | Medium | 
 418 | Sentence Screen Fitting | Medium | 
 419 | Battleships in a Board | Medium | 
