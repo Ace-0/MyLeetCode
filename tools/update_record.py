@@ -112,10 +112,13 @@ def generate_record_md(record_json, target_file, question_list_file):
             difficulty = ques['difficulty']
             status = ques['status']
             src_dir = '/src/'
-            src_file = src_dir + ques['stat']['src_file']
+            src_file = ques['stat']['src_file']
 
             ques_str = str(frontend_question_id) + ' | '
-            ques_str += '[' + question__title + '](' + src_file + ')' + ' | '
+            if src_file:
+                ques_str += '[' + question__title + '](' + src_dir + src_file + ')' + ' | '
+            else:
+                ques_str += question__title + ' | '
             if difficulty['level'] == 1:
                 ques_str += 'Easy'
             elif difficulty['level'] == 2:
