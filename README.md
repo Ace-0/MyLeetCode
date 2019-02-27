@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%-----------------------------------------------------} 12.1%   115/949
+{ %%%%%%%-----------------------------------------------------} 12.3%   117/949
 ```
 
 ID | Title | Difficulty | Status
@@ -111,7 +111,7 @@ ID | Title | Difficulty | Status
 102 | [Binary Tree Level Order Traversal](/src/102-binary-tree-level-order-traversal.py) | Medium | Accepted
 103 | Binary Tree Zigzag Level Order Traversal | Medium | 
 104 | [Maximum Depth of Binary Tree](/src/104-maximum-depth-of-binary-tree.py) | Easy | Accepted
-105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium | 
+105 | [Construct Binary Tree from Preorder and Inorder Traversal](/src/105-construct-binary-tree-from-preorder-and-inorder-traversal.py) | Medium | Accepted
 106 | Construct Binary Tree from Inorder and Postorder Traversal | Medium | 
 107 | Binary Tree Level Order Traversal II | Easy | 
 108 | Convert Sorted Array to Binary Search Tree | Easy | 
@@ -405,7 +405,7 @@ ID | Title | Difficulty | Status
 413 | Arithmetic Slices | Medium | Accepted
 414 | Third Maximum Number | Easy | 
 415 | Add Strings | Easy | 
-416 | [Partition Equal Subset Sum](/src/416-partition-equal-subset-sum.py) | Medium | 
+416 | [Partition Equal Subset Sum](/src/416-partition-equal-subset-sum.py) | Medium | Accepted
 417 | Pacific Atlantic Water Flow | Medium | 
 418 | Sentence Screen Fitting | Medium | 
 419 | Battleships in a Board | Medium | 
@@ -415,6 +415,12 @@ ID | Title | Difficulty | Status
 423 | Reconstruct Original Digits from English | Medium | 
 424 | Longest Repeating Character Replacement | Medium | 
 425 | Word Squares | Hard | 
+426 | Convert Binary Search Tree to Sorted Doubly Linked List | Medium | 
+427 | Construct Quad Tree | Easy | 
+428 | Serialize and Deserialize N-ary Tree | Hard | 
+429 | N-ary Tree Level Order Traversal | Easy | 
+430 | Flatten a Multilevel Doubly Linked List | Medium | 
+431 | Encode N-ary Tree to Binary Tree | Hard | 
 432 | All O`one Data Structure | Hard | 
 433 | Minimum Genetic Mutation | Medium | 
 434 | Number of Segments in a String | Easy | 
@@ -441,7 +447,7 @@ ID | Title | Difficulty | Status
 455 | Assign Cookies | Easy | 
 456 | 132 Pattern | Medium | 
 457 | Circular Array Loop | Medium | 
-458 | Poor Pigs | Easy | 
+458 | Poor Pigs | Hard | 
 459 | Repeated Substring Pattern | Easy | 
 460 | LFU Cache | Hard | 
 461 | [Hamming Distance](/src/461-hamming-distance.py) | Easy | Accepted
@@ -453,6 +459,7 @@ ID | Title | Difficulty | Status
 467 | Unique Substrings in Wraparound String | Medium | 
 468 | Validate IP Address | Medium | 
 469 | Convex Polygon | Medium | 
+470 | Implement Rand10() Using Rand7() | Medium | 
 471 | Encode String with Shortest Length | Hard | 
 472 | Concatenated Words | Hard | 
 473 | Matchsticks to Square | Medium | 
@@ -460,6 +467,7 @@ ID | Title | Difficulty | Status
 475 | Heaters | Easy | 
 476 | Number Complement | Easy | 
 477 | Total Hamming Distance | Medium | 
+478 | Generate Random Point in a Circle | Medium | 
 479 | Largest Palindrome Product | Hard | 
 480 | Sliding Window Median | Hard | 
 481 | Magical String | Medium | 
@@ -470,6 +478,7 @@ ID | Title | Difficulty | Status
 486 | Predict the Winner | Medium | 
 487 | Max Consecutive Ones II | Medium | 
 488 | Zuma Game | Hard | 
+489 | Robot Room Cleaner | Hard | 
 490 | The Maze | Medium | 
 491 | [Increasing Subsequences](/src/491-increasing-subsequences.cpp) | Medium | Accepted
 492 | Construct the Rectangle | Easy | 
@@ -477,6 +486,7 @@ ID | Title | Difficulty | Status
 494 | [Target Sum](/src/494-target-sum.py) | Medium | Accepted
 495 | Teemo Attacking | Medium | 
 496 | Next Greater Element I | Easy | 
+497 | Random Point in Non-overlapping Rectangles | Medium | 
 498 | Diagonal Traverse | Medium | 
 499 | The Maze III | Hard | 
 500 | Keyboard Row | Easy | 
@@ -488,6 +498,7 @@ ID | Title | Difficulty | Status
 506 | Relative Ranks | Easy | 
 507 | Perfect Number | Easy | 
 508 | Most Frequent Subtree Sum | Medium | 
+509 | Fibonacci Number | Easy | 
 510 | Inorder Successor in BST II | Medium | 
 513 | Find Bottom Left Tree Value | Medium | 
 514 | Freedom Trail | Hard | 
@@ -495,6 +506,7 @@ ID | Title | Difficulty | Status
 516 | Longest Palindromic Subsequence | Medium | 
 517 | Super Washing Machines | Hard | 
 518 | Coin Change 2 | Medium | 
+519 | Random Flip Matrix | Medium | 
 520 | Detect Capital | Easy | 
 521 | Longest Uncommon Subsequence I  | Easy | 
 522 | Longest Uncommon Subsequence II | Medium | 
@@ -503,6 +515,7 @@ ID | Title | Difficulty | Status
 525 | Contiguous Array | Medium | 
 526 | Beautiful Arrangement | Medium | 
 527 | Word Abbreviation | Hard | 
+528 | Random Pick with Weight | Medium | 
 529 | Minesweeper | Medium | 
 530 | Minimum Absolute Difference in BST | Easy | 
 531 | Lonely Pixel I | Medium | 
@@ -530,6 +543,8 @@ ID | Title | Difficulty | Status
 555 | Split Concatenated Strings | Medium | 
 556 | Next Greater Element III | Medium | 
 557 | Reverse Words in a String III | Easy | 
+558 | Quad Tree Intersection | Easy | 
+559 | Maximum Depth of N-ary Tree | Easy | 
 560 | [Subarray Sum Equals K](/src/560-subarray-sum-equals-k.py) | Medium | Accepted
 561 | Array Partition I | Easy | 
 562 | Longest Line of Consecutive One in Matrix | Medium | 
@@ -548,6 +563,8 @@ ID | Title | Difficulty | Status
 583 | Delete Operation for Two Strings | Medium | 
 587 | Erect the Fence | Hard | 
 588 | Design In-Memory File System | Hard | 
+589 | N-ary Tree Preorder Traversal | Easy | 
+590 | N-ary Tree Postorder Traversal | Easy | 
 591 | Tag Validator | Hard | 
 592 | Fraction Addition and Subtraction | Medium | 
 593 | Valid Square | Medium | 
@@ -563,6 +580,7 @@ ID | Title | Difficulty | Status
 616 | Add Bold Tag in String | Medium | 
 617 | [Merge Two Binary Trees](/src/617-merge-two-binary-trees.py) | Easy | Accepted
 621 | [Task Scheduler](/src/621-task-scheduler.py) | Medium | Accepted
+622 | Design Circular Queue | Medium | 
 623 | Add One Row to Tree | Medium | 
 624 | Maximum Distance in Arrays | Easy | 
 625 | Minimum Factorization | Medium | 
@@ -579,6 +597,7 @@ ID | Title | Difficulty | Status
 638 | Shopping Offers | Medium | 
 639 | Decode Ways II | Hard | 
 640 | Solve the Equation | Medium | 
+641 | Design Circular Deque | Medium | 
 642 | Design Search Autocomplete System | Hard | 
 643 | Maximum Average Subarray I | Easy | 
 644 | Maximum Average Subarray II | Hard | 
@@ -637,6 +656,17 @@ ID | Title | Difficulty | Status
 697 | Degree of an Array | Easy | 
 698 | Partition to K Equal Sum Subsets | Medium | 
 699 | Falling Squares | Hard | 
+700 | Search in a Binary Search Tree | Easy | 
+701 | Insert into a Binary Search Tree | Medium | 
+702 | Search in a Sorted Array of Unknown Size | Medium | 
+703 | Kth Largest Element in a Stream | Easy | 
+704 | Binary Search | Easy | 
+705 | Design HashSet | Easy | 
+706 | Design HashMap | Easy | 
+707 | Design Linked List | Easy | 
+708 | Insert into a Cyclic Sorted List | Medium | 
+709 | To Lower Case | Easy | 
+710 | Random Pick with Blacklist | Hard | 
 711 | Number of Distinct Islands II | Hard | 
 712 | Minimum ASCII Delete Sum for Two Strings | Medium | 
 713 | Subarray Product Less Than K | Medium | 
@@ -668,7 +698,6 @@ ID | Title | Difficulty | Status
 739 | Daily Temperatures | Medium | 
 740 | Delete and Earn | Medium | 
 741 | Cherry Pickup | Hard | 
-709 | To Lower Case | Easy | 
 742 | Closest Leaf in a Binary Tree | Medium | 
 743 | Network Delay Time | Medium | 
 744 | Find Smallest Letter Greater Than Target | Easy | 
@@ -684,41 +713,26 @@ ID | Title | Difficulty | Status
 754 | Reach a Number | Easy | 
 755 | Pour Water | Medium | 
 756 | Pyramid Transition Matrix | Medium | 
-426 | Convert Binary Search Tree to Sorted Doubly Linked List | Medium | 
 757 | Set Intersection Size At Least Two | Hard | 
 758 | Bold Words in String | Easy | 
 759 | Employee Free Time | Hard | 
 760 | Find Anagram Mappings | Easy | 
 761 | Special Binary String | Hard | 
-429 | N-ary Tree Level Order Traversal | Easy | 
-428 | Serialize and Deserialize N-ary Tree | Hard | 
-430 | Flatten a Multilevel Doubly Linked List | Medium | 
 762 | Prime Number of Set Bits in Binary Representation | Easy | 
 763 | Partition Labels | Medium | 
 764 | Largest Plus Sign | Medium | 
 765 | Couples Holding Hands | Hard | 
-431 | Encode N-ary Tree to Binary Tree | Hard | 
-427 | Construct Quad Tree | Easy | 
-558 | Quad Tree Intersection | Easy | 
-559 | Maximum Depth of N-ary Tree | Easy | 
-589 | N-ary Tree Preorder Traversal | Easy | 
-590 | N-ary Tree Postorder Traversal | Easy | 
 766 | Toeplitz Matrix | Easy | 
 767 | Reorganize String | Medium | 
 768 | Max Chunks To Make Sorted II | Hard | 
 769 | Max Chunks To Make Sorted | Medium | 
 770 | Basic Calculator IV | Hard | 
 771 | [Jewels and Stones](/src/771-jewels-and-stones.py) | Easy | Accepted
-700 | Search in a Binary Search Tree | Easy | 
-701 | Insert into a Binary Search Tree | Medium | 
 772 | Basic Calculator III | Hard | 
-702 | Search in a Sorted Array of Unknown Size | Medium | 
 773 | Sliding Puzzle | Hard | 
 774 | Minimize Max Distance to Gas Station | Hard | 
-703 | Kth Largest Element in a Stream | Easy | 
 775 | Global and Local Inversions | Medium | 
 776 | Split BST | Medium | 
-704 | Binary Search | Easy | 
 777 | Swap Adjacent in LR String | Medium | 
 778 | Swim in Rising Water | Hard | 
 779 | K-th Symbol in Grammar | Medium | 
@@ -742,8 +756,6 @@ ID | Title | Difficulty | Status
 797 | All Paths From Source to Target | Medium | 
 798 | Smallest Rotation with Highest Score | Hard | 
 799 | Champagne Tower | Medium | 
-705 | Design HashSet | Easy | 
-706 | Design HashMap | Easy | 
 800 | Similar RGB Color | Easy | Accepted
 801 | Minimum Swaps To Make Sequences Increasing | Medium | 
 802 | Find Eventual Safe States | Medium | 
@@ -764,12 +776,10 @@ ID | Title | Difficulty | Status
 817 | Linked List Components | Medium | Accepted
 818 | Race Car | Hard | 
 819 | Most Common Word | Easy | Accepted
-707 | Design Linked List | Easy | 
 820 | Short Encoding of Words | Medium | 
 821 | Shortest Distance to a Character | Easy | 
 822 | Card Flipping Game | Medium | 
 823 | Binary Trees With Factors | Medium | 
-708 | Insert into a Cyclic Sorted List | Medium | 
 824 | Goat Latin | Easy | 
 825 | Friends Of Appropriate Ages | Medium | 
 826 | Most Profit Assigning Work | Medium | 
@@ -778,13 +788,10 @@ ID | Title | Difficulty | Status
 829 | Consecutive Numbers Sum | Hard | 
 830 | Positions of Large Groups | Easy | 
 831 | Masking Personal Information | Medium | 
-641 | Design Circular Deque | Medium | 
-622 | Design Circular Queue | Medium | 
 832 | Flipping an Image | Easy | 
 833 | Find And Replace in String | Medium | 
 834 | Sum of Distances in Tree | Hard | 
 835 | Image Overlap | Medium | 
-489 | Robot Room Cleaner | Hard | 
 836 | Rectangle Overlap | Easy | 
 837 | New 21 Game | Medium | 
 838 | Push Dominoes | Medium | 
@@ -813,7 +820,6 @@ ID | Title | Difficulty | Status
 861 | Score After Flipping Matrix | Medium | 
 862 | Shortest Subarray with Sum at Least K | Hard | 
 863 | All Nodes Distance K in Binary Tree | Medium | 
-710 | Random Pick with Blacklist | Hard | 
 864 | Shortest Path to Get All Keys | Hard | 
 865 | Smallest Subtree with all the Deepest Nodes | Medium | 
 866 | Prime Palindrome | Medium | 
@@ -822,7 +828,6 @@ ID | Title | Difficulty | Status
 869 | Reordered Power of 2 | Medium | 
 870 | Advantage Shuffle | Medium | 
 871 | Minimum Number of Refueling Stops | Hard | 
-470 | Implement Rand10() Using Rand7() | Medium | 
 872 | Leaf-Similar Trees | Easy | 
 873 | Length of Longest Fibonacci Subsequence | Medium | 
 874 | Walking Robot Simulation | Easy | 
@@ -831,10 +836,6 @@ ID | Title | Difficulty | Status
 877 | Stone Game | Medium | 
 878 | Nth Magical Number | Hard | 
 879 | Profitable Schemes | Hard | 
-528 | Random Pick with Weight | Medium | 
-519 | Random Flip Matrix | Medium | 
-497 | Random Point in Non-overlapping Rectangles | Medium | 
-478 | Generate Random Point in a Circle | Medium | 
 880 | Decoded String at Index | Medium | 
 881 | Boats to Save People | Medium | 
 882 | Reachable Nodes In Subdivided Graph | Hard | 
@@ -927,7 +928,6 @@ ID | Title | Difficulty | Status
 970 | [Powerful Integers](/src/970-powerful-integer.py) | Easy | Accepted
 971 | Flip Binary Tree To Match Preorder Traversal | Medium | 
 972 | Equal Rational Numbers | Hard | 
-509 | Fibonacci Number | Easy | 
 973 | K Closest Points to Origin | Easy | 
 974 | Subarray Sums Divisible by K | Medium | 
 975 | Odd Even Jump | Hard | 

@@ -62,7 +62,7 @@ def search_question_from_list(question_id, question_list):
 
 
 def create_solution_file(question, target_dir, template_file):
-    question_id = question['question_id']
+    question_id = question['frontend_question_id']
     question_title = question['question__title']
     question_title_slug = question['question__title_slug']
 

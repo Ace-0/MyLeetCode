@@ -67,8 +67,7 @@ def find_src_file(questions_list):
             i += 1
         if len(num_str):
             id2file[int(num_str)] = f_name
-        # print(id2file)
-        # print(id2file[1])
+
     for ques in questions_list:
         if ques['stat']['frontend_question_id'] in id2file:
             ques['stat']['src_file'] = id2file[ques['stat']['frontend_question_id']]
@@ -103,7 +102,7 @@ def generate_record_md(record_json, target_file, question_list_file):
 
         # questions list
         questions_list = record_json['stat_status_pairs']
-        questions_list.sort(key=lambda p: p['stat']['question_id'])
+        questions_list.sort(key=lambda p: p['stat']['frontend_question_id'])
         update_list_file(question_list_file, questions_list)
         questions_list = find_src_file(questions_list)
 
