@@ -1,39 +1,41 @@
 # 1001. Grid Illumination
 
+from collections import defaultdict
+
+
 class Solution:
     def gridIllumination(self, N, lamps, queries):
-        # 1.check: 4 ways
-        # 2. shut down
+        # 0. initialize
+        x_lit = defaultdict(int)
+        y_lit = defaultdict(int)
+        tl_lit = defaultdict(int)  # top left to down right
+        tr_lit = defaultdict(int)  # top right to down left
+        positions = defaultdict(set)
         ans = []
+        for lam in lamps:
+            x, y = lam
+            positions[x].add(y)
+            x_lit[x] += 1
+            y_lit[y] += 1
+            tl_lit[x + y] += 1
+            tr_lit[N - 1 + x - y] += 1
+        # 1. check: 4 ways
         for que in queries:
-            qi = que[0]
-            qj = que[1]
-            # 1 * qi + b1 = qj
-            b1 = qj - qi
-            # (-1) * qi + b2 = qj
-            b2 = qj + qi
-            lit = False
-            for lam in lamps:
-                li = lam[0]
-                lj = lam[1]
-                if qi == li \
-                    or qj == lj \
-                    or li * 1 + b1 == lj \
-                    or li * (-1) + b2 == lj:
-                    lit = True
-                    ans.append(1)
-                    break
-            if not lit:
+            x, y = que
+            if x_lit[x] or y_lit[y] or tl_lit[x + y] or tr_lit[N - 1 + x - y]:
+                ans.append(1)
+                # 2. turn off lamps
+                for i in range(-1, 2):
+                    for j in range(-1, 2):
+                        if (y + j) in positions[x + i]:
+                            positions[x + i].remove(y + j)
+                            x_lit[x + i] -= 1
+                            y_lit[y + j] -= 1
+                            tl_lit[x + y] -= 1
+                            tr_lit[N - 1 + x - y] -= 1
+            else:
                 ans.append(0)
-            # turn off lamps
-            i = 0
-            while i < len(lamps):
-                li = lamps[i][0]
-                lj = lamps[i][1]
-                if abs(li - qi) < 2 and abs(lj - qj) < 2:
-                    lamps.pop(i)
-                else:
-                    i += 1
+
         return ans
 
 
