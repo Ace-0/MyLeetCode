@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%-----------------------------------------------------} 12.3%   117/949
+{ %%%%%%%%----------------------------------------------------} 12.6%   120/949
 ```
 
 ID | Title | Difficulty | Status
@@ -286,7 +286,7 @@ ID | Title | Difficulty | Status
 294 | Flip Game II | Medium | 
 295 | Find Median from Data Stream | Hard | 
 296 | Best Meeting Point | Hard | 
-297 | Serialize and Deserialize Binary Tree | Hard | 
+297 | [Serialize and Deserialize Binary Tree](/src/297-serialize-and-deserialize-binary-tree.py) | Hard | Accepted
 298 | Binary Tree Longest Consecutive Sequence | Medium | 
 299 | [Bulls and Cows](/src/299-bulls-and-cows.cpp) | Medium | Accepted
 300 | Longest Increasing Subsequence | Medium | Accepted
@@ -758,7 +758,7 @@ ID | Title | Difficulty | Status
 799 | Champagne Tower | Medium | 
 800 | Similar RGB Color | Easy | Accepted
 801 | Minimum Swaps To Make Sequences Increasing | Medium | 
-802 | Find Eventual Safe States | Medium | 
+802 | [Find Eventual Safe States](/src/802-find-eventual-safe-states.py) | Medium | Accepted
 803 | Bricks Falling When Hit | Hard | 
 804 | Unique Morse Code Words | Easy | Accepted
 805 | Split Array With Same Average | Hard | 
@@ -955,4 +955,4 @@ ID | Title | Difficulty | Status
 997 | [Find the Town Judge](/src/997-find-the-town-judge.py) | Easy | Accepted
 998 | [Maximum Binary Tree II](/src/998-maximum-binary-tree-ii.py) | Medium | Accepted
 999 | [Available Captures for Rook](/src/999-available-captures-for-rook.py) | Easy | Accepted
-1001 | [Grid Illumination](/src/1001-grid-illumination.py) | Hard | 
+1001 | [Grid Illumination](/src/1001-grid-illumination.py) | Hard | Accepted
