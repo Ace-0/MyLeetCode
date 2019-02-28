@@ -1,0 +1,13 @@
+# pycharm
+.idea
+
+# tools
+tools/__pycache__/
+tools/cookie.txt
+tools/problem_list.csv
+tools/record.json
+tools/test.py
+
+# virtualenv
+venv
+leetcode-env
