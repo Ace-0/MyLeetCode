@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%----------------------------------------------------} 12.6%   120/949
+{ %%%%%%%%----------------------------------------------------} 13.0%   124/953
 ```
 
 ID | Title | Difficulty | Status
@@ -198,7 +198,7 @@ ID | Title | Difficulty | Status
 205 | Isomorphic Strings | Easy | 
 206 | [Reverse Linked List](/src/206-reverse-linked-list.py) | Easy | Accepted
 207 | [Course Schedule](/src/207-course-schedule.cpp) | Medium | Accepted
-208 | Implement Trie (Prefix Tree) | Medium | 
+208 | [Implement Trie (Prefix Tree)](/src/208-implement-trie-prefix-tree.py) | Medium | Accepted
 209 | Minimum Size Subarray Sum | Medium | 
 210 | Course Schedule II | Medium | Accepted
 211 | Add and Search Word - Data structure design | Medium | 
@@ -427,7 +427,7 @@ ID | Title | Difficulty | Status
 435 | Non-overlapping Intervals | Medium | 
 436 | Find Right Interval | Medium | 
 437 | [Path Sum III](/src/437-path-sum-iii.py) | Easy | Accepted
-438 | Find All Anagrams in a String | Easy | 
+438 | [Find All Anagrams in a String](/src/438-find-all-anagrams-in-a-string.py) | Easy | Accepted
 439 | Ternary Expression Parser | Medium | 
 440 | K-th Smallest in Lexicographical Order | Hard | 
 441 | Arranging Coins | Easy | 
@@ -955,4 +955,8 @@ ID | Title | Difficulty | Status
 997 | [Find the Town Judge](/src/997-find-the-town-judge.py) | Easy | Accepted
 998 | [Maximum Binary Tree II](/src/998-maximum-binary-tree-ii.py) | Medium | Accepted
 999 | [Available Captures for Rook](/src/999-available-captures-for-rook.py) | Easy | Accepted
+1000 | Minimum Cost to Merge Stones | Hard | 
 1001 | [Grid Illumination](/src/1001-grid-illumination.py) | Hard | Accepted
+1002 | [Find Common Characters](/src/1002-find-common-characters.py) | Easy | Accepted
+1003 | [Check If Word Is Valid After Substitutions](/src/1003-check-if-word-is-valid-after-substitutions.py) | Medium | Accepted
+1004 | Max Consecutive Ones III | Medium | 

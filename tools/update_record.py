@@ -20,6 +20,11 @@ def main():
     # update Record and Problem-list
     generate_record_md(record_json, target_file, leetcode_list_file)
 
+    print('===============================================================')
+    print('|')
+    print('| README is already up to date')
+    print('|')
+    print('===============================================================')
 
 def load_cookie(cookie_file):
     cookie = ''
