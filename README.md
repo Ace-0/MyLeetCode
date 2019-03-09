@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%----------------------------------------------------} 13.0%   124/953
+{ %%%%%%%%----------------------------------------------------} 13.5%   129/953
 ```
 
 ID | Title | Difficulty | Status
@@ -147,7 +147,7 @@ ID | Title | Difficulty | Status
 138 | Copy List with Random Pointer | Medium | 
 139 | Word Break | Medium | 
 140 | Word Break II | Hard | 
-141 | Linked List Cycle | Easy | 
+141 | [Linked List Cycle](/src/141-linked-list-cycle.py) | Easy | Accepted
 142 | Linked List Cycle II | Medium | 
 143 | Reorder List | Medium | 
 144 | Binary Tree Preorder Traversal | Medium | 
@@ -161,7 +161,7 @@ ID | Title | Difficulty | Status
 152 | [Maximum Product Subarray](/src/152-maximum-product-subarray.cpp) | Medium | Accepted
 153 | Find Minimum in Rotated Sorted Array | Medium | 
 154 | Find Minimum in Rotated Sorted Array II | Hard | 
-155 | Min Stack | Easy | 
+155 | [Min Stack](/src/155-min-stack.py) | Easy | Accepted
 156 | Binary Tree Upside Down | Medium | 
 157 | Read N Characters Given Read4 | Easy | 
 158 | Read N Characters Given Read4 II - Call multiple times | Hard | 
@@ -226,10 +226,10 @@ ID | Title | Difficulty | Status
 233 | Number of Digit One | Hard | 
 234 | Palindrome Linked List | Easy | 
 235 | Lowest Common Ancestor of a Binary Search Tree | Easy | 
-236 | Lowest Common Ancestor of a Binary Tree | Medium | 
+236 | [Lowest Common Ancestor of a Binary Tree](/src/236-lowest-common-ancestor-of-a-binary-tree.py) | Medium | Accepted
 237 | Delete Node in a Linked List | Easy | 
 238 | [Product of Array Except Self](/src/238-product-of-array-except-self.py) | Medium | Accepted
-239 | Sliding Window Maximum | Hard | 
+239 | [Sliding Window Maximum](/src/239-sliding-window-maximum.py) | Hard | Accepted
 240 | [Search a 2D Matrix II](/src/240-search-a-2d-matrix-ii.cpp) | Medium | Accepted
 241 | Different Ways to Add Parentheses | Medium | 
 242 | Valid Anagram | Easy | 
@@ -290,7 +290,7 @@ ID | Title | Difficulty | Status
 298 | Binary Tree Longest Consecutive Sequence | Medium | 
 299 | [Bulls and Cows](/src/299-bulls-and-cows.cpp) | Medium | Accepted
 300 | Longest Increasing Subsequence | Medium | Accepted
-301 | Remove Invalid Parentheses | Hard | 
+301 | [Remove Invalid Parentheses](/src/301-remove-invalid-parentheses.py) | Hard | Accepted
 302 | Smallest Rectangle Enclosing Black Pixels | Hard | 
 303 | Range Sum Query - Immutable | Easy | 
 304 | Range Sum Query 2D - Immutable | Medium | 
