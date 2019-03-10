@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%----------------------------------------------------} 13.5%   129/953
+{ %%%%%%%%----------------------------------------------------} 14.1%   135/957
 ```
 
 ID | Title | Difficulty | Status
@@ -62,7 +62,7 @@ ID | Title | Difficulty | Status
 53 | [Maximum Subarray](/src/53-maximum-subarray.py) | Easy | Accepted
 54 | Spiral Matrix | Medium | 
 55 | [Jump Game](/src/55-jump-game.cpp) | Medium | Accepted
-56 | Merge Intervals | Medium | 
+56 | [Merge Intervals](/src/56-merge-intervals.cpp) | Medium | Accepted
 57 | Insert Interval | Hard | 
 58 | Length of Last Word | Easy | 
 59 | Spiral Matrix II | Medium | 
@@ -224,7 +224,7 @@ ID | Title | Difficulty | Status
 231 | Power of Two | Easy | 
 232 | Implement Queue using Stacks | Easy | 
 233 | Number of Digit One | Hard | 
-234 | Palindrome Linked List | Easy | 
+234 | [Palindrome Linked List](/src/234-palindrome-linked-list.py) | Easy | Accepted
 235 | Lowest Common Ancestor of a Binary Search Tree | Easy | 
 236 | [Lowest Common Ancestor of a Binary Tree](/src/236-lowest-common-ancestor-of-a-binary-tree.py) | Medium | Accepted
 237 | Delete Node in a Linked List | Easy | 
@@ -960,3 +960,7 @@ ID | Title | Difficulty | Status
 1002 | [Find Common Characters](/src/1002-find-common-characters.py) | Easy | Accepted
 1003 | [Check If Word Is Valid After Substitutions](/src/1003-check-if-word-is-valid-after-substitutions.py) | Medium | Accepted
 1004 | Max Consecutive Ones III | Medium | 
+1005 | [Maximize Sum Of Array After K Negations](/src/1005-maximize-sum-of-array-after-k-negations.py) | Easy | Accepted
+1006 | [Clumsy Factorial](/src/1006-clumsy-factorial.py) | Medium | Accepted
+1007 | [Minimum Domino Rotations For Equal Row](/src/1007-minimum-domino-rotations-for-equal-row.py) | Medium | Accepted
+1008 | [Construct Binary Search Tree from Preorder Traversal](/src/1008-construct-binary-search-tree-from-preorder-traversal.py) | Medium | Accepted
