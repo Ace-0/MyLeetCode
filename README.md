@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%----------------------------------------------------} 14.1%   135/957
+{ %%%%%%%%%---------------------------------------------------} 14.3%   137/961
 ```
 
 ID | Title | Difficulty | Status
@@ -145,7 +145,7 @@ ID | Title | Difficulty | Status
 136 | [Single Number](/src/136-single-number.py) | Easy | Accepted
 137 | Single Number II | Medium | 
 138 | Copy List with Random Pointer | Medium | 
-139 | Word Break | Medium | 
+139 | [Word Break](/src/139-word-break.py) | Medium | Accepted
 140 | Word Break II | Hard | 
 141 | [Linked List Cycle](/src/141-linked-list-cycle.py) | Easy | Accepted
 142 | Linked List Cycle II | Medium | 
@@ -154,7 +154,7 @@ ID | Title | Difficulty | Status
 145 | Binary Tree Postorder Traversal | Hard | 
 146 | LRU Cache | Hard | 
 147 | Insertion Sort List | Medium | 
-148 | Sort List | Medium | 
+148 | [Sort List](/src/148-sort-list.py) | Medium | Accepted
 149 | Max Points on a Line | Hard | 
 150 | Evaluate Reverse Polish Notation | Medium | 
 151 | Reverse Words in a String | Medium | 
@@ -928,7 +928,7 @@ ID | Title | Difficulty | Status
 970 | [Powerful Integers](/src/970-powerful-integer.py) | Easy | Accepted
 971 | Flip Binary Tree To Match Preorder Traversal | Medium | 
 972 | Equal Rational Numbers | Hard | 
-973 | K Closest Points to Origin | Easy | 
+973 | K Closest Points to Origin | Medium | 
 974 | Subarray Sums Divisible by K | Medium | 
 975 | Odd Even Jump | Hard | 
 976 | Largest Perimeter Triangle | Easy | 
@@ -939,7 +939,7 @@ ID | Title | Difficulty | Status
 981 | Time Based Key-Value Store | Medium | 
 982 | Triples with Bitwise AND Equal To Zero | Hard | 
 983 | Minimum Cost For Tickets | Medium | 
-984 | String Without AAA or BBB | Easy | 
+984 | String Without AAA or BBB | Medium | 
 985 | Sum of Even Numbers After Queries | Easy | Accepted
 986 | Interval List Intersections | Medium | 
 987 | Vertical Order Traversal of a Binary Tree | Medium | 
@@ -964,3 +964,7 @@ ID | Title | Difficulty | Status
 1006 | [Clumsy Factorial](/src/1006-clumsy-factorial.py) | Medium | Accepted
 1007 | [Minimum Domino Rotations For Equal Row](/src/1007-minimum-domino-rotations-for-equal-row.py) | Medium | Accepted
 1008 | [Construct Binary Search Tree from Preorder Traversal](/src/1008-construct-binary-search-tree-from-preorder-traversal.py) | Medium | Accepted
+1012 | Complement of Base 10 Integer | Easy | 
+1013 | Pairs of Songs With Total Durations Divisible by 60 | Easy | 
+1014 | Capacity To Ship Packages Within D Days | Medium | 
+1015 | Numbers With Repeated Digits | Hard | 
