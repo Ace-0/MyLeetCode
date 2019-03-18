@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%---------------------------------------------------} 14.3%   137/961
+{ %%%%%%%%%---------------------------------------------------} 14.5%   139/961
 ```
 
 ID | Title | Difficulty | Status
@@ -29,7 +29,7 @@ ID | Title | Difficulty | Status
 20 | Valid Parentheses | Easy | Accepted
 21 | Merge Two Sorted Lists | Easy | Accepted
 22 | Generate Parentheses | Medium | Accepted
-23 | Merge k Sorted Lists | Hard | 
+23 | [Merge k Sorted Lists](/src/23-merge-k-sorted-lists.py) | Hard | Accepted
 24 | Swap Nodes in Pairs | Medium | 
 25 | Reverse Nodes in k-Group | Hard | 
 26 | Remove Duplicates from Sorted Array | Easy | 
@@ -40,7 +40,7 @@ ID | Title | Difficulty | Status
 31 | Next Permutation | Medium | 
 32 | Longest Valid Parentheses | Hard | 
 33 | Search in Rotated Sorted Array | Medium | 
-34 | Find First and Last Position of Element in Sorted Array | Medium | 
+34 | [Find First and Last Position of Element in Sorted Array](/src/34-find-first-and-last-position-of-element-in-sorted-array.py) | Medium | Accepted
 35 | Search Insert Position | Easy | 
 36 | Valid Sudoku | Medium | 
 37 | Sudoku Solver | Hard | 
