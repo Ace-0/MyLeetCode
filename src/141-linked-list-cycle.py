@@ -18,15 +18,13 @@ class Solution(object):
             return False
         low = head.next
         fast = low.next
-        while low and fast:
-            if low == fast:
-                return True
+        while fast and (fast != low):
             low = low.next
-            fast = fast.next
-            if not fast:
-                return False
-            fast = fast.next
-        return False
+            fast = fast.next.next if fast.next else None
+        if fast:
+            return True
+        else:
+            return False
 
 
 if __name__ == "__main__":

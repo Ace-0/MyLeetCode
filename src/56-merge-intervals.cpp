@@ -39,23 +39,3 @@ public:
 		return res;
 	}
 };
-
-
-int main() {
-	Solution s = Solution();
-
-	vector<Interval> input;
-	input.push_back(Interval(1, 3));
-	input.push_back(Interval(2, 6));
-	input.push_back(Interval(8, 10));
-	input.push_back(Interval(15, 18));
-
-	vector<Interval> result = s.merge(input);
-	cout << "[";
-	for (auto interval : result) {
-		cout << "[" << interval.start << ", " << interval.end << "] ";
-	}
-	cout << "]" << endl;
-
-	system("pause");
-}

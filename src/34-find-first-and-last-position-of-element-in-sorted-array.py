@@ -9,7 +9,7 @@ class Solution:
         right = len(nums) - 1
         if right == -1:
             return [-1, -1]
-        while left < right:
+        while left <= right:
             mid = left + math.floor((right - left) / 2)
             if target == nums[mid]:
                 break
@@ -17,20 +17,15 @@ class Solution:
                 right = mid - 1
             else:
                 left = mid + 1
-        if left > right:
-            return [-1, -1]
-        elif left == right:
-            if nums[left] != target:
-                return [-1, -1]
-            else:
-                return [left, right]
-        else:
+        if target == nums[mid]:
             left = right = mid
             while left - 1 >= 0 and nums[left - 1] == target:
                 left -= 1
             while right + 1 < len(nums) and nums[right + 1] == target:
                 right += 1
             return [left, right]
+        else:
+            return [-1, -1]
 
 
 if __name__ == "__main__":
