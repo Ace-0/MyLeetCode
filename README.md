@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%---------------------------------------------------} 14.5%   139/961
+{ %%%%%%%%%---------------------------------------------------} 14.9%   143/961
 ```
 
 ID | Title | Difficulty | Status
@@ -39,7 +39,7 @@ ID | Title | Difficulty | Status
 30 | Substring with Concatenation of All Words | Hard | 
 31 | Next Permutation | Medium | 
 32 | Longest Valid Parentheses | Hard | 
-33 | Search in Rotated Sorted Array | Medium | 
+33 | [Search in Rotated Sorted Array](/src/33-search-in-rotated-sorted-array.py) | Medium | Accepted
 34 | [Find First and Last Position of Element in Sorted Array](/src/34-find-first-and-last-position-of-element-in-sorted-array.py) | Medium | Accepted
 35 | Search Insert Position | Easy | 
 36 | Valid Sudoku | Medium | 
@@ -91,7 +91,7 @@ ID | Title | Difficulty | Status
 82 | Remove Duplicates from Sorted List II | Medium | 
 83 | Remove Duplicates from Sorted List | Easy | 
 84 | [Largest Rectangle in Histogram](/src/84-largest-rectangle-in-histogram.py) | Hard | Accepted
-85 | Maximal Rectangle | Hard | 
+85 | [Maximal Rectangle](/src/85-maximal-rectangle.cpp) | Hard | Accepted
 86 | Partition List | Medium | 
 87 | Scramble String | Hard | Accepted
 88 | Merge Sorted Array | Easy | 
@@ -148,7 +148,7 @@ ID | Title | Difficulty | Status
 139 | [Word Break](/src/139-word-break.py) | Medium | Accepted
 140 | Word Break II | Hard | 
 141 | [Linked List Cycle](/src/141-linked-list-cycle.py) | Easy | Accepted
-142 | Linked List Cycle II | Medium | 
+142 | [Linked List Cycle II](/src/142-linked-list-cycle-II.cpp) | Medium | Accepted
 143 | Reorder List | Medium | 
 144 | Binary Tree Preorder Traversal | Medium | 
 145 | Binary Tree Postorder Traversal | Hard | 
@@ -166,7 +166,7 @@ ID | Title | Difficulty | Status
 157 | Read N Characters Given Read4 | Easy | 
 158 | Read N Characters Given Read4 II - Call multiple times | Hard | 
 159 | Longest Substring with At Most Two Distinct Characters | Hard | 
-160 | Intersection of Two Linked Lists | Easy | 
+160 | [Intersection of Two Linked Lists](/src/160-intersection-of-two-linked-lists.cpp) | Easy | Accepted
 161 | One Edit Distance | Medium | 
 162 | Find Peak Element | Medium | 
 163 | Missing Ranges | Medium | 
