@@ -1,11 +1,3 @@
-// Definition for an interval.
-
-#include <iostream>
-#include <vector>
-#include <algorithm>
-
-using namespace std;
-
 struct Interval {
 	int start;
 	int end;

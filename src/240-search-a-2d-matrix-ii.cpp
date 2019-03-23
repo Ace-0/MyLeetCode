@@ -1,8 +1,3 @@
-#include <iostream>
-#include <cstdlib>
-#include <vector>
-using namespace std;
-
 bool searchMatrix1(vector<vector<int>>& matrix, int target) {
 	// 二分法
 	int up = 0, down = matrix.size() - 1;
