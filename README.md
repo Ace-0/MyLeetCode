@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%---------------------------------------------------} 14.9%   143/961
+{ %%%%%%%%%---------------------------------------------------} 15.2%   147/965
 ```
 
 ID | Title | Difficulty | Status
@@ -37,8 +37,8 @@ ID | Title | Difficulty | Status
 28 | Implement strStr() | Easy | Accepted
 29 | Divide Two Integers | Medium | 
 30 | Substring with Concatenation of All Words | Hard | 
-31 | Next Permutation | Medium | 
-32 | Longest Valid Parentheses | Hard | 
+31 | [Next Permutation](/src/31-next-permutation.cpp) | Medium | Accepted
+32 | [Longest Valid Parentheses](/src/32-longest-valid-parentheses.cpp) | Hard | Accepted
 33 | [Search in Rotated Sorted Array](/src/33-search-in-rotated-sorted-array.py) | Medium | Accepted
 34 | [Find First and Last Position of Element in Sorted Array](/src/34-find-first-and-last-position-of-element-in-sorted-array.py) | Medium | Accepted
 35 | Search Insert Position | Easy | 
@@ -130,7 +130,7 @@ ID | Title | Difficulty | Status
 121 | Best Time to Buy and Sell Stock | Easy | Accepted
 122 | Best Time to Buy and Sell Stock II | Easy | 
 123 | Best Time to Buy and Sell Stock III | Hard | 
-124 | Binary Tree Maximum Path Sum | Hard | 
+124 | [Binary Tree Maximum Path Sum](/src/124-binary-tree-maximum-path-sum.cpp) | Hard | Accepted
 125 | Valid Palindrome | Easy | 
 126 | Word Ladder II | Hard | 
 127 | Word Ladder | Medium | 
@@ -558,7 +558,7 @@ ID | Title | Difficulty | Status
 573 | Squirrel Simulation | Medium | 
 575 | Distribute Candies | Easy | 
 576 | Out of Boundary Paths | Medium | 
-581 | Shortest Unsorted Continuous Subarray | Easy | 
+581 | [Shortest Unsorted Continuous Subarray](/src/581-shortest-unsorted-continuous-subarray.cpp) | Easy | Accepted
 582 | Kill Process | Medium | 
 583 | Delete Operation for Two Strings | Medium | 
 587 | Erect the Fence | Hard | 
@@ -968,3 +968,7 @@ ID | Title | Difficulty | Status
 1013 | Pairs of Songs With Total Durations Divisible by 60 | Easy | 
 1014 | Capacity To Ship Packages Within D Days | Medium | 
 1015 | Numbers With Repeated Digits | Hard | 
+1020 | Partition Array Into Three Parts With Equal Sum | Easy | 
+1021 | Best Sightseeing Pair | Medium | 
+1022 | Smallest Integer Divisible by K | Medium | 
+1023 | Binary String With Substrings Representing 1 To N | Medium | 
