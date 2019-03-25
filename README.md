@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%---------------------------------------------------} 15.2%   147/965
+{ %%%%%%%%%---------------------------------------------------} 15.4%   149/965
 ```
 
 ID | Title | Difficulty | Status
@@ -21,7 +21,7 @@ ID | Title | Difficulty | Status
 12 | Integer to Roman | Medium | 
 13 | Roman to Integer | Easy | Accepted
 14 | Longest Common Prefix | Easy | Accepted
-15 | 3Sum | Medium | 
+15 | [3Sum](/src/15-3Sum.cpp) | Medium | Accepted
 16 | 3Sum Closest | Medium | 
 17 | Letter Combinations of a Phone Number | Medium | Accepted
 18 | 4Sum | Medium | 
@@ -152,7 +152,7 @@ ID | Title | Difficulty | Status
 143 | Reorder List | Medium | 
 144 | Binary Tree Preorder Traversal | Medium | 
 145 | Binary Tree Postorder Traversal | Hard | 
-146 | LRU Cache | Hard | 
+146 | [LRU Cache](/src/146-lru-cache.cpp) | Hard | Accepted
 147 | Insertion Sort List | Medium | 
 148 | [Sort List](/src/148-sort-list.py) | Medium | Accepted
 149 | Max Points on a Line | Hard | 
