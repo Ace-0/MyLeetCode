@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%---------------------------------------------------} 15.4%   149/965
+{ %%%%%%%%%---------------------------------------------------} 15.8%   153/969
 ```
 
 ID | Title | Difficulty | Status
@@ -964,11 +964,15 @@ ID | Title | Difficulty | Status
 1006 | [Clumsy Factorial](/src/1006-clumsy-factorial.py) | Medium | Accepted
 1007 | [Minimum Domino Rotations For Equal Row](/src/1007-minimum-domino-rotations-for-equal-row.py) | Medium | Accepted
 1008 | [Construct Binary Search Tree from Preorder Traversal](/src/1008-construct-binary-search-tree-from-preorder-traversal.py) | Medium | Accepted
-1012 | Complement of Base 10 Integer | Easy | 
-1013 | Pairs of Songs With Total Durations Divisible by 60 | Easy | 
-1014 | Capacity To Ship Packages Within D Days | Medium | 
-1015 | Numbers With Repeated Digits | Hard | 
-1020 | Partition Array Into Three Parts With Equal Sum | Easy | 
-1021 | Best Sightseeing Pair | Medium | 
-1022 | Smallest Integer Divisible by K | Medium | 
-1023 | Binary String With Substrings Representing 1 To N | Medium | 
+1009 | Complement of Base 10 Integer | Easy | 
+1010 | Pairs of Songs With Total Durations Divisible by 60 | Easy | 
+1011 | Capacity To Ship Packages Within D Days | Medium | 
+1012 | Numbers With Repeated Digits | Hard | 
+1013 | Partition Array Into Three Parts With Equal Sum | Easy | 
+1014 | Best Sightseeing Pair | Medium | 
+1015 | Smallest Integer Divisible by K | Medium | 
+1016 | Binary String With Substrings Representing 1 To N | Medium | 
+1017 | Convert to Base -2 | Medium | Accepted
+1018 | Binary Prefix Divisible By 5 | Easy | Accepted
+1019 | Next Greater Node In Linked List | Medium | Accepted
+1020 | Number of Enclaves | Medium | Accepted
