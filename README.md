@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%---------------------------------------------------} 15.8%   153/969
+{ %%%%%%%%%%--------------------------------------------------} 17.3%   168/969
 ```
 
 ID | Title | Difficulty | Status
@@ -114,7 +114,7 @@ ID | Title | Difficulty | Status
 105 | [Construct Binary Tree from Preorder and Inorder Traversal](/src/105-construct-binary-tree-from-preorder-and-inorder-traversal.py) | Medium | Accepted
 106 | Construct Binary Tree from Inorder and Postorder Traversal | Medium | 
 107 | Binary Tree Level Order Traversal II | Easy | 
-108 | Convert Sorted Array to Binary Search Tree | Easy | 
+108 | [Convert Sorted Array to Binary Search Tree](/src/108-convert-sorted-array-to-binary-search-tree.cpp) | Easy | Accepted
 109 | Convert Sorted List to Binary Search Tree | Medium | 
 110 | Balanced Binary Tree | Easy | 
 111 | Minimum Depth of Binary Tree | Easy | 
@@ -127,9 +127,9 @@ ID | Title | Difficulty | Status
 118 | Pascal's Triangle | Easy | 
 119 | Pascal's Triangle II | Easy | 
 120 | [Triangle](/src/120-triangle.cpp) | Medium | Accepted
-121 | Best Time to Buy and Sell Stock | Easy | Accepted
-122 | Best Time to Buy and Sell Stock II | Easy | 
-123 | Best Time to Buy and Sell Stock III | Hard | 
+121 | [Best Time to Buy and Sell Stock](/src/121-best-time-to-buy-and-sell-stock.cpp) | Easy | Accepted
+122 | [Best Time to Buy and Sell Stock II](/src/122-best-time-to-buy-and-sell-stock-ii.cpp) | Easy | Accepted
+123 | [Best Time to Buy and Sell Stock III](/src/123-best-time-to-buy-and-sell-stock-iii.py) | Hard | 
 124 | [Binary Tree Maximum Path Sum](/src/124-binary-tree-maximum-path-sum.cpp) | Hard | Accepted
 125 | Valid Palindrome | Easy | 
 126 | Word Ladder II | Hard | 
@@ -177,7 +177,7 @@ ID | Title | Difficulty | Status
 168 | Excel Sheet Column Title | Easy | 
 169 | [Majority Element](/src/169-majority-element.py) | Easy | Accepted
 170 | Two Sum III - Data structure design | Easy | 
-171 | Excel Sheet Column Number | Easy | 
+171 | [Excel Sheet Column Number](/src/171-excel-sheet-column-number.py) | Easy | Accepted
 172 | Factorial Trailing Zeroes | Easy | 
 173 | Binary Search Tree Iterator | Medium | 
 174 | Dungeon Game | Hard | 
@@ -207,7 +207,7 @@ ID | Title | Difficulty | Status
 214 | Shortest Palindrome | Hard | 
 215 | [Kth Largest Element in an Array](/src/215-kth-largest-element-in-an-array.py) | Medium | Accepted
 216 | [Combination Sum III](/src/216-combination-sum-iii.py) | Medium | Accepted
-217 | Contains Duplicate | Easy | 
+217 | [Contains Duplicate](/src/217-contains-duplicate.py) | Easy | Accepted
 218 | The Skyline Problem | Hard | 
 219 | Contains Duplicate II | Easy | 
 220 | Contains Duplicate III | Medium | 
@@ -227,12 +227,12 @@ ID | Title | Difficulty | Status
 234 | [Palindrome Linked List](/src/234-palindrome-linked-list.py) | Easy | Accepted
 235 | Lowest Common Ancestor of a Binary Search Tree | Easy | 
 236 | [Lowest Common Ancestor of a Binary Tree](/src/236-lowest-common-ancestor-of-a-binary-tree.py) | Medium | Accepted
-237 | Delete Node in a Linked List | Easy | 
+237 | Delete Node in a Linked List | Easy | Accepted
 238 | [Product of Array Except Self](/src/238-product-of-array-except-self.py) | Medium | Accepted
 239 | [Sliding Window Maximum](/src/239-sliding-window-maximum.py) | Hard | Accepted
 240 | [Search a 2D Matrix II](/src/240-search-a-2d-matrix-ii.cpp) | Medium | Accepted
 241 | Different Ways to Add Parentheses | Medium | 
-242 | Valid Anagram | Easy | 
+242 | [Valid Anagram](/src/242-valid-anagram.cpp) | Easy | Accepted
 243 | Shortest Word Distance | Easy | 
 244 | Shortest Word Distance II | Medium | 
 245 | Shortest Word Distance III | Medium | 
@@ -257,7 +257,7 @@ ID | Title | Difficulty | Status
 265 | Paint House II | Hard | 
 266 | Palindrome Permutation | Easy | 
 267 | Palindrome Permutation II | Medium | 
-268 | Missing Number | Easy | 
+268 | [Missing Number](/src/268-missing-number.cpp) | Easy | Accepted
 269 | Alien Dictionary | Hard | 
 270 | Closest Binary Search Tree Value | Easy | 
 271 | Encode and Decode Strings | Medium | 
@@ -317,7 +317,7 @@ ID | Title | Difficulty | Status
 325 | Maximum Size Subarray Sum Equals k | Medium | 
 326 | Power of Three | Easy | 
 327 | Count of Range Sum | Hard | 
-328 | Odd Even Linked List | Medium | 
+328 | [Odd Even Linked List](/src/328-odd-even-linked-list.cpp) | Medium | Accepted
 329 | Longest Increasing Path in a Matrix | Hard | 
 330 | [Patching Array](/src/330-patching-array.cpp) | Hard | Accepted
 331 | Verify Preorder Serialization of a Binary Tree | Medium | 
@@ -330,7 +330,7 @@ ID | Title | Difficulty | Status
 338 | [Counting Bits](/src/338-counting-bits.py) | Medium | Accepted
 339 | Nested List Weight Sum | Easy | 
 340 | Longest Substring with At Most K Distinct Characters | Hard | 
-341 | Flatten Nested List Iterator | Medium | 
+341 | [Flatten Nested List Iterator](/src/341-flatten-nested-list-iterator.cpp) | Medium | Accepted
 342 | Power of Four | Easy | 
 343 | Integer Break | Medium | 
 344 | [Reverse String](/src/344-reverse-string.py) | Easy | Accepted
@@ -339,7 +339,7 @@ ID | Title | Difficulty | Status
 347 | [Top K Frequent Elements](/src/347-top-k-frequent-elements.py) | Medium | Accepted
 348 | Design Tic-Tac-Toe | Medium | 
 349 | Intersection of Two Arrays | Easy | 
-350 | Intersection of Two Arrays II | Easy | 
+350 | [Intersection of Two Arrays II](/src/350-intersection-of-two-arrays-ii.cpp) | Easy | Accepted
 351 | Android Unlock Patterns | Medium | 
 352 | Data Stream as Disjoint Intervals | Hard | 
 353 | Design Snake Game | Medium | 
@@ -360,23 +360,23 @@ ID | Title | Difficulty | Status
 368 | Largest Divisible Subset | Medium | 
 369 | Plus One Linked List | Medium | 
 370 | Range Addition | Medium | 
-371 | Sum of Two Integers | Easy | 
+371 | [Sum of Two Integers](/src/371-sum-of-two-integers.py) | Easy | Accepted
 372 | Super Pow | Medium | 
 373 | Find K Pairs with Smallest Sums | Medium | 
 374 | Guess Number Higher or Lower | Easy | 
 375 | Guess Number Higher or Lower II | Medium | 
 376 | Wiggle Subsequence | Medium | 
 377 | [Combination Sum IV](/src/377-combination-sum-iv.py) | Medium | Accepted
-378 | Kth Smallest Element in a Sorted Matrix | Medium | 
+378 | [Kth Smallest Element in a Sorted Matrix](/src/378-kth-smallest-element-in-a-sorted-matrix.cpp) | Medium | Accepted
 379 | Design Phone Directory | Medium | 
 380 | Insert Delete GetRandom O(1) | Medium | 
 381 | Insert Delete GetRandom O(1) - Duplicates allowed | Hard | 
 382 | Linked List Random Node | Medium | 
 383 | Ransom Note | Easy | 
-384 | Shuffle an Array | Medium | 
+384 | [Shuffle an Array](/src/384-shuffle-an-array.cpp) | Medium | Accepted
 385 | Mini Parser | Medium | 
 386 | Lexicographical Numbers | Medium | 
-387 | First Unique Character in a String | Easy | 
+387 | [First Unique Character in a String](/src/387-first-unique-character-in-a-string.cpp) | Easy | Accepted
 388 | Longest Absolute File Path | Medium | 
 389 | Find the Difference | Easy | 
 390 | Elimination Game | Medium | 
@@ -443,7 +443,7 @@ ID | Title | Difficulty | Status
 451 | Sort Characters By Frequency | Medium | 
 452 | Minimum Number of Arrows to Burst Balloons | Medium | 
 453 | Minimum Moves to Equal Array Elements | Easy | 
-454 | 4Sum II | Medium | 
+454 | [4Sum II](/src/454-4sum-ii.cpp) | Medium | Accepted
 455 | Assign Cookies | Easy | 
 456 | 132 Pattern | Medium | 
 457 | Circular Array Loop | Medium | 
