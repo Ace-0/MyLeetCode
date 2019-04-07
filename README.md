@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%--------------------------------------------------} 17.3%   168/969
+{ %%%%%%%%%%%-------------------------------------------------} 18.0%   175/973
 ```
 
 ID | Title | Difficulty | Status
@@ -42,7 +42,7 @@ ID | Title | Difficulty | Status
 33 | [Search in Rotated Sorted Array](/src/33-search-in-rotated-sorted-array.py) | Medium | Accepted
 34 | [Find First and Last Position of Element in Sorted Array](/src/34-find-first-and-last-position-of-element-in-sorted-array.py) | Medium | Accepted
 35 | Search Insert Position | Easy | 
-36 | Valid Sudoku | Medium | 
+36 | [Valid Sudoku](/src/36-valid-sudoku.cpp) | Medium | Accepted
 37 | Sudoku Solver | Hard | 
 38 | Count and Say | Easy | 
 39 | [Combination Sum](/src/39-combination-sum.py) | Medium | Accepted
@@ -124,7 +124,7 @@ ID | Title | Difficulty | Status
 115 | Distinct Subsequences | Hard | 
 116 | Populating Next Right Pointers in Each Node | Medium | 
 117 | Populating Next Right Pointers in Each Node II | Medium | 
-118 | Pascal's Triangle | Easy | 
+118 | [Pascal's Triangle](/src/118-pascals-triangle.cpp) | Easy | Accepted
 119 | Pascal's Triangle II | Easy | 
 120 | [Triangle](/src/120-triangle.cpp) | Medium | Accepted
 121 | [Best Time to Buy and Sell Stock](/src/121-best-time-to-buy-and-sell-stock.cpp) | Easy | Accepted
@@ -187,12 +187,12 @@ ID | Title | Difficulty | Status
 188 | Best Time to Buy and Sell Stock IV | Hard | 
 189 | Rotate Array | Easy | 
 190 | Reverse Bits | Easy | 
-191 | Number of 1 Bits | Easy | 
+191 | [Number of 1 Bits](/src/191-number-of-1-bits.cpp) | Easy | Accepted
 198 | [House Robber](/src/198-house-robber.py) | Easy | Accepted
 199 | Binary Tree Right Side View | Medium | 
 200 | [Number of Islands](/src/200-number-of-islands.py) | Medium | Accepted
 201 | Bitwise AND of Numbers Range | Medium | 
-202 | Happy Number | Easy | 
+202 | [Happy Number](/src/202-happy-number.cpp) | Easy | Accepted
 203 | Remove Linked List Elements | Easy | 
 204 | Count Primes | Easy | 
 205 | Isomorphic Strings | Easy | 
@@ -278,7 +278,7 @@ ID | Title | Difficulty | Status
 286 | Walls and Gates | Medium | 
 287 | [Find the Duplicate Number](/src/287-find-the-duplicate-number.py) | Medium | Accepted
 288 | Unique Word Abbreviation | Medium | 
-289 | Game of Life | Medium | 
+289 | [Game of Life](/src/289-game-of-life.cpp) | Medium | Accepted
 290 | Word Pattern | Easy | 
 291 | Word Pattern II | Hard | 
 292 | Nim Game | Easy | 
@@ -315,7 +315,7 @@ ID | Title | Difficulty | Status
 323 | Number of Connected Components in an Undirected Graph | Medium | 
 324 | Wiggle Sort II | Medium | 
 325 | Maximum Size Subarray Sum Equals k | Medium | 
-326 | Power of Three | Easy | 
+326 | [Power of Three](/src/326-power-of-three.cpp) | Easy | Accepted
 327 | Count of Range Sum | Hard | 
 328 | [Odd Even Linked List](/src/328-odd-even-linked-list.cpp) | Medium | Accepted
 329 | Longest Increasing Path in a Matrix | Hard | 
@@ -369,7 +369,7 @@ ID | Title | Difficulty | Status
 377 | [Combination Sum IV](/src/377-combination-sum-iv.py) | Medium | Accepted
 378 | [Kth Smallest Element in a Sorted Matrix](/src/378-kth-smallest-element-in-a-sorted-matrix.cpp) | Medium | Accepted
 379 | Design Phone Directory | Medium | 
-380 | Insert Delete GetRandom O(1) | Medium | 
+380 | [Insert Delete GetRandom O(1)](/src/380-insert-delete-getrandom-o1.cpp) | Medium | Accepted
 381 | Insert Delete GetRandom O(1) - Duplicates allowed | Hard | 
 382 | Linked List Random Node | Medium | 
 383 | Ransom Note | Easy | 
@@ -976,3 +976,7 @@ ID | Title | Difficulty | Status
 1018 | Binary Prefix Divisible By 5 | Easy | Accepted
 1019 | Next Greater Node In Linked List | Medium | Accepted
 1020 | Number of Enclaves | Medium | Accepted
+1021 | Remove Outermost Parentheses | Easy | 
+1022 | Sum of Root To Leaf Binary Numbers | Easy | 
+1023 | Camelcase Matching | Medium | 
+1024 | Video Stitching | Medium | 
