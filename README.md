@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%-------------------------------------------------} 18.0%   175/973
+{ %%%%%%%%%%%-------------------------------------------------} 18.3%   178/973
 ```
 
 ID | Title | Difficulty | Status
@@ -109,7 +109,7 @@ ID | Title | Difficulty | Status
 100 | [Same Tree](/src/100-same-tree.py) | Easy | Accepted
 101 | [Symmetric Tree](/src/101-symmetric-tree.py) | Easy | Accepted
 102 | [Binary Tree Level Order Traversal](/src/102-binary-tree-level-order-traversal.py) | Medium | Accepted
-103 | Binary Tree Zigzag Level Order Traversal | Medium | 
+103 | [Binary Tree Zigzag Level Order Traversal](/src/103-binary-tree-zigzag-level-order-traversal.cpp) | Medium | Accepted
 104 | [Maximum Depth of Binary Tree](/src/104-maximum-depth-of-binary-tree.py) | Easy | Accepted
 105 | [Construct Binary Tree from Preorder and Inorder Traversal](/src/105-construct-binary-tree-from-preorder-and-inorder-traversal.py) | Medium | Accepted
 106 | Construct Binary Tree from Inorder and Postorder Traversal | Medium | 
@@ -134,7 +134,7 @@ ID | Title | Difficulty | Status
 125 | Valid Palindrome | Easy | 
 126 | Word Ladder II | Hard | 
 127 | Word Ladder | Medium | 
-128 | Longest Consecutive Sequence | Hard | Accepted
+128 | [Longest Consecutive Sequence](/src/128-longest-consecutive-sequence.cpp) | Hard | Accepted
 129 | Sum Root to Leaf Numbers | Medium | 
 130 | Surrounded Regions | Medium | 
 131 | Palindrome Partitioning | Medium | 
@@ -168,7 +168,7 @@ ID | Title | Difficulty | Status
 159 | Longest Substring with At Most Two Distinct Characters | Hard | 
 160 | [Intersection of Two Linked Lists](/src/160-intersection-of-two-linked-lists.cpp) | Easy | Accepted
 161 | One Edit Distance | Medium | 
-162 | Find Peak Element | Medium | 
+162 | [Find Peak Element](/src/162-find-peak-element.cpp) | Medium | Accepted
 163 | Missing Ranges | Medium | 
 164 | Maximum Gap | Hard | 
 165 | Compare Version Numbers | Medium | 
@@ -660,7 +660,7 @@ ID | Title | Difficulty | Status
 701 | Insert into a Binary Search Tree | Medium | 
 702 | Search in a Sorted Array of Unknown Size | Medium | 
 703 | Kth Largest Element in a Stream | Easy | 
-704 | Binary Search | Easy | 
+704 | [Binary Search](/src/704-binary-search.cpp) | Easy | Accepted
 705 | Design HashSet | Easy | 
 706 | Design HashMap | Easy | 
 707 | Design Linked List | Easy | 
