@@ -27,15 +27,15 @@ public:
 	}
 };
 
-int main() {
-	Solution s = Solution();
-
-	vector<string> testcase = { "flower","flow","flight" };
-	
-	string ans = s.longestCommonPrefix(testcase);
-
-	cout << ans << endl;
-
-	system("pause");
-	return 0;
-}
+//int main() {
+//	Solution s = Solution();
+//
+//	vector<string> testcase = { "flower","flow","flight" };
+//	
+//	string ans = s.longestCommonPrefix(testcase);
+//
+//	cout << ans << endl;
+//
+//	system("pause");
+//	return 0;
+//}

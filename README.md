@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%-------------------------------------------------} 18.3%   178/973
+{ %%%%%%%%%%%-------------------------------------------------} 19.0%   185/973
 ```
 
 ID | Title | Difficulty | Status
@@ -11,7 +11,7 @@ ID | Title | Difficulty | Status
 2 | Add Two Numbers | Medium | Accepted
 3 | [Longest Substring Without Repeating Characters](/src/3-longest-substring-without-repeating-characters.cpp) | Medium | Accepted
 4 | [Median of Two Sorted Arrays](/src/4-median-of-two-sorted-arrays.cpp) | Hard | Accepted
-5 | Longest Palindromic Substring | Medium | Accepted
+5 | [Longest Palindromic Substring](/src/5-longest-palindromic-substring.cpp) | Medium | Accepted
 6 | ZigZag Conversion | Medium | 
 7 | Reverse Integer | Easy | Accepted
 8 | [String to Integer (atoi)](/src/8-string-to-integer.py) | Medium | 
@@ -20,7 +20,7 @@ ID | Title | Difficulty | Status
 11 | Container With Most Water | Medium | Accepted
 12 | Integer to Roman | Medium | 
 13 | Roman to Integer | Easy | Accepted
-14 | Longest Common Prefix | Easy | Accepted
+14 | [Longest Common Prefix](/src/14-longest-common-prefix.cpp) | Easy | Accepted
 15 | [3Sum](/src/15-3Sum.cpp) | Medium | Accepted
 16 | 3Sum Closest | Medium | 
 17 | Letter Combinations of a Phone Number | Medium | Accepted
@@ -32,7 +32,7 @@ ID | Title | Difficulty | Status
 23 | [Merge k Sorted Lists](/src/23-merge-k-sorted-lists.py) | Hard | Accepted
 24 | Swap Nodes in Pairs | Medium | 
 25 | Reverse Nodes in k-Group | Hard | 
-26 | Remove Duplicates from Sorted Array | Easy | 
+26 | [Remove Duplicates from Sorted Array](/src/26-remove-duplicates-from-sorted-array.cpp) | Easy | Accepted
 27 | Remove Element | Easy | 
 28 | Implement strStr() | Easy | Accepted
 29 | Divide Two Integers | Medium | 
@@ -44,7 +44,7 @@ ID | Title | Difficulty | Status
 35 | Search Insert Position | Easy | 
 36 | [Valid Sudoku](/src/36-valid-sudoku.cpp) | Medium | Accepted
 37 | Sudoku Solver | Hard | 
-38 | Count and Say | Easy | 
+38 | [Count and Say](/src/38-count-and-say.cpp) | Easy | Accepted
 39 | [Combination Sum](/src/39-combination-sum.py) | Medium | Accepted
 40 | [Combination Sum II](/src/40-combination-sum-ii.py) | Medium | Accepted
 41 | First Missing Positive | Hard | Accepted
@@ -72,13 +72,13 @@ ID | Title | Difficulty | Status
 63 | Unique Paths II | Medium | Accepted
 64 | [Minimum Path Sum](/src/64-minimum-path-sum.py) | Medium | Accepted
 65 | Valid Number | Hard | 
-66 | Plus One | Easy | 
+66 | [Plus One](/src/66-plus-one.cpp) | Easy | Accepted
 67 | Add Binary | Easy | 
 68 | Text Justification | Hard | 
 69 | Sqrt(x) | Easy | 
 70 | [Climbing Stairs](/src/70-climbing-stairs.py) | Easy | Accepted
 71 | Simplify Path | Medium | 
-72 | Edit Distance | Hard | Accepted
+72 | [Edit Distance](/src/72-edit-distance.cpp) | Hard | Accepted
 73 | Set Matrix Zeroes | Medium | 
 74 | Search a 2D Matrix | Medium | 
 75 | Sort Colors | Medium | Accepted
@@ -137,7 +137,7 @@ ID | Title | Difficulty | Status
 128 | [Longest Consecutive Sequence](/src/128-longest-consecutive-sequence.cpp) | Hard | Accepted
 129 | Sum Root to Leaf Numbers | Medium | 
 130 | Surrounded Regions | Medium | 
-131 | Palindrome Partitioning | Medium | 
+131 | [Palindrome Partitioning](/src/131-palindrome-partitioning.cpp) | Medium | Accepted
 132 | Palindrome Partitioning II | Hard | 
 133 | [Clone Graph](/src/133-clone-graph.cpp) | Medium | Accepted
 134 | Gas Station | Medium | 
@@ -289,7 +289,7 @@ ID | Title | Difficulty | Status
 297 | [Serialize and Deserialize Binary Tree](/src/297-serialize-and-deserialize-binary-tree.py) | Hard | Accepted
 298 | Binary Tree Longest Consecutive Sequence | Medium | 
 299 | [Bulls and Cows](/src/299-bulls-and-cows.cpp) | Medium | Accepted
-300 | Longest Increasing Subsequence | Medium | Accepted
+300 | [Longest Increasing Subsequence](/src/300-longest-increasing-subsequence.cpp) | Medium | Accepted
 301 | [Remove Invalid Parentheses](/src/301-remove-invalid-parentheses.py) | Hard | Accepted
 302 | Smallest Rectangle Enclosing Black Pixels | Hard | 
 303 | Range Sum Query - Immutable | Easy | 
@@ -318,12 +318,12 @@ ID | Title | Difficulty | Status
 326 | [Power of Three](/src/326-power-of-three.cpp) | Easy | Accepted
 327 | Count of Range Sum | Hard | 
 328 | [Odd Even Linked List](/src/328-odd-even-linked-list.cpp) | Medium | Accepted
-329 | Longest Increasing Path in a Matrix | Hard | 
+329 | [Longest Increasing Path in a Matrix](/src/329-longest-increasing-path-in-a-matrix.cpp) | Hard | Accepted
 330 | [Patching Array](/src/330-patching-array.cpp) | Hard | Accepted
 331 | Verify Preorder Serialization of a Binary Tree | Medium | 
 332 | Reconstruct Itinerary | Medium | 
 333 | Largest BST Subtree | Medium | 
-334 | Increasing Triplet Subsequence | Medium | 
+334 | [Increasing Triplet Subsequence](/src/334-increasing-triplet-subsequence.cpp) | Medium | Accepted
 335 | Self Crossing | Hard | 
 336 | Palindrome Pairs | Hard | 
 337 | [House Robber III](/src/337-house-robber-iii.py) | Medium | Accepted
@@ -503,7 +503,7 @@ ID | Title | Difficulty | Status
 513 | Find Bottom Left Tree Value | Medium | 
 514 | Freedom Trail | Hard | 
 515 | Find Largest Value in Each Tree Row | Medium | 
-516 | Longest Palindromic Subsequence | Medium | 
+516 | [Longest Palindromic Subsequence](/src/516-longest-palindromic-subsequence.cpp) | Medium | Accepted
 517 | Super Washing Machines | Hard | 
 518 | Coin Change 2 | Medium | 
 519 | Random Flip Matrix | Medium | 
