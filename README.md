@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%-------------------------------------------------} 19.0%   185/973
+{ %%%%%%%%%%%%------------------------------------------------} 19.8%   193/977
 ```
 
 ID | Title | Difficulty | Status
@@ -79,7 +79,7 @@ ID | Title | Difficulty | Status
 70 | [Climbing Stairs](/src/70-climbing-stairs.py) | Easy | Accepted
 71 | Simplify Path | Medium | 
 72 | [Edit Distance](/src/72-edit-distance.cpp) | Hard | Accepted
-73 | Set Matrix Zeroes | Medium | 
+73 | [Set Matrix Zeroes](/src/73-set-matrix-zeroes.cpp) | Medium | Accepted
 74 | Search a 2D Matrix | Medium | 
 75 | Sort Colors | Medium | Accepted
 76 | Minimum Window Substring | Hard | Accepted
@@ -94,13 +94,13 @@ ID | Title | Difficulty | Status
 85 | [Maximal Rectangle](/src/85-maximal-rectangle.cpp) | Hard | Accepted
 86 | Partition List | Medium | 
 87 | Scramble String | Hard | Accepted
-88 | Merge Sorted Array | Easy | 
+88 | [Merge Sorted Array](/src/88-merge-sorted-array.cpp) | Easy | Accepted
 89 | Gray Code | Medium | 
 90 | Subsets II | Medium | 
 91 | Decode Ways | Medium | 
 92 | Reverse Linked List II | Medium | 
 93 | Restore IP Addresses | Medium | 
-94 | Binary Tree Inorder Traversal | Medium | Accepted
+94 | [Binary Tree Inorder Traversal](/src/94-binary-tree-inorder-traversal.cpp) | Medium | Accepted
 95 | Unique Binary Search Trees II | Medium | 
 96 | [Unique Binary Search Trees](/src/96-unique-binary-search-trees.py) | Medium | Accepted
 97 | Interleaving String | Hard | 
@@ -178,7 +178,7 @@ ID | Title | Difficulty | Status
 169 | [Majority Element](/src/169-majority-element.py) | Easy | Accepted
 170 | Two Sum III - Data structure design | Easy | 
 171 | [Excel Sheet Column Number](/src/171-excel-sheet-column-number.py) | Easy | Accepted
-172 | Factorial Trailing Zeroes | Easy | 
+172 | [Factorial Trailing Zeroes](/src/172-factorial-trailing-zeroes.cpp) | Easy | Accepted
 173 | Binary Search Tree Iterator | Medium | 
 174 | Dungeon Game | Hard | 
 179 | Largest Number | Medium | Accepted
@@ -384,7 +384,7 @@ ID | Title | Difficulty | Status
 392 | Is Subsequence | Medium | 
 393 | UTF-8 Validation | Medium | 
 394 | [Decode String](/src/394-decode-string.py) | Medium | Accepted
-395 | Longest Substring with At Least K Repeating Characters | Medium | 
+395 | [Longest Substring with At Least K Repeating Characters](/src/395-longest-substring-with-at-least-k-repeating-characters.cpp) | Medium | Accepted
 396 | Rotate Function | Medium | 
 397 | Integer Replacement | Medium | 
 398 | Random Pick Index | Medium | 
@@ -980,3 +980,7 @@ ID | Title | Difficulty | Status
 1022 | Sum of Root To Leaf Binary Numbers | Easy | 
 1023 | Camelcase Matching | Medium | 
 1024 | Video Stitching | Medium | 
+1025 | [Divisor Game](/src/1025-divisor-game.cpp) | Easy | Accepted
+1026 | [Maximum Difference Between Node and Ancestor](/src/1026-maximum-difference-between-node-and-ancestor.cpp) | Medium | Accepted
+1027 | [Longest Arithmetic Sequence](/src/1027-longest-arithmetic-sequence.cpp) | Medium | Accepted
+1028 | [Recover a Tree From Preorder Traversal](/src/1028-recover-a-tree-from-preorder-traversal.cpp) | Hard | Accepted
