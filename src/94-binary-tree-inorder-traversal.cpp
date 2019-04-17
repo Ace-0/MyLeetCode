@@ -38,25 +38,23 @@ public:
 	}
 };
 
-// recursive
-class Solution {
-public:
-	vector<int> inorderTraversal(TreeNode* root) {
-		vector<int> vec;
-		traverse(root, vec);
-		return vec;
-	}
-
-private:
-	void traverse(TreeNode* root, vector<int>& vec) {
-		if (root) {
-			if (root->left)
-				traverse(root->left, vec);
-			vec.push_back(root->val);
-			if (root->right)
-				traverse(root->right, vec);
-		}
-	}
-};
-
-
+//// recursive
+//class Solution {
+//public:
+//	vector<int> inorderTraversal(TreeNode* root) {
+//		vector<int> vec;
+//		traverse(root, vec);
+//		return vec;
+//	}
+//
+//private:
+//	void traverse(TreeNode* root, vector<int>& vec) {
+//		if (root) {
+//			if (root->left)
+//				traverse(root->left, vec);
+//			vec.push_back(root->val);
+//			if (root->right)
+//				traverse(root->right, vec);
+//		}
+//	}
+//};

@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%------------------------------------------------} 19.8%   193/977
+{ %%%%%%%%%%%%------------------------------------------------} 20.1%   197/978
 ```
 
 ID | Title | Difficulty | Status
@@ -122,7 +122,7 @@ ID | Title | Difficulty | Status
 113 | Path Sum II | Medium | 
 114 | [Flatten Binary Tree to Linked List](/src/114-flatten-binary-tree-to-linked-list.py) | Medium | Accepted
 115 | Distinct Subsequences | Hard | 
-116 | Populating Next Right Pointers in Each Node | Medium | 
+116 | [Populating Next Right Pointers in Each Node](/src/116-populating-next-right-pointers-in-each-node.cpp) | Medium | Accepted
 117 | Populating Next Right Pointers in Each Node II | Medium | 
 118 | [Pascal's Triangle](/src/118-pascals-triangle.cpp) | Easy | Accepted
 119 | Pascal's Triangle II | Easy | 
@@ -284,7 +284,7 @@ ID | Title | Difficulty | Status
 292 | Nim Game | Easy | 
 293 | Flip Game | Easy | 
 294 | Flip Game II | Medium | 
-295 | Find Median from Data Stream | Hard | 
+295 | [Find Median from Data Stream](/src/295-find-median-from-data-stream.cpp) | Hard | Accepted
 296 | Best Meeting Point | Hard | 
 297 | [Serialize and Deserialize Binary Tree](/src/297-serialize-and-deserialize-binary-tree.py) | Hard | Accepted
 298 | Binary Tree Longest Consecutive Sequence | Medium | 
@@ -304,7 +304,7 @@ ID | Title | Difficulty | Status
 312 | [Burst Balloons](/src/312-burst-balloons.cpp) | Hard | Accepted
 313 | Super Ugly Number | Medium | 
 314 | Binary Tree Vertical Order Traversal | Medium | 
-315 | Count of Smaller Numbers After Self | Hard | 
+315 | [Count of Smaller Numbers After Self](/src/315-count-of-smaller-numbers-after-self.cpp) | Hard | Accepted
 316 | [Remove Duplicate Letters](/src/316-remove-duplicate-letters.cpp) | Hard | Accepted
 317 | Shortest Distance from All Buildings | Hard | 
 318 | Maximum Product of Word Lengths | Medium | 
@@ -757,7 +757,7 @@ ID | Title | Difficulty | Status
 798 | Smallest Rotation with Highest Score | Hard | 
 799 | Champagne Tower | Medium | 
 800 | Similar RGB Color | Easy | Accepted
-801 | Minimum Swaps To Make Sequences Increasing | Medium | 
+801 | [Minimum Swaps To Make Sequences Increasing](/src/801-minimum-swaps-to-make-sequences-increasing.cpp) | Medium | Accepted
 802 | [Find Eventual Safe States](/src/802-find-eventual-safe-states.py) | Medium | Accepted
 803 | Bricks Falling When Hit | Hard | 
 804 | Unique Morse Code Words | Easy | Accepted
@@ -868,6 +868,7 @@ ID | Title | Difficulty | Status
 909 | Snakes and Ladders | Medium | 
 910 | Smallest Range II | Medium | 
 911 | Online Election | Medium | 
+912 | Sort an Array | Medium | 
 913 | Cat and Mouse | Hard | 
 914 | X of a Kind in a Deck of Cards | Easy | 
 915 | Partition Array into Disjoint Intervals | Medium | 
