@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%------------------------------------------------} 20.1%   197/978
+{ %%%%%%%%%%%%------------------------------------------------} 20.7%   202/978
 ```
 
 ID | Title | Difficulty | Status
@@ -75,7 +75,7 @@ ID | Title | Difficulty | Status
 66 | [Plus One](/src/66-plus-one.cpp) | Easy | Accepted
 67 | Add Binary | Easy | 
 68 | Text Justification | Hard | 
-69 | Sqrt(x) | Easy | 
+69 | [Sqrt(x)](/src/69-sqrtx.cpp) | Easy | Accepted
 70 | [Climbing Stairs](/src/70-climbing-stairs.py) | Easy | Accepted
 71 | Simplify Path | Medium | 
 72 | [Edit Distance](/src/72-edit-distance.cpp) | Hard | Accepted
@@ -140,7 +140,7 @@ ID | Title | Difficulty | Status
 131 | [Palindrome Partitioning](/src/131-palindrome-partitioning.cpp) | Medium | Accepted
 132 | Palindrome Partitioning II | Hard | 
 133 | [Clone Graph](/src/133-clone-graph.cpp) | Medium | Accepted
-134 | Gas Station | Medium | 
+134 | [Gas Station](/src/134-gas-station.cpp) | Medium | Accepted
 135 | Candy | Hard | 
 136 | [Single Number](/src/136-single-number.py) | Easy | Accepted
 137 | Single Number II | Medium | 
@@ -156,7 +156,7 @@ ID | Title | Difficulty | Status
 147 | Insertion Sort List | Medium | 
 148 | [Sort List](/src/148-sort-list.py) | Medium | Accepted
 149 | Max Points on a Line | Hard | 
-150 | Evaluate Reverse Polish Notation | Medium | 
+150 | [Evaluate Reverse Polish Notation](/src/150-evaluate-reverse-polish-notation.cpp) | Medium | Accepted
 151 | Reverse Words in a String | Medium | 
 152 | [Maximum Product Subarray](/src/152-maximum-product-subarray.cpp) | Medium | Accepted
 153 | Find Minimum in Rotated Sorted Array | Medium | 
@@ -214,10 +214,10 @@ ID | Title | Difficulty | Status
 221 | [Maximal Square](/src/221-maximal-square.cpp) | Medium | Accepted
 222 | Count Complete Tree Nodes | Medium | 
 223 | Rectangle Area | Medium | 
-224 | Basic Calculator | Hard | 
+224 | [Basic Calculator](/src/224-basic-calculator.cpp) | Hard | Accepted
 225 | Implement Stack using Queues | Easy | 
 226 | [Invert Binary Tree](/src/226-invert-binary-tree.py) | Easy | Accepted
-227 | Basic Calculator II | Medium | 
+227 | [Basic Calculator II](/src/227-basic-calculator-ii.cpp) | Medium | Accepted
 228 | Summary Ranges | Medium | 
 229 | Majority Element II | Medium | 
 230 | Kth Smallest Element in a BST | Medium | Accepted
