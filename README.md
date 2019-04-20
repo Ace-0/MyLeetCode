@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%------------------------------------------------} 20.7%   202/978
+{ %%%%%%%%%%%%%-----------------------------------------------} 21.4%   209/978
 ```
 
 ID | Title | Difficulty | Status
@@ -56,11 +56,11 @@ ID | Title | Difficulty | Status
 47 | Permutations II | Medium | 
 48 | [Rotate Image](/src/48-rotate-image.py) | Medium | Accepted
 49 | [Group Anagrams](/src/49-group-anagrams.py) | Medium | Accepted
-50 | Pow(x, n) | Medium | 
+50 | [Pow(x, n)](/src/50-powx-n.cpp) | Medium | Accepted
 51 | N-Queens | Hard | 
 52 | N-Queens II | Hard | 
 53 | [Maximum Subarray](/src/53-maximum-subarray.py) | Easy | Accepted
-54 | Spiral Matrix | Medium | 
+54 | [Spiral Matrix](/src/54-spiral-matrix.cpp) | Medium | Accepted
 55 | [Jump Game](/src/55-jump-game.cpp) | Medium | Accepted
 56 | [Merge Intervals](/src/56-merge-intervals.cpp) | Medium | Accepted
 57 | Insert Interval | Hard | 
@@ -131,7 +131,7 @@ ID | Title | Difficulty | Status
 122 | [Best Time to Buy and Sell Stock II](/src/122-best-time-to-buy-and-sell-stock-ii.cpp) | Easy | Accepted
 123 | [Best Time to Buy and Sell Stock III](/src/123-best-time-to-buy-and-sell-stock-iii.py) | Hard | 
 124 | [Binary Tree Maximum Path Sum](/src/124-binary-tree-maximum-path-sum.cpp) | Hard | Accepted
-125 | Valid Palindrome | Easy | 
+125 | [Valid Palindrome](/src/125-valid-palindrome.cpp) | Easy | Accepted
 126 | Word Ladder II | Hard | 
 127 | Word Ladder | Medium | 
 128 | [Longest Consecutive Sequence](/src/128-longest-consecutive-sequence.cpp) | Hard | Accepted
@@ -185,8 +185,8 @@ ID | Title | Difficulty | Status
 186 | Reverse Words in a String II | Medium | 
 187 | Repeated DNA Sequences | Medium | 
 188 | Best Time to Buy and Sell Stock IV | Hard | 
-189 | Rotate Array | Easy | 
-190 | Reverse Bits | Easy | 
+189 | [Rotate Array](/src/189-rotate-array.cpp) | Easy | Accepted
+190 | [Reverse Bits](/src/190-reverse-bits.cpp) | Easy | Accepted
 191 | [Number of 1 Bits](/src/191-number-of-1-bits.cpp) | Easy | Accepted
 198 | [House Robber](/src/198-house-robber.py) | Easy | Accepted
 199 | Binary Tree Right Side View | Medium | 
@@ -194,7 +194,7 @@ ID | Title | Difficulty | Status
 201 | Bitwise AND of Numbers Range | Medium | 
 202 | [Happy Number](/src/202-happy-number.cpp) | Easy | Accepted
 203 | Remove Linked List Elements | Easy | 
-204 | Count Primes | Easy | 
+204 | [Count Primes](/src/204-count-primes.cpp) | Easy | Accepted
 205 | Isomorphic Strings | Easy | 
 206 | [Reverse Linked List](/src/206-reverse-linked-list.py) | Easy | Accepted
 207 | [Course Schedule](/src/207-course-schedule.cpp) | Medium | Accepted
@@ -202,13 +202,13 @@ ID | Title | Difficulty | Status
 209 | Minimum Size Subarray Sum | Medium | 
 210 | Course Schedule II | Medium | Accepted
 211 | Add and Search Word - Data structure design | Medium | 
-212 | Word Search II | Hard | 
+212 | [Word Search II](/src/212-word-search-ii.cpp) | Hard | Accepted
 213 | [House Robber II](/src/213-house-robber-ii.py) | Medium | Accepted
 214 | Shortest Palindrome | Hard | 
 215 | [Kth Largest Element in an Array](/src/215-kth-largest-element-in-an-array.py) | Medium | Accepted
 216 | [Combination Sum III](/src/216-combination-sum-iii.py) | Medium | Accepted
 217 | [Contains Duplicate](/src/217-contains-duplicate.py) | Easy | Accepted
-218 | The Skyline Problem | Hard | 
+218 | [The Skyline Problem](/src/218-the-skyline-problem.cpp) | Hard | 
 219 | Contains Duplicate II | Easy | 
 220 | Contains Duplicate III | Medium | 
 221 | [Maximal Square](/src/221-maximal-square.cpp) | Medium | Accepted
