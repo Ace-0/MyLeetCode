@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%-----------------------------------------------} 21.4%   209/978
+{ %%%%%%%%%%%%%-----------------------------------------------} 21.7%   213/982
 ```
 
 ID | Title | Difficulty | Status
@@ -133,7 +133,7 @@ ID | Title | Difficulty | Status
 124 | [Binary Tree Maximum Path Sum](/src/124-binary-tree-maximum-path-sum.cpp) | Hard | Accepted
 125 | [Valid Palindrome](/src/125-valid-palindrome.cpp) | Easy | Accepted
 126 | Word Ladder II | Hard | 
-127 | Word Ladder | Medium | 
+127 | [Word Ladder](/src/127-word-ladder.cpp) | Medium | Accepted
 128 | [Longest Consecutive Sequence](/src/128-longest-consecutive-sequence.cpp) | Hard | Accepted
 129 | Sum Root to Leaf Numbers | Medium | 
 130 | Surrounded Regions | Medium | 
@@ -144,9 +144,9 @@ ID | Title | Difficulty | Status
 135 | Candy | Hard | 
 136 | [Single Number](/src/136-single-number.py) | Easy | Accepted
 137 | Single Number II | Medium | 
-138 | Copy List with Random Pointer | Medium | 
+138 | [Copy List with Random Pointer](/src/138-copy-list-with-random-pointer.cpp) | Medium | Accepted
 139 | [Word Break](/src/139-word-break.py) | Medium | Accepted
-140 | Word Break II | Hard | 
+140 | [Word Break II](/src/140-word-break-ii.cpp) | Hard | Accepted
 141 | [Linked List Cycle](/src/141-linked-list-cycle.py) | Easy | Accepted
 142 | [Linked List Cycle II](/src/142-linked-list-cycle-II.cpp) | Medium | Accepted
 143 | Reorder List | Medium | 
@@ -313,7 +313,7 @@ ID | Title | Difficulty | Status
 321 | Create Maximum Number | Hard | 
 322 | Coin Change | Medium | Accepted
 323 | Number of Connected Components in an Undirected Graph | Medium | 
-324 | Wiggle Sort II | Medium | 
+324 | [Wiggle Sort II](/src/324-wiggle-sort-ii.cpp) | Medium | Accepted
 325 | Maximum Size Subarray Sum Equals k | Medium | 
 326 | [Power of Three](/src/326-power-of-three.cpp) | Easy | Accepted
 327 | Count of Range Sum | Hard | 
@@ -985,3 +985,7 @@ ID | Title | Difficulty | Status
 1026 | [Maximum Difference Between Node and Ancestor](/src/1026-maximum-difference-between-node-and-ancestor.cpp) | Medium | Accepted
 1027 | [Longest Arithmetic Sequence](/src/1027-longest-arithmetic-sequence.cpp) | Medium | Accepted
 1028 | [Recover a Tree From Preorder Traversal](/src/1028-recover-a-tree-from-preorder-traversal.cpp) | Hard | Accepted
+1029 | [Two City Scheduling](/src/1029-binary-prefix-divisible-by-5.py) | Easy | 
+1030 | [Matrix Cells in Distance Order](/src/1030-next-greater-node-in-linked-list.py) | Easy | 
+1031 | [Maximum Sum of Two Non-Overlapping Subarrays](/src/1031-number-of-enclaves.py) | Medium | 
+1032 | Stream of Characters | Hard | 
