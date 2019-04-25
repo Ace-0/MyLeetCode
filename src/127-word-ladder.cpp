@@ -44,16 +44,16 @@ public:
 	}
 };
 
-int main() {
-	Solution s = Solution();
-
-	string beginWord = "hit", endWord = "cog";
-	vector<string> wordList = { "hot","dot","dog","lot","log","cog" };
-
-	int ans = s.ladderLength(beginWord, endWord, wordList);
-
-	cout << ans << endl;
-
-	system("pause");
-	return 0;
-}
+//int main() {
+//	Solution s = Solution();
+//
+//	string beginWord = "hit", endWord = "cog";
+//	vector<string> wordList = { "hot","dot","dog","lot","log","cog" };
+//
+//	int ans = s.ladderLength(beginWord, endWord, wordList);
+//
+//	cout << ans << endl;
+//
+//	system("pause");
+//	return 0;
+//}

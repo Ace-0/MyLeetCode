@@ -2,13 +2,13 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%-----------------------------------------------} 21.7%   213/982
+{ %%%%%%%%%%%%%%----------------------------------------------} 23.1%   227/982
 ```
 
 ID | Title | Difficulty | Status
 -|-|-|-
 1 | [Two Sum](/src/1-two-sum.py) | Easy | Accepted
-2 | Add Two Numbers | Medium | Accepted
+2 | [Add Two Numbers](/src/2-add-two-numbers.cpp) | Medium | Accepted
 3 | [Longest Substring Without Repeating Characters](/src/3-longest-substring-without-repeating-characters.cpp) | Medium | Accepted
 4 | [Median of Two Sorted Arrays](/src/4-median-of-two-sorted-arrays.cpp) | Hard | Accepted
 5 | [Longest Palindromic Substring](/src/5-longest-palindromic-substring.cpp) | Medium | Accepted
@@ -30,12 +30,12 @@ ID | Title | Difficulty | Status
 21 | Merge Two Sorted Lists | Easy | Accepted
 22 | Generate Parentheses | Medium | Accepted
 23 | [Merge k Sorted Lists](/src/23-merge-k-sorted-lists.py) | Hard | Accepted
-24 | Swap Nodes in Pairs | Medium | 
+24 | [Swap Nodes in Pairs](/src/24-swap-nodes-in-pairs.cpp) | Medium | Accepted
 25 | Reverse Nodes in k-Group | Hard | 
 26 | [Remove Duplicates from Sorted Array](/src/26-remove-duplicates-from-sorted-array.cpp) | Easy | Accepted
 27 | Remove Element | Easy | 
 28 | Implement strStr() | Easy | Accepted
-29 | Divide Two Integers | Medium | 
+29 | [Divide Two Integers](/src/29-divide-two-integers.cpp) | Medium | Accepted
 30 | Substring with Concatenation of All Words | Hard | 
 31 | [Next Permutation](/src/31-next-permutation.cpp) | Medium | Accepted
 32 | [Longest Valid Parentheses](/src/32-longest-valid-parentheses.cpp) | Hard | Accepted
@@ -50,7 +50,7 @@ ID | Title | Difficulty | Status
 41 | First Missing Positive | Hard | Accepted
 42 | [Trapping Rain Water](/src/42-trapping-rain-water.py) | Hard | Accepted
 43 | Multiply Strings | Medium | 
-44 | Wildcard Matching | Hard | 
+44 | [Wildcard Matching](/src/44-wildcard-matching.cpp) | Hard | Accepted
 45 | Jump Game II | Hard | 
 46 | [Permutations](/src/46-permutations.py) | Medium | Accepted
 47 | Permutations II | Medium | 
@@ -89,7 +89,7 @@ ID | Title | Difficulty | Status
 80 | Remove Duplicates from Sorted Array II | Medium | 
 81 | Search in Rotated Sorted Array II | Medium | 
 82 | Remove Duplicates from Sorted List II | Medium | 
-83 | Remove Duplicates from Sorted List | Easy | 
+83 | [Remove Duplicates from Sorted List](/src/83-remove-duplicates-from-sorted-list.cpp) | Easy | Accepted
 84 | [Largest Rectangle in Histogram](/src/84-largest-rectangle-in-histogram.py) | Hard | Accepted
 85 | [Maximal Rectangle](/src/85-maximal-rectangle.cpp) | Hard | Accepted
 86 | Partition List | Medium | 
@@ -97,7 +97,7 @@ ID | Title | Difficulty | Status
 88 | [Merge Sorted Array](/src/88-merge-sorted-array.cpp) | Easy | Accepted
 89 | Gray Code | Medium | 
 90 | Subsets II | Medium | 
-91 | Decode Ways | Medium | 
+91 | [Decode Ways](/src/91-decode-ways.cpp) | Medium | Accepted
 92 | Reverse Linked List II | Medium | 
 93 | Restore IP Addresses | Medium | 
 94 | [Binary Tree Inorder Traversal](/src/94-binary-tree-inorder-traversal.cpp) | Medium | Accepted
@@ -115,7 +115,7 @@ ID | Title | Difficulty | Status
 106 | Construct Binary Tree from Inorder and Postorder Traversal | Medium | 
 107 | Binary Tree Level Order Traversal II | Easy | 
 108 | [Convert Sorted Array to Binary Search Tree](/src/108-convert-sorted-array-to-binary-search-tree.cpp) | Easy | Accepted
-109 | Convert Sorted List to Binary Search Tree | Medium | 
+109 | [Convert Sorted List to Binary Search Tree](/src/109-convert-sorted-list-to-binary-search-tree.cpp) | Medium | Accepted
 110 | Balanced Binary Tree | Easy | 
 111 | Minimum Depth of Binary Tree | Easy | 
 112 | Path Sum | Easy | 
@@ -136,7 +136,7 @@ ID | Title | Difficulty | Status
 127 | [Word Ladder](/src/127-word-ladder.cpp) | Medium | Accepted
 128 | [Longest Consecutive Sequence](/src/128-longest-consecutive-sequence.cpp) | Hard | Accepted
 129 | Sum Root to Leaf Numbers | Medium | 
-130 | Surrounded Regions | Medium | 
+130 | [Surrounded Regions](/src/130-surrounded-regions.cpp) | Medium | Accepted
 131 | [Palindrome Partitioning](/src/131-palindrome-partitioning.cpp) | Medium | Accepted
 132 | Palindrome Partitioning II | Hard | 
 133 | [Clone Graph](/src/133-clone-graph.cpp) | Medium | Accepted
@@ -153,7 +153,7 @@ ID | Title | Difficulty | Status
 144 | Binary Tree Preorder Traversal | Medium | 
 145 | Binary Tree Postorder Traversal | Hard | 
 146 | [LRU Cache](/src/146-lru-cache.cpp) | Hard | Accepted
-147 | Insertion Sort List | Medium | 
+147 | [Insertion Sort List](/src/147-insertion-sort-list.cpp) | Medium | Accepted
 148 | [Sort List](/src/148-sort-list.py) | Medium | Accepted
 149 | Max Points on a Line | Hard | 
 150 | [Evaluate Reverse Polish Notation](/src/150-evaluate-reverse-polish-notation.cpp) | Medium | Accepted
@@ -172,7 +172,7 @@ ID | Title | Difficulty | Status
 163 | Missing Ranges | Medium | 
 164 | Maximum Gap | Hard | 
 165 | Compare Version Numbers | Medium | 
-166 | Fraction to Recurring Decimal | Medium | 
+166 | [Fraction to Recurring Decimal](/src/166-fraction-to-recurring-decimal.cpp) | Medium | Accepted
 167 | Two Sum II - Input array is sorted | Easy | 
 168 | Excel Sheet Column Title | Easy | 
 169 | [Majority Element](/src/169-majority-element.py) | Easy | Accepted
@@ -419,7 +419,7 @@ ID | Title | Difficulty | Status
 427 | Construct Quad Tree | Easy | 
 428 | Serialize and Deserialize N-ary Tree | Hard | 
 429 | N-ary Tree Level Order Traversal | Easy | 
-430 | Flatten a Multilevel Doubly Linked List | Medium | 
+430 | [Flatten a Multilevel Doubly Linked List](/src/430-flatten-a-multilevel-doubly-linked-list.cpp) | Medium | Accepted
 431 | Encode N-ary Tree to Binary Tree | Hard | 
 432 | All O`one Data Structure | Hard | 
 433 | Minimum Genetic Mutation | Medium | 
@@ -434,7 +434,7 @@ ID | Title | Difficulty | Status
 442 | Find All Duplicates in an Array | Medium | 
 443 | String Compression | Easy | 
 444 | Sequence Reconstruction | Medium | 
-445 | Add Two Numbers II | Medium | 
+445 | [Add Two Numbers II](/src/445-add-two-numbers-ii.cpp) | Medium | Accepted
 446 | Arithmetic Slices II - Subsequence | Hard | 
 447 | Number of Boomerangs | Easy | 
 448 | [Find All Numbers Disappeared in an Array](/src/448-find-all-numbers-disappeared-in-an-array.py) | Easy | Accepted
@@ -521,7 +521,7 @@ ID | Title | Difficulty | Status
 531 | Lonely Pixel I | Medium | 
 532 | K-diff Pairs in an Array | Easy | 
 533 | Lonely Pixel II | Medium | 
-535 | Encode and Decode TinyURL | Medium | 
+535 | [Encode and Decode TinyURL](/src/535-encode-and-decode-tinyurl.cpp) | Medium | Accepted
 536 | Construct Binary Tree from String | Medium | 
 537 | Complex Number Multiplication | Medium | 
 538 | [Convert BST to Greater Tree](/src/538-convert-bst-to-greater-tree.py) | Easy | Accepted
@@ -681,7 +681,7 @@ ID | Title | Difficulty | Status
 722 | Remove Comments | Medium | 
 723 | Candy Crush | Medium | 
 724 | Find Pivot Index | Easy | 
-725 | Split Linked List in Parts | Medium | 
+725 | [Split Linked List in Parts](/src/725-split-linked-list-in-parts.cpp) | Medium | Accepted
 726 | Number of Atoms | Hard | 
 727 | Minimum Window Subsequence | Hard | 
 728 | Self Dividing Numbers | Easy | 
@@ -832,7 +832,7 @@ ID | Title | Difficulty | Status
 873 | Length of Longest Fibonacci Subsequence | Medium | 
 874 | Walking Robot Simulation | Easy | 
 875 | Koko Eating Bananas | Medium | 
-876 | Middle of the Linked List | Easy | 
+876 | [Middle of the Linked List](/src/876-middle-of-the-linked-list.cpp) | Easy | Accepted
 877 | Stone Game | Medium | 
 878 | Nth Magical Number | Hard | 
 879 | Profitable Schemes | Hard | 
