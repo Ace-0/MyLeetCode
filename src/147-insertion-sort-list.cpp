@@ -38,27 +38,27 @@ public:
 	}
 };
 
-int main() {
-	Solution s = Solution();
-
-	ListNode *head = new ListNode(-1);
-	ListNode *a = new ListNode(5);
-	ListNode *b = new ListNode(3);
-	ListNode *c = new ListNode(4);
-	ListNode *d = new ListNode(0);
-	head->next = a;
-	a->next = b;
-	b->next = c;
-	c->next = d;
-
-	head = s.insertionSortList(head);
-
-	while (head) {
-		cout << head->val << "-->";
-		head = head->next;
-	}
-	cout << "nullptr" << endl;
-
-	system("pause");
-	return 0;
-}
+//int main() {
+//	Solution s = Solution();
+//
+//	ListNode *head = new ListNode(-1);
+//	ListNode *a = new ListNode(5);
+//	ListNode *b = new ListNode(3);
+//	ListNode *c = new ListNode(4);
+//	ListNode *d = new ListNode(0);
+//	head->next = a;
+//	a->next = b;
+//	b->next = c;
+//	c->next = d;
+//
+//	head = s.insertionSortList(head);
+//
+//	while (head) {
+//		cout << head->val << "-->";
+//		head = head->next;
+//	}
+//	cout << "nullptr" << endl;
+//
+//	system("pause");
+//	return 0;
+//}

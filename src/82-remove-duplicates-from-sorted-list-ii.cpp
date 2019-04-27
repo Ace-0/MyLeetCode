@@ -1,9 +1,8 @@
-// 83. Remove Duplicates from Sorted List
+// 82. Remove Duplicates from Sorted List II
 
 
 #include <iostream>
 #include <vector>
-#include <unordered_set>
 
 using namespace std;
 
@@ -24,9 +23,14 @@ public:
 			while (cur->next && cur->val == cur->next->val) {
 				cur = cur->next;
 			}
-			pre->next = cur;
-			pre = cur;
-			cur = cur->next;
+			if (pre->next == cur) {
+				pre = cur;
+				cur = cur->next;
+			}
+			else {
+				cur = cur->next;
+				pre->next = cur;
+			}
 		}
 		head = empty_head->next;
 		delete empty_head;
