@@ -83,23 +83,23 @@ private:
 	ListNode* empty_head;
 };
 
-int main() {
-	// Your MyLinkedList object will be instantiated and called as such :
-	MyLinkedList* obj = new MyLinkedList();
-	obj->addAtHead(1);
-	obj->addAtTail(3);
-	obj->addAtIndex(1, 2);
-	obj->addAtIndex(0, 0);
-	obj->addAtIndex(4, 4);
-	obj->addAtIndex(10, 10);
-	cout << obj->get(-1);
-	cout << obj->get(0);
-	cout << obj->get(3);
-	cout << obj->get(10);
-	obj->deleteAtIndex(-1);
-	obj->deleteAtIndex(2);
-	obj->deleteAtIndex(10);
-
-	system("pause");
-	return 0;
-}
+//int main() {
+//	// Your MyLinkedList object will be instantiated and called as such :
+//	MyLinkedList* obj = new MyLinkedList();
+//	obj->addAtHead(1);
+//	obj->addAtTail(3);
+//	obj->addAtIndex(1, 2);
+//	obj->addAtIndex(0, 0);
+//	obj->addAtIndex(4, 4);
+//	obj->addAtIndex(10, 10);
+//	cout << obj->get(-1);
+//	cout << obj->get(0);
+//	cout << obj->get(3);
+//	cout << obj->get(10);
+//	obj->deleteAtIndex(-1);
+//	obj->deleteAtIndex(2);
+//	obj->deleteAtIndex(10);
+//
+//	system("pause");
+//	return 0;
+//}

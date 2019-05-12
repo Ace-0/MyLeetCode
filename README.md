@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%%----------------------------------------------} 23.1%   227/982
+{ %%%%%%%%%%%%%%%%--------------------------------------------} 25.9%   257/994
 ```
 
 ID | Title | Difficulty | Status
@@ -22,7 +22,7 @@ ID | Title | Difficulty | Status
 13 | Roman to Integer | Easy | Accepted
 14 | [Longest Common Prefix](/src/14-longest-common-prefix.cpp) | Easy | Accepted
 15 | [3Sum](/src/15-3Sum.cpp) | Medium | Accepted
-16 | 3Sum Closest | Medium | 
+16 | 3Sum Closest | Medium | Accepted
 17 | Letter Combinations of a Phone Number | Medium | Accepted
 18 | 4Sum | Medium | 
 19 | [Remove Nth Node From End of List](/src/19-remove-nth-node-from-end-of-list.cpp) | Medium | Accepted
@@ -31,9 +31,9 @@ ID | Title | Difficulty | Status
 22 | Generate Parentheses | Medium | Accepted
 23 | [Merge k Sorted Lists](/src/23-merge-k-sorted-lists.py) | Hard | Accepted
 24 | [Swap Nodes in Pairs](/src/24-swap-nodes-in-pairs.cpp) | Medium | Accepted
-25 | Reverse Nodes in k-Group | Hard | 
+25 | [Reverse Nodes in k-Group](/src/25-reverse-nodes-in-k-group.cpp) | Hard | Accepted
 26 | [Remove Duplicates from Sorted Array](/src/26-remove-duplicates-from-sorted-array.cpp) | Easy | Accepted
-27 | Remove Element | Easy | 
+27 | Remove Element | Easy | Accepted
 28 | Implement strStr() | Easy | Accepted
 29 | [Divide Two Integers](/src/29-divide-two-integers.cpp) | Medium | Accepted
 30 | Substring with Concatenation of All Words | Hard | 
@@ -67,7 +67,7 @@ ID | Title | Difficulty | Status
 58 | Length of Last Word | Easy | 
 59 | Spiral Matrix II | Medium | 
 60 | Permutation Sequence | Medium | 
-61 | Rotate List | Medium | 
+61 | [Rotate List](/src/61-rotate-list.cpp) | Medium | Accepted
 62 | Unique Paths | Medium | Accepted
 63 | Unique Paths II | Medium | Accepted
 64 | [Minimum Path Sum](/src/64-minimum-path-sum.py) | Medium | Accepted
@@ -86,19 +86,19 @@ ID | Title | Difficulty | Status
 77 | Combinations | Medium | 
 78 | [Subsets](/src/78-subsets.py) | Medium | Accepted
 79 | [Word Search](/src/79-word-search.py) | Medium | Accepted
-80 | Remove Duplicates from Sorted Array II | Medium | 
+80 | Remove Duplicates from Sorted Array II | Medium | Accepted
 81 | Search in Rotated Sorted Array II | Medium | 
-82 | Remove Duplicates from Sorted List II | Medium | 
+82 | [Remove Duplicates from Sorted List II](/src/82-remove-duplicates-from-sorted-list-ii.cpp) | Medium | Accepted
 83 | [Remove Duplicates from Sorted List](/src/83-remove-duplicates-from-sorted-list.cpp) | Easy | Accepted
 84 | [Largest Rectangle in Histogram](/src/84-largest-rectangle-in-histogram.py) | Hard | Accepted
 85 | [Maximal Rectangle](/src/85-maximal-rectangle.cpp) | Hard | Accepted
-86 | Partition List | Medium | 
+86 | [Partition List](/src/86-partition-list.cpp) | Medium | Accepted
 87 | Scramble String | Hard | Accepted
 88 | [Merge Sorted Array](/src/88-merge-sorted-array.cpp) | Easy | Accepted
 89 | Gray Code | Medium | 
 90 | Subsets II | Medium | 
 91 | [Decode Ways](/src/91-decode-ways.cpp) | Medium | Accepted
-92 | Reverse Linked List II | Medium | 
+92 | [Reverse Linked List II](/src/92-reverse-linked-list-ii.cpp) | Medium | Accepted
 93 | Restore IP Addresses | Medium | 
 94 | [Binary Tree Inorder Traversal](/src/94-binary-tree-inorder-traversal.cpp) | Medium | Accepted
 95 | Unique Binary Search Trees II | Medium | 
@@ -149,7 +149,7 @@ ID | Title | Difficulty | Status
 140 | [Word Break II](/src/140-word-break-ii.cpp) | Hard | Accepted
 141 | [Linked List Cycle](/src/141-linked-list-cycle.py) | Easy | Accepted
 142 | [Linked List Cycle II](/src/142-linked-list-cycle-II.cpp) | Medium | Accepted
-143 | Reorder List | Medium | 
+143 | [Reorder List](/src/143-reorder-list.cpp) | Medium | Accepted
 144 | Binary Tree Preorder Traversal | Medium | 
 145 | Binary Tree Postorder Traversal | Hard | 
 146 | [LRU Cache](/src/146-lru-cache.cpp) | Hard | Accepted
@@ -173,7 +173,7 @@ ID | Title | Difficulty | Status
 164 | Maximum Gap | Hard | 
 165 | Compare Version Numbers | Medium | 
 166 | [Fraction to Recurring Decimal](/src/166-fraction-to-recurring-decimal.cpp) | Medium | Accepted
-167 | Two Sum II - Input array is sorted | Easy | 
+167 | Two Sum II - Input array is sorted | Easy | Accepted
 168 | Excel Sheet Column Title | Easy | 
 169 | [Majority Element](/src/169-majority-element.py) | Easy | Accepted
 170 | Two Sum III - Data structure design | Easy | 
@@ -193,7 +193,7 @@ ID | Title | Difficulty | Status
 200 | [Number of Islands](/src/200-number-of-islands.py) | Medium | Accepted
 201 | Bitwise AND of Numbers Range | Medium | 
 202 | [Happy Number](/src/202-happy-number.cpp) | Easy | Accepted
-203 | Remove Linked List Elements | Easy | 
+203 | Remove Linked List Elements | Easy | Accepted
 204 | [Count Primes](/src/204-count-primes.cpp) | Easy | Accepted
 205 | Isomorphic Strings | Easy | 
 206 | [Reverse Linked List](/src/206-reverse-linked-list.py) | Easy | Accepted
@@ -334,11 +334,11 @@ ID | Title | Difficulty | Status
 342 | Power of Four | Easy | 
 343 | Integer Break | Medium | 
 344 | [Reverse String](/src/344-reverse-string.py) | Easy | Accepted
-345 | Reverse Vowels of a String | Easy | 
+345 | [Reverse Vowels of a String](/src/345-reverse-vowels-of-a-string.cpp) | Easy | Accepted
 346 | Moving Average from Data Stream | Easy | 
 347 | [Top K Frequent Elements](/src/347-top-k-frequent-elements.py) | Medium | Accepted
 348 | Design Tic-Tac-Toe | Medium | 
-349 | Intersection of Two Arrays | Easy | 
+349 | Intersection of Two Arrays | Easy | Accepted
 350 | [Intersection of Two Arrays II](/src/350-intersection-of-two-arrays-ii.cpp) | Easy | Accepted
 351 | Android Unlock Patterns | Medium | 
 352 | Data Stream as Disjoint Intervals | Hard | 
@@ -413,7 +413,7 @@ ID | Title | Difficulty | Status
 421 | Maximum XOR of Two Numbers in an Array | Medium | 
 422 | Valid Word Square | Easy | 
 423 | Reconstruct Original Digits from English | Medium | 
-424 | Longest Repeating Character Replacement | Medium | 
+424 | Longest Repeating Character Replacement | Medium | Accepted
 425 | Word Squares | Hard | 
 426 | Convert Binary Search Tree to Sorted Doubly Linked List | Medium | 
 427 | Construct Quad Tree | Easy | 
@@ -511,7 +511,7 @@ ID | Title | Difficulty | Status
 521 | Longest Uncommon Subsequence I  | Easy | 
 522 | Longest Uncommon Subsequence II | Medium | 
 523 | Continuous Subarray Sum | Medium | 
-524 | Longest Word in Dictionary through Deleting | Medium | 
+524 | Longest Word in Dictionary through Deleting | Medium | Accepted
 525 | Contiguous Array | Medium | 
 526 | Beautiful Arrangement | Medium | 
 527 | Word Abbreviation | Hard | 
@@ -552,7 +552,7 @@ ID | Title | Difficulty | Status
 564 | Find the Closest Palindrome | Hard | 
 565 | Array Nesting | Medium | 
 566 | Reshape the Matrix | Easy | 
-567 | Permutation in String | Medium | 
+567 | [Permutation in String](/src/567-permutation-in-string.cpp) | Medium | Accepted
 568 | Maximum Vacation Days | Hard | 
 572 | [Subtree of Another Tree](/src/572-subtree-of-another-tree.py) | Easy | Accepted
 573 | Squirrel Simulation | Medium | 
@@ -663,7 +663,7 @@ ID | Title | Difficulty | Status
 704 | [Binary Search](/src/704-binary-search.cpp) | Easy | Accepted
 705 | Design HashSet | Easy | 
 706 | Design HashMap | Easy | 
-707 | Design Linked List | Easy | 
+707 | [Design Linked List](/src/707-design-linked-list.cpp) | Easy | Accepted
 708 | Insert into a Cyclic Sorted List | Medium | 
 709 | To Lower Case | Easy | 
 710 | Random Pick with Blacklist | Hard | 
@@ -719,7 +719,7 @@ ID | Title | Difficulty | Status
 760 | Find Anagram Mappings | Easy | 
 761 | Special Binary String | Hard | 
 762 | Prime Number of Set Bits in Binary Representation | Easy | 
-763 | Partition Labels | Medium | 
+763 | [Partition Labels](/src/763-partition-labels.cpp) | Medium | Accepted
 764 | Largest Plus Sign | Medium | 
 765 | Couples Holding Hands | Hard | 
 766 | Toeplitz Matrix | Easy | 
@@ -794,13 +794,13 @@ ID | Title | Difficulty | Status
 835 | Image Overlap | Medium | 
 836 | Rectangle Overlap | Easy | 
 837 | New 21 Game | Medium | 
-838 | Push Dominoes | Medium | 
+838 | Push Dominoes | Medium | Accepted
 839 | Similar String Groups | Hard | 
 840 | Magic Squares In Grid | Easy | 
 841 | Keys and Rooms | Medium | 
 842 | Split Array into Fibonacci Sequence | Medium | 
 843 | Guess the Word | Hard | 
-844 | Backspace String Compare | Easy | 
+844 | Backspace String Compare | Easy | Accepted
 845 | Longest Mountain in Array | Medium | 
 846 | Hand of Straights | Medium | 
 847 | Shortest Path Visiting All Nodes | Hard | 
@@ -837,7 +837,7 @@ ID | Title | Difficulty | Status
 878 | Nth Magical Number | Hard | 
 879 | Profitable Schemes | Hard | 
 880 | Decoded String at Index | Medium | 
-881 | Boats to Save People | Medium | 
+881 | Boats to Save People | Medium | Accepted
 882 | Reachable Nodes In Subdivided Graph | Hard | 
 883 | Projection Area of 3D Shapes | Easy | 
 884 | Uncommon Words from Two Sentences | Easy | 
@@ -860,7 +860,7 @@ ID | Title | Difficulty | Status
 901 | Online Stock Span | Medium | 
 902 | Numbers At Most N Given Digit Set | Hard | 
 903 | Valid Permutations for DI Sequence | Hard | 
-904 | Fruit Into Baskets | Medium | 
+904 | [Fruit Into Baskets](/src/904-fruit-into-baskets.cpp) | Medium | Accepted
 905 | Sort Array By Parity | Easy | 
 906 | Super Palindromes | Hard | 
 907 | Sum of Subarray Minimums | Medium | 
@@ -881,12 +881,12 @@ ID | Title | Difficulty | Status
 922 | Sort Array By Parity II | Easy | 
 923 | 3Sum With Multiplicity | Medium | 
 924 | Minimize Malware Spread | Hard | 
-925 | Long Pressed Name | Easy | 
+925 | Long Pressed Name | Easy | Accepted
 926 | Flip String to Monotone Increasing | Medium | 
 927 | Three Equal Parts | Hard | 
 928 | Minimize Malware Spread II | Hard | 
 929 | Unique Email Addresses | Easy | 
-930 | Binary Subarrays With Sum | Medium | 
+930 | [Binary Subarrays With Sum](/src/930-binary-subarrays-with-sum.cpp) | Medium | Accepted
 931 | Minimum Falling Path Sum | Medium | 
 932 | Beautiful Array | Medium | 
 933 | Number of Recent Calls | Easy | 
@@ -894,7 +894,7 @@ ID | Title | Difficulty | Status
 935 | Knight Dialer | Medium | 
 936 | Stamping The Sequence | Hard | 
 937 | Reorder Log Files | Easy | 
-938 | Range Sum of BST | Medium | 
+938 | Range Sum of BST | Easy | 
 939 | Minimum Area Rectangle | Medium | 
 940 | Distinct Subsequences II | Hard | 
 941 | Valid Mountain Array | Easy | 
@@ -933,7 +933,7 @@ ID | Title | Difficulty | Status
 974 | Subarray Sums Divisible by K | Medium | 
 975 | Odd Even Jump | Hard | 
 976 | Largest Perimeter Triangle | Easy | 
-977 | Squares of a Sorted Array | Easy | 
+977 | Squares of a Sorted Array | Easy | Accepted
 978 | Longest Turbulent Subarray | Medium | 
 979 | Distribute Coins in Binary Tree | Medium | 
 980 | Unique Paths III | Hard | 
@@ -942,7 +942,7 @@ ID | Title | Difficulty | Status
 983 | Minimum Cost For Tickets | Medium | 
 984 | String Without AAA or BBB | Medium | 
 985 | Sum of Even Numbers After Queries | Easy | Accepted
-986 | Interval List Intersections | Medium | 
+986 | Interval List Intersections | Medium | Accepted
 987 | Vertical Order Traversal of a Binary Tree | Medium | 
 988 | [Smallest String Starting From Leaf](/src/988-smallest-string-starting-from-leaf.py) | Medium | Accepted
 989 | Add to Array-Form of Integer | Easy | 
@@ -960,7 +960,7 @@ ID | Title | Difficulty | Status
 1001 | [Grid Illumination](/src/1001-grid-illumination.py) | Hard | Accepted
 1002 | [Find Common Characters](/src/1002-find-common-characters.py) | Easy | Accepted
 1003 | [Check If Word Is Valid After Substitutions](/src/1003-check-if-word-is-valid-after-substitutions.py) | Medium | Accepted
-1004 | Max Consecutive Ones III | Medium | 
+1004 | Max Consecutive Ones III | Medium | Accepted
 1005 | [Maximize Sum Of Array After K Negations](/src/1005-maximize-sum-of-array-after-k-negations.py) | Easy | Accepted
 1006 | [Clumsy Factorial](/src/1006-clumsy-factorial.py) | Medium | Accepted
 1007 | [Minimum Domino Rotations For Equal Row](/src/1007-minimum-domino-rotations-for-equal-row.py) | Medium | Accepted
@@ -989,3 +989,15 @@ ID | Title | Difficulty | Status
 1030 | [Matrix Cells in Distance Order](/src/1030-next-greater-node-in-linked-list.py) | Easy | 
 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](/src/1031-number-of-enclaves.py) | Medium | 
 1032 | Stream of Characters | Hard | 
+1033 | Moving Stones Until Consecutive | Easy | 
+1034 | Coloring A Border | Medium | 
+1035 | Uncrossed Lines | Medium | 
+1036 | Escape a Large Maze | Hard | 
+1037 | Valid Boomerang | Easy | 
+1038 | Binary Search Tree to Greater Sum Tree | Medium | 
+1039 | Minimum Score Triangulation of Polygon | Medium | 
+1040 | Moving Stones Until Consecutive II | Medium | 
+1041 | Robot Bounded In Circle | Easy | Accepted
+1042 | Flower Planting With No Adjacent | Easy | Accepted
+1043 | Partition Array for Maximum Sum | Medium | Accepted
+1044 | Longest Duplicate Substring | Hard | 
