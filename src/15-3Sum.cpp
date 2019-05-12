@@ -1,9 +1,16 @@
+// 15. 3Sum
+
+
+#include <iostream>
+#include <vector>
+#include <algorithm>
+
+using namespace std;
 class Solution {
 public:
 	vector<vector<int>> threeSum(vector<int>& nums) {
 		sort(nums.begin(), nums.end());
 		vector<vector<int>> result;
-		//
 
 		for (int i = 0; i + 2 < nums.size(); ++i) {
 			if (i == 0 || (i > 0 && nums[i] != nums[i - 1])) {

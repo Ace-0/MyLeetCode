@@ -22,7 +22,7 @@ ID | Title | Difficulty | Status
 13 | Roman to Integer | Easy | Accepted
 14 | [Longest Common Prefix](/src/14-longest-common-prefix.cpp) | Easy | Accepted
 15 | [3Sum](/src/15-3Sum.cpp) | Medium | Accepted
-16 | 3Sum Closest | Medium | Accepted
+16 | [3Sum Closest](/src/16-3sum-closest.cpp) | Medium | Accepted
 17 | Letter Combinations of a Phone Number | Medium | Accepted
 18 | 4Sum | Medium | 
 19 | [Remove Nth Node From End of List](/src/19-remove-nth-node-from-end-of-list.cpp) | Medium | Accepted
@@ -413,7 +413,7 @@ ID | Title | Difficulty | Status
 421 | Maximum XOR of Two Numbers in an Array | Medium | 
 422 | Valid Word Square | Easy | 
 423 | Reconstruct Original Digits from English | Medium | 
-424 | Longest Repeating Character Replacement | Medium | Accepted
+424 | [Longest Repeating Character Replacement](/src/424-longest-repeating-character-replacement.cpp) | Medium | Accepted
 425 | Word Squares | Hard | 
 426 | Convert Binary Search Tree to Sorted Doubly Linked List | Medium | 
 427 | Construct Quad Tree | Easy | 
@@ -511,7 +511,7 @@ ID | Title | Difficulty | Status
 521 | Longest Uncommon Subsequence I  | Easy | 
 522 | Longest Uncommon Subsequence II | Medium | 
 523 | Continuous Subarray Sum | Medium | 
-524 | Longest Word in Dictionary through Deleting | Medium | Accepted
+524 | [Longest Word in Dictionary through Deleting](/src/524-longest-word-in-dictionary-through-deleting.cpp) | Medium | Accepted
 525 | Contiguous Array | Medium | 
 526 | Beautiful Arrangement | Medium | 
 527 | Word Abbreviation | Hard | 
@@ -588,7 +588,7 @@ ID | Title | Difficulty | Status
 629 | K Inverse Pairs Array | Hard | 
 630 | Course Schedule III | Hard | 
 631 | Design Excel Sum Formula | Hard | 
-632 | Smallest Range | Hard | 
+632 | [Smallest Range](/src/632-smallest-range.cpp) | Hard | 
 633 | Sum of Square Numbers | Easy | 
 634 | Find the Derangement of An Array | Medium | 
 635 | Design Log Storage System | Medium | 
@@ -800,7 +800,7 @@ ID | Title | Difficulty | Status
 841 | Keys and Rooms | Medium | 
 842 | Split Array into Fibonacci Sequence | Medium | 
 843 | Guess the Word | Hard | 
-844 | Backspace String Compare | Easy | Accepted
+844 | [Backspace String Compare](/src/844-backspace-string-compare.cpp) | Easy | Accepted
 845 | Longest Mountain in Array | Medium | 
 846 | Hand of Straights | Medium | 
 847 | Shortest Path Visiting All Nodes | Hard | 
@@ -942,7 +942,7 @@ ID | Title | Difficulty | Status
 983 | Minimum Cost For Tickets | Medium | 
 984 | String Without AAA or BBB | Medium | 
 985 | Sum of Even Numbers After Queries | Easy | Accepted
-986 | Interval List Intersections | Medium | Accepted
+986 | [Interval List Intersections](/src/986-interval-list-intersections.cpp) | Medium | Accepted
 987 | Vertical Order Traversal of a Binary Tree | Medium | 
 988 | [Smallest String Starting From Leaf](/src/988-smallest-string-starting-from-leaf.py) | Medium | Accepted
 989 | Add to Array-Form of Integer | Easy | 
@@ -960,7 +960,7 @@ ID | Title | Difficulty | Status
 1001 | [Grid Illumination](/src/1001-grid-illumination.py) | Hard | Accepted
 1002 | [Find Common Characters](/src/1002-find-common-characters.py) | Easy | Accepted
 1003 | [Check If Word Is Valid After Substitutions](/src/1003-check-if-word-is-valid-after-substitutions.py) | Medium | Accepted
-1004 | Max Consecutive Ones III | Medium | Accepted
+1004 | [Max Consecutive Ones III](/src/1004-max-consecutive-ones-iii.cpp) | Medium | Accepted
 1005 | [Maximize Sum Of Array After K Negations](/src/1005-maximize-sum-of-array-after-k-negations.py) | Easy | Accepted
 1006 | [Clumsy Factorial](/src/1006-clumsy-factorial.py) | Medium | Accepted
 1007 | [Minimum Domino Rotations For Equal Row](/src/1007-minimum-domino-rotations-for-equal-row.py) | Medium | Accepted
