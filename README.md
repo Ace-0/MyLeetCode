@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%%%%--------------------------------------------} 25.9%   257/994
+{ %%%%%%%%%%%%%%%%--------------------------------------------} 26.3%   262/998
 ```
 
 ID | Title | Difficulty | Status
@@ -669,7 +669,7 @@ ID | Title | Difficulty | Status
 710 | Random Pick with Blacklist | Hard | 
 711 | Number of Distinct Islands II | Hard | 
 712 | Minimum ASCII Delete Sum for Two Strings | Medium | 
-713 | Subarray Product Less Than K | Medium | 
+713 | [Subarray Product Less Than K](/src/713-subarray-product-less-than-k.cpp) | Medium | Accepted
 714 | Best Time to Buy and Sell Stock with Transaction Fee | Medium | 
 715 | Range Module | Hard | 
 716 | Max Stack | Easy | 
@@ -782,7 +782,7 @@ ID | Title | Difficulty | Status
 823 | Binary Trees With Factors | Medium | 
 824 | Goat Latin | Easy | 
 825 | Friends Of Appropriate Ages | Medium | 
-826 | Most Profit Assigning Work | Medium | 
+826 | [Most Profit Assigning Work](/src/826-most-profit-assigning-work.cpp) | Medium | Accepted
 827 | Making A Large Island | Hard | 
 828 | Unique Letter String | Hard | 
 829 | Consecutive Numbers Sum | Hard | 
@@ -998,6 +998,10 @@ ID | Title | Difficulty | Status
 1039 | Minimum Score Triangulation of Polygon | Medium | 
 1040 | Moving Stones Until Consecutive II | Medium | 
 1041 | Robot Bounded In Circle | Easy | Accepted
-1042 | Flower Planting With No Adjacent | Easy | Accepted
-1043 | Partition Array for Maximum Sum | Medium | Accepted
+1042 | [Flower Planting With No Adjacent](/src/1042-flower-planting-with-no-adjacent.cpp) | Easy | Accepted
+1043 | [Partition Array for Maximum Sum](/src/1043-partition-array-for-maximum-sum.cpp) | Medium | Accepted
 1044 | Longest Duplicate Substring | Hard | 
+1046 | [Last Stone Weight](/src/1046-last-stone-weight.cpp) | Easy | Accepted
+1047 | [Remove All Adjacent Duplicates In String](/src/1047-remove-all-adjacent-duplicates-in-string.cpp) | Easy | Accepted
+1048 | [Longest String Chain](/src/1048-longest-string-chain.cpp) | Medium | Accepted
+1049 | Last Stone Weight II | Medium | 
