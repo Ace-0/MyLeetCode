@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%%%%--------------------------------------------} 26.3%   262/998
+{ %%%%%%%%%%%%%%%%--------------------------------------------} 26.2%   267/1019
 ```
 
 ID | Title | Difficulty | Status
@@ -24,7 +24,7 @@ ID | Title | Difficulty | Status
 15 | [3Sum](/src/15-3Sum.cpp) | Medium | Accepted
 16 | [3Sum Closest](/src/16-3sum-closest.cpp) | Medium | Accepted
 17 | Letter Combinations of a Phone Number | Medium | Accepted
-18 | 4Sum | Medium | 
+18 | [4Sum](/src/18-4sum.cpp) | Medium | Accepted
 19 | [Remove Nth Node From End of List](/src/19-remove-nth-node-from-end-of-list.cpp) | Medium | Accepted
 20 | Valid Parentheses | Easy | Accepted
 21 | Merge Two Sorted Lists | Easy | Accepted
@@ -152,7 +152,7 @@ ID | Title | Difficulty | Status
 143 | [Reorder List](/src/143-reorder-list.cpp) | Medium | Accepted
 144 | Binary Tree Preorder Traversal | Medium | 
 145 | Binary Tree Postorder Traversal | Hard | 
-146 | [LRU Cache](/src/146-lru-cache.cpp) | Hard | Accepted
+146 | [LRU Cache](/src/146-lru-cache.cpp) | Medium | Accepted
 147 | [Insertion Sort List](/src/147-insertion-sort-list.cpp) | Medium | Accepted
 148 | [Sort List](/src/148-sort-list.py) | Medium | Accepted
 149 | Max Points on a Line | Hard | 
@@ -199,7 +199,7 @@ ID | Title | Difficulty | Status
 206 | [Reverse Linked List](/src/206-reverse-linked-list.py) | Easy | Accepted
 207 | [Course Schedule](/src/207-course-schedule.cpp) | Medium | Accepted
 208 | [Implement Trie (Prefix Tree)](/src/208-implement-trie-prefix-tree.py) | Medium | Accepted
-209 | Minimum Size Subarray Sum | Medium | 
+209 | [Minimum Size Subarray Sum](/src/209-minimum-size-subarray-sum.cpp) | Medium | Accepted
 210 | Course Schedule II | Medium | Accepted
 211 | Add and Search Word - Data structure design | Medium | 
 212 | [Word Search II](/src/212-word-search-ii.cpp) | Hard | Accepted
@@ -446,7 +446,7 @@ ID | Title | Difficulty | Status
 454 | [4Sum II](/src/454-4sum-ii.cpp) | Medium | Accepted
 455 | Assign Cookies | Easy | 
 456 | 132 Pattern | Medium | 
-457 | Circular Array Loop | Medium | 
+457 | [Circular Array Loop](/src/457-circular-array-loop.cpp) | Medium | 
 458 | Poor Pigs | Hard | 
 459 | Repeated Substring Pattern | Easy | 
 460 | LFU Cache | Hard | 
@@ -519,7 +519,7 @@ ID | Title | Difficulty | Status
 529 | Minesweeper | Medium | 
 530 | Minimum Absolute Difference in BST | Easy | 
 531 | Lonely Pixel I | Medium | 
-532 | K-diff Pairs in an Array | Easy | 
+532 | [K-diff Pairs in an Array](/src/532-k-diff-pairs-in-an-array.cpp) | Easy | Accepted
 533 | Lonely Pixel II | Medium | 
 535 | [Encode and Decode TinyURL](/src/535-encode-and-decode-tinyurl.cpp) | Medium | Accepted
 536 | Construct Binary Tree from String | Medium | 
@@ -801,7 +801,7 @@ ID | Title | Difficulty | Status
 842 | Split Array into Fibonacci Sequence | Medium | 
 843 | Guess the Word | Hard | 
 844 | [Backspace String Compare](/src/844-backspace-string-compare.cpp) | Easy | Accepted
-845 | Longest Mountain in Array | Medium | 
+845 | [Longest Mountain in Array](/src/845-longest-mountain-in-array.cpp) | Medium | Accepted
 846 | Hand of Straights | Medium | 
 847 | Shortest Path Visiting All Nodes | Hard | 
 848 | Shifting Letters | Medium | 
@@ -879,7 +879,7 @@ ID | Title | Difficulty | Status
 920 | Number of Music Playlists | Hard | 
 921 | Minimum Add to Make Parentheses Valid | Medium | 
 922 | Sort Array By Parity II | Easy | 
-923 | 3Sum With Multiplicity | Medium | 
+923 | [3Sum With Multiplicity](/src/923-3sum-with-multiplicity.cpp) | Medium | Accepted
 924 | Minimize Malware Spread | Hard | 
 925 | Long Pressed Name | Easy | Accepted
 926 | Flip String to Monotone Increasing | Medium | 
@@ -1005,3 +1005,24 @@ ID | Title | Difficulty | Status
 1047 | [Remove All Adjacent Duplicates In String](/src/1047-remove-all-adjacent-duplicates-in-string.cpp) | Easy | Accepted
 1048 | [Longest String Chain](/src/1048-longest-string-chain.cpp) | Medium | Accepted
 1049 | Last Stone Weight II | Medium | 
+1051 | Height Checker | Easy | 
+1052 | Grumpy Bookstore Owner | Medium | 
+1053 | Previous Permutation With One Swap | Medium | 
+1054 | Distant Barcodes | Medium | 
+1055 | Shortest Way to Form String | Medium | 
+1056 | Confusing Number | Easy | 
+1057 | Campus Bikes | Medium | 
+1058 | Minimize Rounding Error to Meet Target | Medium | 
+1059 | All Paths from Source Lead to Destination | Medium | 
+1060 | Missing Element in Sorted Array | Medium | 
+1061 | Lexicographically Smallest Equivalent String | Medium | 
+1062 | Longest Repeating Substring | Medium | 
+1063 | Number of Valid Subarrays | Hard | 
+1064 | Fixed Point | Easy | 
+1065 | Index Pairs of a String | Easy | 
+1066 | Campus Bikes II | Medium | 
+1067 | Digit Count in Range | Hard | 
+1071 | Greatest Common Divisor of Strings | Easy | 
+1072 | Flip Columns For Maximum Number of Equal Rows | Medium | 
+1073 | Adding Two Negabinary Numbers | Medium | 
+1074 | Number of Submatrices That Sum to Target | Hard | 
