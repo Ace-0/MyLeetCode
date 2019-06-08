@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%%%%--------------------------------------------} 26.2%   267/1019
+{ %%%%%%%%%%%%%%%%--------------------------------------------} 27.1%   276/1019
 ```
 
 ID | Title | Difficulty | Status
@@ -12,13 +12,13 @@ ID | Title | Difficulty | Status
 3 | [Longest Substring Without Repeating Characters](/src/3-longest-substring-without-repeating-characters.cpp) | Medium | Accepted
 4 | [Median of Two Sorted Arrays](/src/4-median-of-two-sorted-arrays.cpp) | Hard | Accepted
 5 | [Longest Palindromic Substring](/src/5-longest-palindromic-substring.cpp) | Medium | Accepted
-6 | ZigZag Conversion | Medium | 
+6 | [ZigZag Conversion](/src/6-zigzag-conversion.cpp) | Medium | Accepted
 7 | Reverse Integer | Easy | Accepted
 8 | [String to Integer (atoi)](/src/8-string-to-integer.py) | Medium | 
 9 | Palindrome Number | Easy | Accepted
 10 | [Regular Expression Matching](/src/10-regular-expression-matching.cpp) | Hard | Accepted
 11 | Container With Most Water | Medium | Accepted
-12 | Integer to Roman | Medium | 
+12 | [Integer to Roman](/src/12-integer-to-roman.cpp) | Medium | Accepted
 13 | Roman to Integer | Easy | Accepted
 14 | [Longest Common Prefix](/src/14-longest-common-prefix.cpp) | Easy | Accepted
 15 | [3Sum](/src/15-3Sum.cpp) | Medium | Accepted
@@ -41,17 +41,17 @@ ID | Title | Difficulty | Status
 32 | [Longest Valid Parentheses](/src/32-longest-valid-parentheses.cpp) | Hard | Accepted
 33 | [Search in Rotated Sorted Array](/src/33-search-in-rotated-sorted-array.py) | Medium | Accepted
 34 | [Find First and Last Position of Element in Sorted Array](/src/34-find-first-and-last-position-of-element-in-sorted-array.py) | Medium | Accepted
-35 | Search Insert Position | Easy | 
+35 | [Search Insert Position](/src/35-search-insert-position.cpp) | Easy | Accepted
 36 | [Valid Sudoku](/src/36-valid-sudoku.cpp) | Medium | Accepted
-37 | Sudoku Solver | Hard | 
+37 | [Sudoku Solver](/src/37-sudoku-solver.cpp) | Hard | Accepted
 38 | [Count and Say](/src/38-count-and-say.cpp) | Easy | Accepted
 39 | [Combination Sum](/src/39-combination-sum.py) | Medium | Accepted
 40 | [Combination Sum II](/src/40-combination-sum-ii.py) | Medium | Accepted
 41 | First Missing Positive | Hard | Accepted
 42 | [Trapping Rain Water](/src/42-trapping-rain-water.py) | Hard | Accepted
-43 | Multiply Strings | Medium | 
+43 | [Multiply Strings](/src/43-multiply-strings.cpp) | Medium | Accepted
 44 | [Wildcard Matching](/src/44-wildcard-matching.cpp) | Hard | Accepted
-45 | Jump Game II | Hard | 
+45 | [Jump Game II](/src/45-jump-game-ii.cpp) | Hard | Accepted
 46 | [Permutations](/src/46-permutations.py) | Medium | Accepted
 47 | Permutations II | Medium | 
 48 | [Rotate Image](/src/48-rotate-image.py) | Medium | Accepted
@@ -446,7 +446,7 @@ ID | Title | Difficulty | Status
 454 | [4Sum II](/src/454-4sum-ii.cpp) | Medium | Accepted
 455 | Assign Cookies | Easy | 
 456 | 132 Pattern | Medium | 
-457 | [Circular Array Loop](/src/457-circular-array-loop.cpp) | Medium | 
+457 | [Circular Array Loop](/src/457-circular-array-loop.cpp) | Medium | Accepted
 458 | Poor Pigs | Hard | 
 459 | Repeated Substring Pattern | Easy | 
 460 | LFU Cache | Hard | 
@@ -808,7 +808,7 @@ ID | Title | Difficulty | Status
 849 | Maximize Distance to Closest Person | Easy | 
 850 | Rectangle Area II | Hard | 
 851 | Loud and Rich | Medium | 
-852 | Peak Index in a Mountain Array | Easy | 
+852 | [Peak Index in a Mountain Array](/src/852-peak-index-in-a-mountain-array.cpp) | Easy | Accepted
 853 | Car Fleet | Medium | 
 854 | K-Similar Strings | Hard | 
 855 | Exam Room | Medium | 
@@ -936,7 +936,7 @@ ID | Title | Difficulty | Status
 977 | Squares of a Sorted Array | Easy | Accepted
 978 | Longest Turbulent Subarray | Medium | 
 979 | Distribute Coins in Binary Tree | Medium | 
-980 | Unique Paths III | Hard | 
+980 | [Unique Paths III](/src/980-unique-paths-iii.cpp) | Hard | Accepted
 981 | Time Based Key-Value Store | Medium | 
 982 | Triples with Bitwise AND Equal To Zero | Hard | 
 983 | Minimum Cost For Tickets | Medium | 

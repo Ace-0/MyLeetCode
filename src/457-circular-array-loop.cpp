@@ -46,16 +46,16 @@ private:
 	}
 };
 
-int main() {
-	Solution s = Solution();
-
-	//vector<int> testcase = { 2,-1,1,2,2 };
-	vector<int> testcase = { -8,-1,1,7,2 };
-
-	bool ans = s.circularArrayLoop(testcase);
-
-	cout << ans << endl;
-
-	system("pause");
-	return 0;
-}
+//int main() {
+//	Solution s = Solution();
+//
+//	//vector<int> testcase = { 2,-1,1,2,2 };
+//	vector<int> testcase = { -8,-1,1,7,2 };
+//
+//	bool ans = s.circularArrayLoop(testcase);
+//
+//	cout << ans << endl;
+//
+//	system("pause");
+//	return 0;
+//}
