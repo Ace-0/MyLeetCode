@@ -26,15 +26,15 @@ public:
 	}
 };
 
-int main() {
-	Solution s = Solution();
-
-	vector<int> testcase = { 0 };
-	
-	int ans = s.jump(testcase);
-
-	cout << ans << endl;
-
-	system("pause");
-	return 0;
-}
+//int main() {
+//	Solution s = Solution();
+//
+//	vector<int> testcase = { 2, 3, 1, 1, 4 };
+//	
+//	int ans = s.jump(testcase);
+//
+//	cout << ans << endl;
+//
+//	system("pause");
+//	return 0;
+//}

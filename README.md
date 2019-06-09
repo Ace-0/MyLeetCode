@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%%%%--------------------------------------------} 27.1%   276/1019
+{ %%%%%%%%%%%%%%%%--------------------------------------------} 27.4%   280/1023
 ```
 
 ID | Title | Difficulty | Status
@@ -53,7 +53,7 @@ ID | Title | Difficulty | Status
 44 | [Wildcard Matching](/src/44-wildcard-matching.cpp) | Hard | Accepted
 45 | [Jump Game II](/src/45-jump-game-ii.cpp) | Hard | Accepted
 46 | [Permutations](/src/46-permutations.py) | Medium | Accepted
-47 | Permutations II | Medium | 
+47 | [Permutations II](/src/47-permutations-ii.cpp) | Medium | 
 48 | [Rotate Image](/src/48-rotate-image.py) | Medium | Accepted
 49 | [Group Anagrams](/src/49-group-anagrams.py) | Medium | Accepted
 50 | [Pow(x, n)](/src/50-powx-n.cpp) | Medium | Accepted
@@ -1026,3 +1026,7 @@ ID | Title | Difficulty | Status
 1072 | Flip Columns For Maximum Number of Equal Rows | Medium | 
 1073 | Adding Two Negabinary Numbers | Medium | 
 1074 | Number of Submatrices That Sum to Target | Hard | 
+5083 | [Occurrences After Bigram](/src/5083-occurrences-after-bigram.cpp) | Easy | Accepted
+5084 | [Insufficient Nodes in Root to Leaf Paths](/src/5084-insufficient-nodes-in-root-to-leaf-paths.cpp) | Medium | Accepted
+5086 | [Smallest Subsequence of Distinct Characters](/src/5086-smallest-subsequence-of-distinct-characters.cpp) | Medium | Accepted
+5087 | [Letter Tile Possibilities](/src/5087-letter-tile-possibilities.cpp) | Medium | Accepted
