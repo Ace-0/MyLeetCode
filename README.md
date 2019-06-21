@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%%%%--------------------------------------------} 27.4%   280/1023
+{ %%%%%%%%%%%%%%%%%-------------------------------------------} 27.8%   287/1031
 ```
 
 ID | Title | Difficulty | Status
@@ -53,20 +53,20 @@ ID | Title | Difficulty | Status
 44 | [Wildcard Matching](/src/44-wildcard-matching.cpp) | Hard | Accepted
 45 | [Jump Game II](/src/45-jump-game-ii.cpp) | Hard | Accepted
 46 | [Permutations](/src/46-permutations.py) | Medium | Accepted
-47 | [Permutations II](/src/47-permutations-ii.cpp) | Medium | 
+47 | [Permutations II](/src/47-permutations-ii.cpp) | Medium | Accepted
 48 | [Rotate Image](/src/48-rotate-image.py) | Medium | Accepted
 49 | [Group Anagrams](/src/49-group-anagrams.py) | Medium | Accepted
 50 | [Pow(x, n)](/src/50-powx-n.cpp) | Medium | Accepted
-51 | N-Queens | Hard | 
-52 | N-Queens II | Hard | 
+51 | [N-Queens](/src/51-n-queens.cpp) | Hard | Accepted
+52 | [N-Queens II](/src/52-n-queens-ii.cpp) | Hard | Accepted
 53 | [Maximum Subarray](/src/53-maximum-subarray.py) | Easy | Accepted
 54 | [Spiral Matrix](/src/54-spiral-matrix.cpp) | Medium | Accepted
 55 | [Jump Game](/src/55-jump-game.cpp) | Medium | Accepted
 56 | [Merge Intervals](/src/56-merge-intervals.cpp) | Medium | Accepted
-57 | Insert Interval | Hard | 
-58 | Length of Last Word | Easy | 
-59 | Spiral Matrix II | Medium | 
-60 | Permutation Sequence | Medium | 
+57 | [Insert Interval](/src/57-insert-interval.cpp) | Hard | Accepted
+58 | Length of Last Word | Easy | Accepted
+59 | [Spiral Matrix II](/src/59-spiral-matrix-ii.cpp) | Medium | Accepted
+60 | [Permutation Sequence](/src/60-permutation-sequence.cpp) | Medium | Accepted
 61 | [Rotate List](/src/61-rotate-list.cpp) | Medium | Accepted
 62 | Unique Paths | Medium | Accepted
 63 | Unique Paths II | Medium | Accepted
@@ -416,7 +416,7 @@ ID | Title | Difficulty | Status
 424 | [Longest Repeating Character Replacement](/src/424-longest-repeating-character-replacement.cpp) | Medium | Accepted
 425 | Word Squares | Hard | 
 426 | Convert Binary Search Tree to Sorted Doubly Linked List | Medium | 
-427 | Construct Quad Tree | Easy | 
+427 | Construct Quad Tree | Medium | 
 428 | Serialize and Deserialize N-ary Tree | Hard | 
 429 | N-ary Tree Level Order Traversal | Easy | 
 430 | [Flatten a Multilevel Doubly Linked List](/src/430-flatten-a-multilevel-doubly-linked-list.cpp) | Medium | Accepted
@@ -1026,7 +1026,15 @@ ID | Title | Difficulty | Status
 1072 | Flip Columns For Maximum Number of Equal Rows | Medium | 
 1073 | Adding Two Negabinary Numbers | Medium | 
 1074 | Number of Submatrices That Sum to Target | Hard | 
-5083 | [Occurrences After Bigram](/src/5083-occurrences-after-bigram.cpp) | Easy | Accepted
-5084 | [Insufficient Nodes in Root to Leaf Paths](/src/5084-insufficient-nodes-in-root-to-leaf-paths.cpp) | Medium | Accepted
-5086 | [Smallest Subsequence of Distinct Characters](/src/5086-smallest-subsequence-of-distinct-characters.cpp) | Medium | Accepted
-5087 | [Letter Tile Possibilities](/src/5087-letter-tile-possibilities.cpp) | Medium | Accepted
+1078 | Occurrences After Bigram | Easy | Accepted
+1079 | Letter Tile Possibilities | Medium | Accepted
+1080 | Insufficient Nodes in Root to Leaf Paths | Medium | Accepted
+1081 | Smallest Subsequence of Distinct Characters | Medium | Accepted
+1085 | Sum of Digits in the Minimum Number | Easy | 
+1086 | High Five | Easy | 
+1087 | Brace Expansion | Medium | 
+1088 | Confusing Number II | Hard | 
+1089 | Duplicate Zeros | Easy | 
+1090 | Largest Values From Labels | Medium | 
+1091 | Shortest Path in Binary Matrix | Medium | 
+1092 | Shortest Common Supersequence | Hard | 
