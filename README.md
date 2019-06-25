@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%%%%%-------------------------------------------} 27.8%   287/1031
+{ %%%%%%%%%%%%%%%%%-------------------------------------------} 28.2%   292/1035
 ```
 
 ID | Title | Difficulty | Status
@@ -71,9 +71,9 @@ ID | Title | Difficulty | Status
 62 | Unique Paths | Medium | Accepted
 63 | Unique Paths II | Medium | Accepted
 64 | [Minimum Path Sum](/src/64-minimum-path-sum.py) | Medium | Accepted
-65 | Valid Number | Hard | 
+65 | [Valid Number](/src/65-valid-number.cpp) | Hard | Accepted
 66 | [Plus One](/src/66-plus-one.cpp) | Easy | Accepted
-67 | Add Binary | Easy | 
+67 | [Add Binary](/src/67-add-binary.cpp) | Easy | Accepted
 68 | Text Justification | Hard | 
 69 | [Sqrt(x)](/src/69-sqrtx.cpp) | Easy | Accepted
 70 | [Climbing Stairs](/src/70-climbing-stairs.py) | Easy | Accepted
@@ -1038,3 +1038,7 @@ ID | Title | Difficulty | Status
 1090 | Largest Values From Labels | Medium | 
 1091 | Shortest Path in Binary Matrix | Medium | 
 1092 | Shortest Common Supersequence | Hard | 
+1093 | [Statistics from a Large Sample](/src/1093-statistics-from-a-large-sample.cpp) | Medium | Accepted
+1094 | [Car Pooling](/src/1094-car-pooling.cpp) | Medium | Accepted
+1095 | [Find in Mountain Array](/src/1095-find-in-mountain-array.cpp) | Hard | Accepted
+1096 | Brace Expansion II | Hard | 
