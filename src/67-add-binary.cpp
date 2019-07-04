@@ -40,15 +40,15 @@ public:
 	}
 };
 
-int main() {
-	Solution s = Solution();
-
-	string a = "1010", b = "1011";
-	
-	string ans = s.addBinary(a, b);
-
-	cout << ans << endl;
-
-	system("pause");
-	return 0;
-}
+//int main() {
+//	Solution s = Solution();
+//
+//	string a = "1010", b = "1011";
+//	
+//	string ans = s.addBinary(a, b);
+//
+//	cout << ans << endl;
+//
+//	system("pause");
+//	return 0;
+//}

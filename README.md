@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%%%%%-------------------------------------------} 28.2%   292/1035
+{ %%%%%%%%%%%%%%%%%-------------------------------------------} 28.4%   296/1043
 ```
 
 ID | Title | Difficulty | Status
@@ -74,16 +74,16 @@ ID | Title | Difficulty | Status
 65 | [Valid Number](/src/65-valid-number.cpp) | Hard | Accepted
 66 | [Plus One](/src/66-plus-one.cpp) | Easy | Accepted
 67 | [Add Binary](/src/67-add-binary.cpp) | Easy | Accepted
-68 | Text Justification | Hard | 
+68 | [Text Justification](/src/68-text-justification.cpp) | Hard | Accepted
 69 | [Sqrt(x)](/src/69-sqrtx.cpp) | Easy | Accepted
 70 | [Climbing Stairs](/src/70-climbing-stairs.py) | Easy | Accepted
-71 | Simplify Path | Medium | 
+71 | [Simplify Path](/src/71-simplify-path.cpp) | Medium | Accepted
 72 | [Edit Distance](/src/72-edit-distance.cpp) | Hard | Accepted
 73 | [Set Matrix Zeroes](/src/73-set-matrix-zeroes.cpp) | Medium | Accepted
-74 | Search a 2D Matrix | Medium | 
+74 | [Search a 2D Matrix](/src/74-search-a-2d-matrix.cpp) | Medium | Accepted
 75 | Sort Colors | Medium | Accepted
 76 | Minimum Window Substring | Hard | Accepted
-77 | Combinations | Medium | 
+77 | [Combinations](/src/77-combinations.cpp) | Medium | Accepted
 78 | [Subsets](/src/78-subsets.py) | Medium | Accepted
 79 | [Word Search](/src/79-word-search.py) | Medium | Accepted
 80 | Remove Duplicates from Sorted Array II | Medium | Accepted
@@ -1042,3 +1042,11 @@ ID | Title | Difficulty | Status
 1094 | [Car Pooling](/src/1094-car-pooling.cpp) | Medium | Accepted
 1095 | [Find in Mountain Array](/src/1095-find-in-mountain-array.cpp) | Hard | Accepted
 1096 | Brace Expansion II | Hard | 
+1099 | Two Sum Less Than K | Easy | 
+1100 | Find K-Length Substrings With No Repeated Characters | Medium | 
+1101 | The Earliest Moment When Everyone Become Friends | Medium | 
+1102 | Path With Maximum Minimum Value | Medium | 
+1103 | Distribute Candies to People | Easy | 
+1104 | Path In Zigzag Labelled Binary Tree | Medium | 
+1105 | Filling Bookcase Shelves | Medium | 
+1106 | Parsing A Boolean Expression | Hard | 
