@@ -28,20 +28,20 @@ private:
 	}
 };
 
-int main() {
-	Solution s = Solution();
-
-	int n = 4;
-	int k = 3;
-	
-	vector<vector<int>> ans = s.combine(n, k);
-
-	for (vector<int> combo : ans) {
-		cout << "[" << combo[0];
-		for (int i = 1; i < combo.size(); ++i)
-			cout << "," << combo[i];
-		cout << "]" << endl;
-	}
-	system("pause");
-	return 0;
-}
+//int main() {
+//	Solution s = Solution();
+//
+//	int n = 4;
+//	int k = 3;
+//	
+//	vector<vector<int>> ans = s.combine(n, k);
+//
+//	for (vector<int> combo : ans) {
+//		cout << "[" << combo[0];
+//		for (int i = 1; i < combo.size(); ++i)
+//			cout << "," << combo[i];
+//		cout << "]" << endl;
+//	}
+//	system("pause");
+//	return 0;
+//}
