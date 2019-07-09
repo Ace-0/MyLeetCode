@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%%%%%%------------------------------------------} 29.4%   307/1043
+{ %%%%%%%%%%%%%%%%%%------------------------------------------} 30.5%   319/1047
 ```
 
 ID | Title | Difficulty | Status
@@ -121,11 +121,11 @@ ID | Title | Difficulty | Status
 112 | [Path Sum](/src/112-path-sum.cpp) | Easy | Accepted
 113 | [Path Sum II](/src/113-path-sum-ii.cpp) | Medium | Accepted
 114 | [Flatten Binary Tree to Linked List](/src/114-flatten-binary-tree-to-linked-list.py) | Medium | Accepted
-115 | Distinct Subsequences | Hard | 
+115 | [Distinct Subsequences](/src/115-distinct-subsequences.cpp) | Hard | Accepted
 116 | [Populating Next Right Pointers in Each Node](/src/116-populating-next-right-pointers-in-each-node.cpp) | Medium | Accepted
-117 | Populating Next Right Pointers in Each Node II | Medium | 
+117 | [Populating Next Right Pointers in Each Node II](/src/117-populating-next-right-pointers-in-each-node-ii.cpp) | Medium | Accepted
 118 | [Pascal's Triangle](/src/118-pascals-triangle.cpp) | Easy | Accepted
-119 | Pascal's Triangle II | Easy | 
+119 | [Pascal's Triangle II](/src/119-pascals-triangle-ii.cpp) | Easy | Accepted
 120 | [Triangle](/src/120-triangle.cpp) | Medium | Accepted
 121 | [Best Time to Buy and Sell Stock](/src/121-best-time-to-buy-and-sell-stock.cpp) | Easy | Accepted
 122 | [Best Time to Buy and Sell Stock II](/src/122-best-time-to-buy-and-sell-stock-ii.cpp) | Easy | Accepted
@@ -135,23 +135,23 @@ ID | Title | Difficulty | Status
 126 | Word Ladder II | Hard | 
 127 | [Word Ladder](/src/127-word-ladder.cpp) | Medium | Accepted
 128 | [Longest Consecutive Sequence](/src/128-longest-consecutive-sequence.cpp) | Hard | Accepted
-129 | Sum Root to Leaf Numbers | Medium | 
+129 | Sum Root to Leaf Numbers | Medium | Accepted
 130 | [Surrounded Regions](/src/130-surrounded-regions.cpp) | Medium | Accepted
 131 | [Palindrome Partitioning](/src/131-palindrome-partitioning.cpp) | Medium | Accepted
 132 | Palindrome Partitioning II | Hard | 
 133 | [Clone Graph](/src/133-clone-graph.cpp) | Medium | Accepted
 134 | [Gas Station](/src/134-gas-station.cpp) | Medium | Accepted
-135 | Candy | Hard | 
+135 | [Candy](/src/135-candy.cpp) | Hard | Accepted
 136 | [Single Number](/src/136-single-number.py) | Easy | Accepted
-137 | Single Number II | Medium | 
+137 | [Single Number II](/src/137-single-number-ii.cpp) | Medium | 
 138 | [Copy List with Random Pointer](/src/138-copy-list-with-random-pointer.cpp) | Medium | Accepted
 139 | [Word Break](/src/139-word-break.py) | Medium | Accepted
 140 | [Word Break II](/src/140-word-break-ii.cpp) | Hard | Accepted
 141 | [Linked List Cycle](/src/141-linked-list-cycle.py) | Easy | Accepted
 142 | [Linked List Cycle II](/src/142-linked-list-cycle-II.cpp) | Medium | Accepted
 143 | [Reorder List](/src/143-reorder-list.cpp) | Medium | Accepted
-144 | Binary Tree Preorder Traversal | Medium | 
-145 | Binary Tree Postorder Traversal | Hard | 
+144 | Binary Tree Preorder Traversal | Medium | Accepted
+145 | Binary Tree Postorder Traversal | Hard | Accepted
 146 | [LRU Cache](/src/146-lru-cache.cpp) | Medium | Accepted
 147 | [Insertion Sort List](/src/147-insertion-sort-list.cpp) | Medium | Accepted
 148 | [Sort List](/src/148-sort-list.py) | Medium | Accepted
@@ -703,7 +703,7 @@ ID | Title | Difficulty | Status
 744 | Find Smallest Letter Greater Than Target | Easy | 
 745 | Prefix and Suffix Search | Hard | 
 746 | Min Cost Climbing Stairs | Easy | 
-747 | Largest Number At Least Twice of Others | Easy | 
+747 | Largest Number At Least Twice of Others | Easy | Accepted
 748 | Shortest Completing Word | Easy | 
 749 | Contain Virus | Hard | 
 750 | Number Of Corner Rectangles | Medium | 
@@ -1050,3 +1050,7 @@ ID | Title | Difficulty | Status
 1104 | Path In Zigzag Labelled Binary Tree | Medium | 
 1105 | Filling Bookcase Shelves | Medium | 
 1106 | Parsing A Boolean Expression | Hard | 
+1108 | [Defanging an IP Address](/src/1108-defanging-an-ip-address.cpp) | Easy | Accepted
+1109 | [Corporate Flight Bookings](/src/1109-corporate-flight-bookings.cpp) | Medium | Accepted
+1110 | [Delete Nodes And Return Forest](/src/1110-delete-nodes-and-return-forest.cpp) | Medium | Accepted
+1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](/src/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.cpp) | Medium | Accepted
