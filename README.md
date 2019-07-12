@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%%%%%%------------------------------------------} 30.5%   319/1047
+{ %%%%%%%%%%%%%%%%%%%-----------------------------------------} 32.1%   336/1047
 ```
 
 ID | Title | Difficulty | Status
@@ -157,10 +157,10 @@ ID | Title | Difficulty | Status
 148 | [Sort List](/src/148-sort-list.py) | Medium | Accepted
 149 | Max Points on a Line | Hard | 
 150 | [Evaluate Reverse Polish Notation](/src/150-evaluate-reverse-polish-notation.cpp) | Medium | Accepted
-151 | Reverse Words in a String | Medium | 
+151 | [Reverse Words in a String](/src/151-reverse-words-in-a-string.cpp) | Medium | Accepted
 152 | [Maximum Product Subarray](/src/152-maximum-product-subarray.cpp) | Medium | Accepted
-153 | Find Minimum in Rotated Sorted Array | Medium | 
-154 | Find Minimum in Rotated Sorted Array II | Hard | 
+153 | [Find Minimum in Rotated Sorted Array](/src/153-find-minimum-in-rotated-sorted-array.cpp) | Medium | Accepted
+154 | [Find Minimum in Rotated Sorted Array II](/src/154-find-minimum-in-rotated-sorted-array-ii.cpp) | Hard | Accepted
 155 | [Min Stack](/src/155-min-stack.py) | Easy | Accepted
 156 | Binary Tree Upside Down | Medium | 
 157 | Read N Characters Given Read4 | Easy | 
@@ -171,37 +171,37 @@ ID | Title | Difficulty | Status
 162 | [Find Peak Element](/src/162-find-peak-element.cpp) | Medium | Accepted
 163 | Missing Ranges | Medium | 
 164 | Maximum Gap | Hard | 
-165 | Compare Version Numbers | Medium | 
+165 | Compare Version Numbers | Medium | Accepted
 166 | [Fraction to Recurring Decimal](/src/166-fraction-to-recurring-decimal.cpp) | Medium | Accepted
 167 | Two Sum II - Input array is sorted | Easy | Accepted
-168 | Excel Sheet Column Title | Easy | 
+168 | Excel Sheet Column Title | Easy | Accepted
 169 | [Majority Element](/src/169-majority-element.py) | Easy | Accepted
 170 | Two Sum III - Data structure design | Easy | 
 171 | [Excel Sheet Column Number](/src/171-excel-sheet-column-number.py) | Easy | Accepted
 172 | [Factorial Trailing Zeroes](/src/172-factorial-trailing-zeroes.cpp) | Easy | Accepted
-173 | Binary Search Tree Iterator | Medium | 
-174 | Dungeon Game | Hard | 
+173 | [Binary Search Tree Iterator](/src/173-binary-search-tree-iterator.cpp) | Medium | Accepted
+174 | [Dungeon Game](/src/174-dungeon-game.cpp) | Hard | Accepted
 179 | Largest Number | Medium | Accepted
 186 | Reverse Words in a String II | Medium | 
-187 | Repeated DNA Sequences | Medium | 
+187 | Repeated DNA Sequences | Medium | Accepted
 188 | Best Time to Buy and Sell Stock IV | Hard | 
 189 | [Rotate Array](/src/189-rotate-array.cpp) | Easy | Accepted
 190 | [Reverse Bits](/src/190-reverse-bits.cpp) | Easy | Accepted
 191 | [Number of 1 Bits](/src/191-number-of-1-bits.cpp) | Easy | Accepted
 198 | [House Robber](/src/198-house-robber.py) | Easy | Accepted
-199 | Binary Tree Right Side View | Medium | 
+199 | Binary Tree Right Side View | Medium | Accepted
 200 | [Number of Islands](/src/200-number-of-islands.py) | Medium | Accepted
-201 | Bitwise AND of Numbers Range | Medium | 
+201 | [Bitwise AND of Numbers Range](/src/201-bitwise-and-of-numbers-range.cpp) | Medium | Accepted
 202 | [Happy Number](/src/202-happy-number.cpp) | Easy | Accepted
 203 | Remove Linked List Elements | Easy | Accepted
 204 | [Count Primes](/src/204-count-primes.cpp) | Easy | Accepted
-205 | Isomorphic Strings | Easy | 
+205 | Isomorphic Strings | Easy | Accepted
 206 | [Reverse Linked List](/src/206-reverse-linked-list.py) | Easy | Accepted
 207 | [Course Schedule](/src/207-course-schedule.cpp) | Medium | Accepted
 208 | [Implement Trie (Prefix Tree)](/src/208-implement-trie-prefix-tree.py) | Medium | Accepted
 209 | [Minimum Size Subarray Sum](/src/209-minimum-size-subarray-sum.cpp) | Medium | Accepted
 210 | Course Schedule II | Medium | Accepted
-211 | Add and Search Word - Data structure design | Medium | 
+211 | [Add and Search Word - Data structure design](/src/211-add-and-search-word-data-structure-design.cpp) | Medium | Accepted
 212 | [Word Search II](/src/212-word-search-ii.cpp) | Hard | Accepted
 213 | [House Robber II](/src/213-house-robber-ii.py) | Medium | Accepted
 214 | Shortest Palindrome | Hard | 
@@ -209,13 +209,13 @@ ID | Title | Difficulty | Status
 216 | [Combination Sum III](/src/216-combination-sum-iii.py) | Medium | Accepted
 217 | [Contains Duplicate](/src/217-contains-duplicate.py) | Easy | Accepted
 218 | [The Skyline Problem](/src/218-the-skyline-problem.cpp) | Hard | 
-219 | Contains Duplicate II | Easy | 
-220 | Contains Duplicate III | Medium | 
+219 | Contains Duplicate II | Easy | Accepted
+220 | [Contains Duplicate III](/src/220-contains-duplicate-iii.cpp) | Medium | Accepted
 221 | [Maximal Square](/src/221-maximal-square.cpp) | Medium | Accepted
-222 | Count Complete Tree Nodes | Medium | 
-223 | Rectangle Area | Medium | 
+222 | [Count Complete Tree Nodes](/src/222-count-complete-tree-nodes.cpp) | Medium | Accepted
+223 | Rectangle Area | Medium | Accepted
 224 | [Basic Calculator](/src/224-basic-calculator.cpp) | Hard | Accepted
-225 | Implement Stack using Queues | Easy | 
+225 | [Implement Stack using Queues](/src/225-implement-stack-using-queues.cpp) | Easy | Accepted
 226 | [Invert Binary Tree](/src/226-invert-binary-tree.py) | Easy | Accepted
 227 | [Basic Calculator II](/src/227-basic-calculator-ii.cpp) | Medium | Accepted
 228 | Summary Ranges | Medium | 
