@@ -37,17 +37,17 @@ private:
 	}
 };
 
-int main() {
-	Solution s = Solution();
-
-	string testcase = "2*3-4*5";
-	
-	vector<int> ans = s.diffWaysToCompute(testcase);
-
-	cout << "[ ";
-	for (int n : ans)
-		cout << n << " ";
-	cout << "]" << endl;
-	system("pause");
-	return 0;
-}
+//int main() {
+//	Solution s = Solution();
+//
+//	string testcase = "2*3-4*5";
+//	
+//	vector<int> ans = s.diffWaysToCompute(testcase);
+//
+//	cout << "[ ";
+//	for (int n : ans)
+//		cout << n << " ";
+//	cout << "]" << endl;
+//	system("pause");
+//	return 0;
+//}

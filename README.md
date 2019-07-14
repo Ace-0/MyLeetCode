@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%%%%%%%-----------------------------------------} 32.1%   336/1047
+{ %%%%%%%%%%%%%%%%%%%%----------------------------------------} 33.2%   350/1055
 ```
 
 ID | Title | Difficulty | Status
@@ -218,20 +218,20 @@ ID | Title | Difficulty | Status
 225 | [Implement Stack using Queues](/src/225-implement-stack-using-queues.cpp) | Easy | Accepted
 226 | [Invert Binary Tree](/src/226-invert-binary-tree.py) | Easy | Accepted
 227 | [Basic Calculator II](/src/227-basic-calculator-ii.cpp) | Medium | Accepted
-228 | Summary Ranges | Medium | 
-229 | Majority Element II | Medium | 
+228 | Summary Ranges | Medium | Accepted
+229 | [Majority Element II](/src/229-majority-element-ii.cpp) | Medium | Accepted
 230 | Kth Smallest Element in a BST | Medium | Accepted
-231 | Power of Two | Easy | 
-232 | Implement Queue using Stacks | Easy | 
+231 | Power of Two | Easy | Accepted
+232 | [Implement Queue using Stacks](/src/232-implement-queue-using-stacks.cpp) | Easy | Accepted
 233 | Number of Digit One | Hard | 
 234 | [Palindrome Linked List](/src/234-palindrome-linked-list.py) | Easy | Accepted
-235 | Lowest Common Ancestor of a Binary Search Tree | Easy | 
+235 | Lowest Common Ancestor of a Binary Search Tree | Easy | Accepted
 236 | [Lowest Common Ancestor of a Binary Tree](/src/236-lowest-common-ancestor-of-a-binary-tree.py) | Medium | Accepted
 237 | Delete Node in a Linked List | Easy | Accepted
 238 | [Product of Array Except Self](/src/238-product-of-array-except-self.py) | Medium | Accepted
 239 | [Sliding Window Maximum](/src/239-sliding-window-maximum.py) | Hard | Accepted
 240 | [Search a 2D Matrix II](/src/240-search-a-2d-matrix-ii.cpp) | Medium | Accepted
-241 | Different Ways to Add Parentheses | Medium | 
+241 | [Different Ways to Add Parentheses](/src/241-different-ways-to-add-parentheses.cpp) | Medium | Accepted
 242 | [Valid Anagram](/src/242-valid-anagram.cpp) | Easy | Accepted
 243 | Shortest Word Distance | Easy | 
 244 | Shortest Word Distance II | Medium | 
@@ -248,12 +248,12 @@ ID | Title | Difficulty | Status
 255 | Verify Preorder Sequence in Binary Search Tree | Medium | 
 256 | Paint House | Easy | 
 257 | Binary Tree Paths | Easy | 
-258 | Add Digits | Easy | 
+258 | Add Digits | Easy | Accepted
 259 | 3Sum Smaller | Medium | 
 260 | Single Number III | Medium | 
 261 | Graph Valid Tree | Medium | 
-263 | Ugly Number | Easy | 
-264 | Ugly Number II | Medium | 
+263 | Ugly Number | Easy | Accepted
+264 | [Ugly Number II](/src/264-ugly-number-ii.cpp) | Medium | Accepted
 265 | Paint House II | Hard | 
 266 | Palindrome Permutation | Easy | 
 267 | Palindrome Permutation II | Medium | 
@@ -263,17 +263,17 @@ ID | Title | Difficulty | Status
 271 | Encode and Decode Strings | Medium | 
 272 | Closest Binary Search Tree Value II | Hard | 
 273 | Integer to English Words | Hard | 
-274 | H-Index | Medium | 
-275 | H-Index II | Medium | 
+274 | H-Index | Medium | Accepted
+275 | [H-Index II](/src/275-h-index-ii.cpp) | Medium | Accepted
 276 | Paint Fence | Easy | 
 277 | Find the Celebrity | Medium | 
-278 | First Bad Version | Easy | 
+278 | First Bad Version | Easy | Accepted
 279 | [Perfect Squares](/src/279-perfect-squares.cpp) | Medium | Accepted
 280 | Wiggle Sort | Medium | 
 281 | Zigzag Iterator | Medium | 
-282 | Expression Add Operators | Hard | 
+282 | [Expression Add Operators](/src/282-expression-add-operators.cpp) | Hard | Accepted
 283 | [Move Zeroes](/src/283-move-zeroes.py) | Easy | Accepted
-284 | Peeking Iterator | Medium | 
+284 | Peeking Iterator | Medium | Accepted
 285 | Inorder Successor in BST | Medium | 
 286 | Walls and Gates | Medium | 
 287 | [Find the Duplicate Number](/src/287-find-the-duplicate-number.py) | Medium | Accepted
@@ -1054,3 +1054,11 @@ ID | Title | Difficulty | Status
 1109 | [Corporate Flight Bookings](/src/1109-corporate-flight-bookings.cpp) | Medium | Accepted
 1110 | [Delete Nodes And Return Forest](/src/1110-delete-nodes-and-return-forest.cpp) | Medium | Accepted
 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](/src/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.cpp) | Medium | Accepted
+1118 | Number of Days in a Month | Easy | 
+1119 | Remove Vowels from a String | Easy | 
+1120 | Maximum Average Subtree | Medium | 
+1121 | Divide Array Into Increasing Sequences | Hard | 
+1122 | Relative Sort Array | Easy | 
+1123 | Lowest Common Ancestor of Deepest Leaves | Medium | 
+1124 | Longest Well-Performing Interval | Medium | 
+1125 | Smallest Sufficient Team | Hard | 
