@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%%%%%%%%----------------------------------------} 33.2%   350/1055
+{ %%%%%%%%%%%%%%%%%%%%----------------------------------------} 33.9%   358/1055
 ```
 
 ID | Title | Difficulty | Status
@@ -279,9 +279,9 @@ ID | Title | Difficulty | Status
 287 | [Find the Duplicate Number](/src/287-find-the-duplicate-number.py) | Medium | Accepted
 288 | Unique Word Abbreviation | Medium | 
 289 | [Game of Life](/src/289-game-of-life.cpp) | Medium | Accepted
-290 | Word Pattern | Easy | 
+290 | Word Pattern | Easy | Accepted
 291 | Word Pattern II | Hard | 
-292 | Nim Game | Easy | 
+292 | Nim Game | Easy | Accepted
 293 | Flip Game | Easy | 
 294 | Flip Game II | Medium | 
 295 | [Find Median from Data Stream](/src/295-find-median-from-data-stream.cpp) | Hard | Accepted
@@ -292,17 +292,17 @@ ID | Title | Difficulty | Status
 300 | [Longest Increasing Subsequence](/src/300-longest-increasing-subsequence.cpp) | Medium | Accepted
 301 | [Remove Invalid Parentheses](/src/301-remove-invalid-parentheses.py) | Hard | Accepted
 302 | Smallest Rectangle Enclosing Black Pixels | Hard | 
-303 | Range Sum Query - Immutable | Easy | 
-304 | Range Sum Query 2D - Immutable | Medium | 
+303 | [Range Sum Query - Immutable](/src/303-range-sum-query-immutable.cpp) | Easy | Accepted
+304 | [Range Sum Query 2D - Immutable](/src/304-range-sum-query-2d-immutable.cpp) | Medium | Accepted
 305 | Number of Islands II | Hard | 
-306 | Additive Number | Medium | 
-307 | Range Sum Query - Mutable | Medium | 
+306 | [Additive Number](/src/306-additive-number.cpp) | Medium | Accepted
+307 | [Range Sum Query - Mutable](/src/307-range-sum-query-mutable.cpp) | Medium | Accepted
 308 | Range Sum Query 2D - Mutable | Hard | 
 309 | [Best Time to Buy and Sell Stock with Cooldown](/src/309-best-time-to-buy-and-sell-stock-with-cooldown.py) | Medium | Accepted
-310 | Minimum Height Trees | Medium | 
+310 | [Minimum Height Trees](/src/310-minimum-height-trees.cpp) | Medium | Accepted
 311 | Sparse Matrix Multiplication | Medium | 
 312 | [Burst Balloons](/src/312-burst-balloons.cpp) | Hard | Accepted
-313 | Super Ugly Number | Medium | 
+313 | [Super Ugly Number](/src/313-super-ugly-number.cpp) | Medium | Accepted
 314 | Binary Tree Vertical Order Traversal | Medium | 
 315 | [Count of Smaller Numbers After Self](/src/315-count-of-smaller-numbers-after-self.cpp) | Hard | Accepted
 316 | [Remove Duplicate Letters](/src/316-remove-duplicate-letters.cpp) | Hard | Accepted
@@ -794,7 +794,7 @@ ID | Title | Difficulty | Status
 835 | Image Overlap | Medium | 
 836 | Rectangle Overlap | Easy | 
 837 | New 21 Game | Medium | 
-838 | Push Dominoes | Medium | Accepted
+838 | [Push Dominoes](/src/838-push-dominoes.cpp) | Medium | Accepted
 839 | Similar String Groups | Hard | 
 840 | Magic Squares In Grid | Easy | 
 841 | Keys and Rooms | Medium | 
