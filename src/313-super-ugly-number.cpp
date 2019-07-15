@@ -25,16 +25,16 @@ public:
 	}
 };
 
-int main() {
-	Solution s = Solution();
-
-	vector<int> testcase = { 2,7,13,19 };
-	int k = 12;
-	
-	int ans = s.nthSuperUglyNumber(k, testcase);
-
-	cout << ans << endl;
-
-	system("pause");
-	return 0;
-}
+//int main() {
+//	Solution s = Solution();
+//
+//	vector<int> testcase = { 2,7,13,19 };
+//	int k = 12;
+//	
+//	int ans = s.nthSuperUglyNumber(k, testcase);
+//
+//	cout << ans << endl;
+//
+//	system("pause");
+//	return 0;
+//}
