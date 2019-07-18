@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%%%%%%%%----------------------------------------} 33.2%   350/1055
+{ %%%%%%%%%%%%%%%%%%%%%---------------------------------------} 34.9%   368/1055
 ```
 
 ID | Title | Difficulty | Status
@@ -279,9 +279,9 @@ ID | Title | Difficulty | Status
 287 | [Find the Duplicate Number](/src/287-find-the-duplicate-number.py) | Medium | Accepted
 288 | Unique Word Abbreviation | Medium | 
 289 | [Game of Life](/src/289-game-of-life.cpp) | Medium | Accepted
-290 | Word Pattern | Easy | 
+290 | Word Pattern | Easy | Accepted
 291 | Word Pattern II | Hard | 
-292 | Nim Game | Easy | 
+292 | Nim Game | Easy | Accepted
 293 | Flip Game | Easy | 
 294 | Flip Game II | Medium | 
 295 | [Find Median from Data Stream](/src/295-find-median-from-data-stream.cpp) | Hard | Accepted
@@ -292,23 +292,23 @@ ID | Title | Difficulty | Status
 300 | [Longest Increasing Subsequence](/src/300-longest-increasing-subsequence.cpp) | Medium | Accepted
 301 | [Remove Invalid Parentheses](/src/301-remove-invalid-parentheses.py) | Hard | Accepted
 302 | Smallest Rectangle Enclosing Black Pixels | Hard | 
-303 | Range Sum Query - Immutable | Easy | 
-304 | Range Sum Query 2D - Immutable | Medium | 
+303 | Range Sum Query - Immutable | Easy | Accepted
+304 | Range Sum Query 2D - Immutable | Medium | Accepted
 305 | Number of Islands II | Hard | 
-306 | Additive Number | Medium | 
-307 | Range Sum Query - Mutable | Medium | 
+306 | Additive Number | Medium | Accepted
+307 | Range Sum Query - Mutable | Medium | Accepted
 308 | Range Sum Query 2D - Mutable | Hard | 
 309 | [Best Time to Buy and Sell Stock with Cooldown](/src/309-best-time-to-buy-and-sell-stock-with-cooldown.py) | Medium | Accepted
-310 | Minimum Height Trees | Medium | 
+310 | Minimum Height Trees | Medium | Accepted
 311 | Sparse Matrix Multiplication | Medium | 
 312 | [Burst Balloons](/src/312-burst-balloons.cpp) | Hard | Accepted
-313 | Super Ugly Number | Medium | 
+313 | Super Ugly Number | Medium | Accepted
 314 | Binary Tree Vertical Order Traversal | Medium | 
 315 | [Count of Smaller Numbers After Self](/src/315-count-of-smaller-numbers-after-self.cpp) | Hard | Accepted
 316 | [Remove Duplicate Letters](/src/316-remove-duplicate-letters.cpp) | Hard | Accepted
 317 | Shortest Distance from All Buildings | Hard | 
-318 | Maximum Product of Word Lengths | Medium | 
-319 | Bulb Switcher | Medium | 
+318 | [Maximum Product of Word Lengths](/src/318-maximum-product-of-word-lengths.cpp) | Medium | Accepted
+319 | Bulb Switcher | Medium | Accepted
 320 | Generalized Abbreviation | Medium | 
 321 | Create Maximum Number | Hard | 
 322 | Coin Change | Medium | Accepted
@@ -320,8 +320,8 @@ ID | Title | Difficulty | Status
 328 | [Odd Even Linked List](/src/328-odd-even-linked-list.cpp) | Medium | Accepted
 329 | [Longest Increasing Path in a Matrix](/src/329-longest-increasing-path-in-a-matrix.cpp) | Hard | Accepted
 330 | [Patching Array](/src/330-patching-array.cpp) | Hard | Accepted
-331 | Verify Preorder Serialization of a Binary Tree | Medium | 
-332 | Reconstruct Itinerary | Medium | 
+331 | [Verify Preorder Serialization of a Binary Tree](/src/331-verify-preorder-serialization-of-a-binary-tree.cpp) | Medium | Accepted
+332 | [Reconstruct Itinerary](/src/332-reconstruct-itinerary.cpp) | Medium | Accepted
 333 | Largest BST Subtree | Medium | 
 334 | [Increasing Triplet Subsequence](/src/334-increasing-triplet-subsequence.cpp) | Medium | Accepted
 335 | Self Crossing | Hard | 
@@ -331,7 +331,7 @@ ID | Title | Difficulty | Status
 339 | Nested List Weight Sum | Easy | 
 340 | Longest Substring with At Most K Distinct Characters | Hard | 
 341 | [Flatten Nested List Iterator](/src/341-flatten-nested-list-iterator.cpp) | Medium | Accepted
-342 | Power of Four | Easy | 
+342 | Power of Four | Easy | Accepted
 343 | Integer Break | Medium | 
 344 | [Reverse String](/src/344-reverse-string.py) | Easy | Accepted
 345 | [Reverse Vowels of a String](/src/345-reverse-vowels-of-a-string.cpp) | Easy | Accepted
@@ -341,12 +341,12 @@ ID | Title | Difficulty | Status
 349 | Intersection of Two Arrays | Easy | Accepted
 350 | [Intersection of Two Arrays II](/src/350-intersection-of-two-arrays-ii.cpp) | Easy | Accepted
 351 | Android Unlock Patterns | Medium | 
-352 | Data Stream as Disjoint Intervals | Hard | 
+352 | [Data Stream as Disjoint Intervals](/src/352-data-stream-as-disjoint-intervals.cpp) | Hard | Accepted
 353 | Design Snake Game | Medium | 
-354 | Russian Doll Envelopes | Hard | 
-355 | Design Twitter | Medium | 
+354 | [Russian Doll Envelopes](/src/354-russian-doll-envelopes.cpp) | Hard | Accepted
+355 | [Design Twitter](/src/355-design-twitter.cpp) | Medium | Accepted
 356 | Line Reflection | Medium | 
-357 | Count Numbers with Unique Digits | Medium | 
+357 | [Count Numbers with Unique Digits](/src/357-count-numbers-with-unique-digits.cpp) | Medium | Accepted
 358 | Rearrange String k Distance Apart | Hard | 
 359 | Logger Rate Limiter | Easy | 
 360 | Sort Transformed Array | Medium | 
@@ -356,7 +356,7 @@ ID | Title | Difficulty | Status
 364 | Nested List Weight Sum II | Medium | 
 365 | Water and Jug Problem | Medium | 
 366 | Find Leaves of Binary Tree | Medium | 
-367 | Valid Perfect Square | Easy | 
+367 | Valid Perfect Square | Easy | Accepted
 368 | Largest Divisible Subset | Medium | 
 369 | Plus One Linked List | Medium | 
 370 | Range Addition | Medium | 
