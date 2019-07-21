@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%%%%%%%%%---------------------------------------} 34.9%   368/1055
+{ %%%%%%%%%%%%%%%%%%%%%%--------------------------------------} 35.9%   380/1059
 ```
 
 ID | Title | Difficulty | Status
@@ -325,7 +325,7 @@ ID | Title | Difficulty | Status
 333 | Largest BST Subtree | Medium | 
 334 | [Increasing Triplet Subsequence](/src/334-increasing-triplet-subsequence.cpp) | Medium | Accepted
 335 | Self Crossing | Hard | 
-336 | Palindrome Pairs | Hard | 
+336 | [Palindrome Pairs](/src/336-palindrome-pairs.cpp) | Hard | Accepted
 337 | [House Robber III](/src/337-house-robber-iii.py) | Medium | Accepted
 338 | [Counting Bits](/src/338-counting-bits.py) | Medium | Accepted
 339 | Nested List Weight Sum | Easy | 
@@ -352,25 +352,25 @@ ID | Title | Difficulty | Status
 360 | Sort Transformed Array | Medium | 
 361 | Bomb Enemy | Medium | 
 362 | Design Hit Counter | Medium | 
-363 | Max Sum of Rectangle No Larger Than K | Hard | 
+363 | [Max Sum of Rectangle No Larger Than K](/src/363-max-sum-of-rectangle-no-larger-than-k.cpp) | Hard | Accepted
 364 | Nested List Weight Sum II | Medium | 
 365 | Water and Jug Problem | Medium | 
 366 | Find Leaves of Binary Tree | Medium | 
 367 | Valid Perfect Square | Easy | Accepted
-368 | Largest Divisible Subset | Medium | 
+368 | [Largest Divisible Subset](/src/368-largest-divisible-subset.cpp) | Medium | Accepted
 369 | Plus One Linked List | Medium | 
 370 | Range Addition | Medium | 
 371 | [Sum of Two Integers](/src/371-sum-of-two-integers.py) | Easy | Accepted
 372 | Super Pow | Medium | 
-373 | Find K Pairs with Smallest Sums | Medium | 
-374 | Guess Number Higher or Lower | Easy | 
-375 | Guess Number Higher or Lower II | Medium | 
-376 | Wiggle Subsequence | Medium | 
+373 | [Find K Pairs with Smallest Sums](/src/373-find-k-pairs-with-smallest-sums.cpp) | Medium | Accepted
+374 | Guess Number Higher or Lower | Easy | Accepted
+375 | [Guess Number Higher or Lower II](/src/375-guess-number-higher-or-lower-ii.cpp) | Medium | Accepted
+376 | Wiggle Subsequence | Medium | Accepted
 377 | [Combination Sum IV](/src/377-combination-sum-iv.py) | Medium | Accepted
 378 | [Kth Smallest Element in a Sorted Matrix](/src/378-kth-smallest-element-in-a-sorted-matrix.cpp) | Medium | Accepted
 379 | Design Phone Directory | Medium | 
 380 | [Insert Delete GetRandom O(1)](/src/380-insert-delete-getrandom-o1.cpp) | Medium | Accepted
-381 | Insert Delete GetRandom O(1) - Duplicates allowed | Hard | 
+381 | [Insert Delete GetRandom O(1) - Duplicates allowed](/src/381-insert-delete-getrandom-o1-duplicates-allowed.cpp) | Hard | Accepted
 382 | Linked List Random Node | Medium | 
 383 | Ransom Note | Easy | 
 384 | [Shuffle an Array](/src/384-shuffle-an-array.cpp) | Medium | Accepted
@@ -1062,3 +1062,7 @@ ID | Title | Difficulty | Status
 1123 | Lowest Common Ancestor of Deepest Leaves | Medium | 
 1124 | Longest Well-Performing Interval | Medium | 
 1125 | Smallest Sufficient Team | Hard | 
+1128 | Number of Equivalent Domino Pairs | Easy | Accepted
+1129 | Shortest Path with Alternating Colors | Medium | Accepted
+1130 | Minimum Cost Tree From Leaf Values | Medium | Accepted
+1131 | Maximum of Absolute Value Expression | Medium | Accepted
