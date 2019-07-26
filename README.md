@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%%%%%%%%%%--------------------------------------} 35.9%   380/1059
+{ %%%%%%%%%%%%%%%%%%%%%%%-------------------------------------} 37.8%   400/1059
 ```
 
 ID | Title | Difficulty | Status
@@ -372,41 +372,41 @@ ID | Title | Difficulty | Status
 380 | [Insert Delete GetRandom O(1)](/src/380-insert-delete-getrandom-o1.cpp) | Medium | Accepted
 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](/src/381-insert-delete-getrandom-o1-duplicates-allowed.cpp) | Hard | Accepted
 382 | Linked List Random Node | Medium | 
-383 | Ransom Note | Easy | 
+383 | Ransom Note | Easy | Accepted
 384 | [Shuffle an Array](/src/384-shuffle-an-array.cpp) | Medium | Accepted
 385 | Mini Parser | Medium | 
-386 | Lexicographical Numbers | Medium | 
+386 | [Lexicographical Numbers](/src/386-lexicographical-numbers.cpp) | Medium | Accepted
 387 | [First Unique Character in a String](/src/387-first-unique-character-in-a-string.cpp) | Easy | Accepted
-388 | Longest Absolute File Path | Medium | 
-389 | Find the Difference | Easy | 
-390 | Elimination Game | Medium | 
-391 | Perfect Rectangle | Hard | 
-392 | Is Subsequence | Medium | 
+388 | [Longest Absolute File Path](/src/388-longest-absolute-file-path.cpp) | Medium | Accepted
+389 | Find the Difference | Easy | Accepted
+390 | Elimination Game | Medium | Accepted
+391 | [Perfect Rectangle](/src/391-perfect-rectangle.cpp) | Hard | Accepted
+392 | [Is Subsequence](/src/392-is-subsequence.cpp) | Medium | Accepted
 393 | UTF-8 Validation | Medium | 
 394 | [Decode String](/src/394-decode-string.py) | Medium | Accepted
 395 | [Longest Substring with At Least K Repeating Characters](/src/395-longest-substring-with-at-least-k-repeating-characters.cpp) | Medium | Accepted
-396 | Rotate Function | Medium | 
-397 | Integer Replacement | Medium | 
+396 | Rotate Function | Medium | Accepted
+397 | [Integer Replacement](/src/397-integer-replacement.cpp) | Medium | Accepted
 398 | Random Pick Index | Medium | 
-399 | Evaluate Division | Medium | 
-400 | Nth Digit | Easy | 
-401 | Binary Watch | Easy | 
-402 | Remove K Digits | Medium | 
-403 | Frog Jump | Hard | 
-404 | Sum of Left Leaves | Easy | 
-405 | Convert a Number to Hexadecimal | Easy | 
+399 | [Evaluate Division](/src/399-evaluate-division.cpp) | Medium | Accepted
+400 | Nth Digit | Easy | Accepted
+401 | [Binary Watch](/src/401-binary-watch.cpp) | Easy | Accepted
+402 | [Remove K Digits](/src/402-remove-k-digits.cpp) | Medium | Accepted
+403 | [Frog Jump](/src/403-frog-jump.cpp) | Hard | Accepted
+404 | Sum of Left Leaves | Easy | Accepted
+405 | Convert a Number to Hexadecimal | Easy | Accepted
 406 | [Queue Reconstruction by Height](/src/406-queue-reconstruction-by-height.py) | Medium | Accepted
 407 | Trapping Rain Water II | Hard | 
 408 | Valid Word Abbreviation | Easy | 
-409 | Longest Palindrome | Easy | 
+409 | Longest Palindrome | Easy | Accepted
 410 | Split Array Largest Sum | Hard | 
 411 | Minimum Unique Word Abbreviation | Hard | 
 412 | [Fizz Buzz](/src/412-fizz-buzz.py) | Easy | Accepted
 413 | Arithmetic Slices | Medium | Accepted
-414 | Third Maximum Number | Easy | 
-415 | Add Strings | Easy | 
+414 | Third Maximum Number | Easy | Accepted
+415 | Add Strings | Easy | Accepted
 416 | [Partition Equal Subset Sum](/src/416-partition-equal-subset-sum.py) | Medium | Accepted
-417 | Pacific Atlantic Water Flow | Medium | 
+417 | [Pacific Atlantic Water Flow](/src/417-pacific-atlantic-water-flow.cpp) | Medium | Accepted
 418 | Sentence Screen Fitting | Medium | 
 419 | Battleships in a Board | Medium | 
 420 | Strong Password Checker | Hard | 
@@ -427,7 +427,7 @@ ID | Title | Difficulty | Status
 435 | Non-overlapping Intervals | Medium | 
 436 | Find Right Interval | Medium | 
 437 | [Path Sum III](/src/437-path-sum-iii.py) | Easy | Accepted
-438 | [Find All Anagrams in a String](/src/438-find-all-anagrams-in-a-string.py) | Easy | Accepted
+438 | [Find All Anagrams in a String](/src/438-find-all-anagrams-in-a-string.py) | Medium | Accepted
 439 | Ternary Expression Parser | Medium | 
 440 | K-th Smallest in Lexicographical Order | Hard | 
 441 | Arranging Coins | Easy | 
@@ -1026,10 +1026,10 @@ ID | Title | Difficulty | Status
 1072 | Flip Columns For Maximum Number of Equal Rows | Medium | 
 1073 | Adding Two Negabinary Numbers | Medium | 
 1074 | Number of Submatrices That Sum to Target | Hard | 
-1078 | Occurrences After Bigram | Easy | Accepted
-1079 | Letter Tile Possibilities | Medium | Accepted
-1080 | Insufficient Nodes in Root to Leaf Paths | Medium | Accepted
-1081 | Smallest Subsequence of Distinct Characters | Medium | Accepted
+1078 | [Occurrences After Bigram](/src/1078-occurrences-after-bigram.cpp) | Easy | Accepted
+1079 | [Letter Tile Possibilities](/src/1079-letter-tile-possibilities.cpp) | Medium | Accepted
+1080 | [Insufficient Nodes in Root to Leaf Paths](/src/1080-insufficient-nodes-in-root-to-leaf-paths.cpp) | Medium | Accepted
+1081 | [Smallest Subsequence of Distinct Characters](/src/1081-smallest-subsequence-of-distinct-characters.cpp) | Medium | Accepted
 1085 | Sum of Digits in the Minimum Number | Easy | 
 1086 | High Five | Easy | 
 1087 | Brace Expansion | Medium | 
@@ -1062,7 +1062,7 @@ ID | Title | Difficulty | Status
 1123 | Lowest Common Ancestor of Deepest Leaves | Medium | 
 1124 | Longest Well-Performing Interval | Medium | 
 1125 | Smallest Sufficient Team | Hard | 
-1128 | Number of Equivalent Domino Pairs | Easy | Accepted
-1129 | Shortest Path with Alternating Colors | Medium | Accepted
-1130 | Minimum Cost Tree From Leaf Values | Medium | Accepted
-1131 | Maximum of Absolute Value Expression | Medium | Accepted
+1128 | [Number of Equivalent Domino Pairs](/src/1128-number-of-equivalent-domino-pairs.cpp) | Easy | Accepted
+1129 | [Shortest Path with Alternating Colors](/src/1129-shortest-path-with-alternating-colors.cpp) | Medium | Accepted
+1130 | [Minimum Cost Tree From Leaf Values](/src/1130-minimum-cost-tree-from-leaf-values.cpp) | Medium | Accepted
+1131 | [Maximum of Absolute Value Expression](/src/1131-maximum-of-absolute-value-expression.cpp) | Medium | Accepted

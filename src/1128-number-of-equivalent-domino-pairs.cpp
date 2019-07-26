@@ -1,4 +1,4 @@
-// 5087. Letter Tile Possibilities
+// 1128. Number of Equivalent Domino Pairs
 
 
 #include <iostream>
