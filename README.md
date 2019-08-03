@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%%%%%%%%%%%-------------------------------------} 37.8%   400/1059
+{ %%%%%%%%%%%%%%%%%%%%%%%-------------------------------------} 37.8%   404/1068
 ```
 
 ID | Title | Difficulty | Status
@@ -105,7 +105,7 @@ ID | Title | Difficulty | Status
 96 | [Unique Binary Search Trees](/src/96-unique-binary-search-trees.py) | Medium | Accepted
 97 | Interleaving String | Hard | 
 98 | Validate Binary Search Tree | Medium | Accepted
-99 | Recover Binary Search Tree | Hard | 
+99 | [Recover Binary Search Tree](/src/99-recover-binary-search-tree.cpp) | Hard | Accepted
 100 | [Same Tree](/src/100-same-tree.py) | Easy | Accepted
 101 | [Symmetric Tree](/src/101-symmetric-tree.py) | Easy | Accepted
 102 | [Binary Tree Level Order Traversal](/src/102-binary-tree-level-order-traversal.py) | Medium | Accepted
@@ -162,10 +162,10 @@ ID | Title | Difficulty | Status
 153 | [Find Minimum in Rotated Sorted Array](/src/153-find-minimum-in-rotated-sorted-array.cpp) | Medium | Accepted
 154 | [Find Minimum in Rotated Sorted Array II](/src/154-find-minimum-in-rotated-sorted-array-ii.cpp) | Hard | Accepted
 155 | [Min Stack](/src/155-min-stack.py) | Easy | Accepted
-156 | Binary Tree Upside Down | Medium | 
-157 | Read N Characters Given Read4 | Easy | 
-158 | Read N Characters Given Read4 II - Call multiple times | Hard | 
-159 | Longest Substring with At Most Two Distinct Characters | Hard | 
+156 | [Binary Tree Upside Down](/src/156-binary-tree-upside-down.cpp) | Medium | 
+157 | [Read N Characters Given Read4](/src/157-read-n-characters-given-read4.cpp) | Easy | 
+158 | [Read N Characters Given Read4 II - Call multiple times](/src/158-read-n-characters-given-read4-ii-call-multiple-times.cpp) | Hard | 
+159 | [Longest Substring with At Most Two Distinct Characters](/src/159-longest-substring-with-at-most-two-distinct-characters.cpp) | Hard | 
 160 | [Intersection of Two Linked Lists](/src/160-intersection-of-two-linked-lists.cpp) | Easy | Accepted
 161 | One Edit Distance | Medium | 
 162 | [Find Peak Element](/src/162-find-peak-element.cpp) | Medium | Accepted
@@ -288,7 +288,7 @@ ID | Title | Difficulty | Status
 296 | Best Meeting Point | Hard | 
 297 | [Serialize and Deserialize Binary Tree](/src/297-serialize-and-deserialize-binary-tree.py) | Hard | Accepted
 298 | Binary Tree Longest Consecutive Sequence | Medium | 
-299 | [Bulls and Cows](/src/299-bulls-and-cows.cpp) | Medium | Accepted
+299 | [Bulls and Cows](/src/299-bulls-and-cows.cpp) | Easy | Accepted
 300 | [Longest Increasing Subsequence](/src/300-longest-increasing-subsequence.cpp) | Medium | Accepted
 301 | [Remove Invalid Parentheses](/src/301-remove-invalid-parentheses.py) | Hard | Accepted
 302 | Smallest Rectangle Enclosing Black Pixels | Hard | 
@@ -1037,7 +1037,7 @@ ID | Title | Difficulty | Status
 1089 | Duplicate Zeros | Easy | 
 1090 | Largest Values From Labels | Medium | 
 1091 | Shortest Path in Binary Matrix | Medium | 
-1092 | Shortest Common Supersequence | Hard | 
+1092 | Shortest Common Supersequence  | Hard | 
 1093 | [Statistics from a Large Sample](/src/1093-statistics-from-a-large-sample.cpp) | Medium | Accepted
 1094 | [Car Pooling](/src/1094-car-pooling.cpp) | Medium | Accepted
 1095 | [Find in Mountain Array](/src/1095-find-in-mountain-array.cpp) | Hard | Accepted
@@ -1066,3 +1066,12 @@ ID | Title | Difficulty | Status
 1129 | [Shortest Path with Alternating Colors](/src/1129-shortest-path-with-alternating-colors.cpp) | Medium | Accepted
 1130 | [Minimum Cost Tree From Leaf Values](/src/1130-minimum-cost-tree-from-leaf-values.cpp) | Medium | Accepted
 1131 | [Maximum of Absolute Value Expression](/src/1131-maximum-of-absolute-value-expression.cpp) | Medium | Accepted
+1133 | Largest Unique Number | Easy | 
+1134 | Armstrong Number | Easy | 
+1135 | Connecting Cities With Minimum Cost | Medium | 
+1136 | Parallel Courses | Hard | 
+1137 | [N-th Tribonacci Number](/src/1137-n-th-tribonacci-number.cpp) | Easy | Accepted
+1138 | [Alphabet Board Path](/src/1138-alphabet-board-path.cpp) | Medium | Accepted
+1139 | [Largest 1-Bordered Square](/src/1139-largest-1-bordered-square.cpp) | Medium | Accepted
+1140 | Stone Game II | Medium | 
+1143 | Longest Common Subsequence | Medium | 
