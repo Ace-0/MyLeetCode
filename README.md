@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%%%%%%%%%%%-------------------------------------} 37.8%   404/1068
+{ %%%%%%%%%%%%%%%%%%%%%%%-------------------------------------} 37.7%   404/1072
 ```
 
 ID | Title | Difficulty | Status
@@ -167,22 +167,22 @@ ID | Title | Difficulty | Status
 158 | [Read N Characters Given Read4 II - Call multiple times](/src/158-read-n-characters-given-read4-ii-call-multiple-times.cpp) | Hard | 
 159 | [Longest Substring with At Most Two Distinct Characters](/src/159-longest-substring-with-at-most-two-distinct-characters.cpp) | Hard | 
 160 | [Intersection of Two Linked Lists](/src/160-intersection-of-two-linked-lists.cpp) | Easy | Accepted
-161 | One Edit Distance | Medium | 
+161 | [One Edit Distance](/src/161-one-edit-distance.cpp) | Medium | 
 162 | [Find Peak Element](/src/162-find-peak-element.cpp) | Medium | Accepted
-163 | Missing Ranges | Medium | 
+163 | [Missing Ranges](/src/163-missing-ranges.cpp) | Medium | 
 164 | Maximum Gap | Hard | 
 165 | Compare Version Numbers | Medium | Accepted
 166 | [Fraction to Recurring Decimal](/src/166-fraction-to-recurring-decimal.cpp) | Medium | Accepted
 167 | Two Sum II - Input array is sorted | Easy | Accepted
 168 | Excel Sheet Column Title | Easy | Accepted
 169 | [Majority Element](/src/169-majority-element.py) | Easy | Accepted
-170 | Two Sum III - Data structure design | Easy | 
+170 | [Two Sum III - Data structure design](/src/170-two-sum-iii-data-structure-design.cpp) | Easy | 
 171 | [Excel Sheet Column Number](/src/171-excel-sheet-column-number.py) | Easy | Accepted
 172 | [Factorial Trailing Zeroes](/src/172-factorial-trailing-zeroes.cpp) | Easy | Accepted
 173 | [Binary Search Tree Iterator](/src/173-binary-search-tree-iterator.cpp) | Medium | Accepted
 174 | [Dungeon Game](/src/174-dungeon-game.cpp) | Hard | Accepted
 179 | Largest Number | Medium | Accepted
-186 | Reverse Words in a String II | Medium | 
+186 | [Reverse Words in a String II](/src/186-reverse-words-in-a-string-ii.cpp) | Medium | 
 187 | Repeated DNA Sequences | Medium | Accepted
 188 | Best Time to Buy and Sell Stock IV | Hard | 
 189 | [Rotate Array](/src/189-rotate-array.cpp) | Easy | Accepted
@@ -233,9 +233,9 @@ ID | Title | Difficulty | Status
 240 | [Search a 2D Matrix II](/src/240-search-a-2d-matrix-ii.cpp) | Medium | Accepted
 241 | [Different Ways to Add Parentheses](/src/241-different-ways-to-add-parentheses.cpp) | Medium | Accepted
 242 | [Valid Anagram](/src/242-valid-anagram.cpp) | Easy | Accepted
-243 | Shortest Word Distance | Easy | 
-244 | Shortest Word Distance II | Medium | 
-245 | Shortest Word Distance III | Medium | 
+243 | [Shortest Word Distance](/src/243-shortest-word-distance.cpp) | Easy | 
+244 | [Shortest Word Distance II](/src/244-shortest-word-distance-ii.cpp) | Medium | 
+245 | [Shortest Word Distance III](/src/245-shortest-word-distance-iii.cpp) | Medium | 
 246 | Strobogrammatic Number | Easy | 
 247 | Strobogrammatic Number II | Medium | 
 248 | Strobogrammatic Number III | Hard | 
@@ -588,7 +588,7 @@ ID | Title | Difficulty | Status
 629 | K Inverse Pairs Array | Hard | 
 630 | Course Schedule III | Hard | 
 631 | Design Excel Sum Formula | Hard | 
-632 | [Smallest Range](/src/632-smallest-range.cpp) | Hard | 
+632 | [Smallest Range Covering Elements from K Lists](/src/632-smallest-range.cpp) | Hard | 
 633 | Sum of Square Numbers | Easy | 
 634 | Find the Derangement of An Array | Medium | 
 635 | Design Log Storage System | Medium | 
@@ -997,7 +997,7 @@ ID | Title | Difficulty | Status
 1038 | Binary Search Tree to Greater Sum Tree | Medium | 
 1039 | Minimum Score Triangulation of Polygon | Medium | 
 1040 | Moving Stones Until Consecutive II | Medium | 
-1041 | Robot Bounded In Circle | Easy | Accepted
+1041 | Robot Bounded In Circle | Medium | Accepted
 1042 | [Flower Planting With No Adjacent](/src/1042-flower-planting-with-no-adjacent.cpp) | Easy | Accepted
 1043 | [Partition Array for Maximum Sum](/src/1043-partition-array-for-maximum-sum.cpp) | Medium | Accepted
 1044 | Longest Duplicate Substring | Hard | 
@@ -1075,3 +1075,7 @@ ID | Title | Difficulty | Status
 1139 | [Largest 1-Bordered Square](/src/1139-largest-1-bordered-square.cpp) | Medium | Accepted
 1140 | Stone Game II | Medium | 
 1143 | Longest Common Subsequence | Medium | 
+1144 | Decrease Elements To Make Array Zigzag | Medium | 
+1145 | Binary Tree Coloring Game | Medium | 
+1146 | Snapshot Array | Medium | 
+1147 | Longest Chunked Palindrome Decomposition | Hard | 
