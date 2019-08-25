@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%%%%%%%%%%%-------------------------------------} 37.7%   404/1072
+{ %%%%%%%%%%%%%%%%%%%%%%--------------------------------------} 37.5%   408/1088
 ```
 
 ID | Title | Difficulty | Status
@@ -243,11 +243,11 @@ ID | Title | Difficulty | Status
 250 | Count Univalue Subtrees | Medium | 
 251 | Flatten 2D Vector | Medium | 
 252 | Meeting Rooms | Easy | 
-253 | Meeting Rooms II | Medium | 
-254 | Factor Combinations | Medium | 
+253 | [Meeting Rooms II](/src/253-meeting-rooms-ii.cpp) | Medium | 
+254 | [Factor Combinations](/src/254-factor-combinations.cpp) | Medium | 
 255 | Verify Preorder Sequence in Binary Search Tree | Medium | 
 256 | Paint House | Easy | 
-257 | Binary Tree Paths | Easy | 
+257 | Binary Tree Paths | Easy | Accepted
 258 | Add Digits | Easy | Accepted
 259 | 3Sum Smaller | Medium | 
 260 | Single Number III | Medium | 
@@ -266,7 +266,7 @@ ID | Title | Difficulty | Status
 274 | H-Index | Medium | Accepted
 275 | [H-Index II](/src/275-h-index-ii.cpp) | Medium | Accepted
 276 | Paint Fence | Easy | 
-277 | Find the Celebrity | Medium | 
+277 | [Find the Celebrity](/src/277-find-the-celebrity.cpp) | Medium | 
 278 | First Bad Version | Easy | Accepted
 279 | [Perfect Squares](/src/279-perfect-squares.cpp) | Medium | Accepted
 280 | Wiggle Sort | Medium | 
@@ -300,10 +300,10 @@ ID | Title | Difficulty | Status
 308 | Range Sum Query 2D - Mutable | Hard | 
 309 | [Best Time to Buy and Sell Stock with Cooldown](/src/309-best-time-to-buy-and-sell-stock-with-cooldown.py) | Medium | Accepted
 310 | [Minimum Height Trees](/src/310-minimum-height-trees.cpp) | Medium | Accepted
-311 | Sparse Matrix Multiplication | Medium | 
+311 | [Sparse Matrix Multiplication](/src/311-sparse-matrix-multiplication.cpp) | Medium | 
 312 | [Burst Balloons](/src/312-burst-balloons.cpp) | Hard | Accepted
 313 | [Super Ugly Number](/src/313-super-ugly-number.cpp) | Medium | Accepted
-314 | Binary Tree Vertical Order Traversal | Medium | 
+314 | [Binary Tree Vertical Order Traversal](/src/314-binary-tree-vertical-order-traversal.cpp) | Medium | 
 315 | [Count of Smaller Numbers After Self](/src/315-count-of-smaller-numbers-after-self.cpp) | Hard | Accepted
 316 | [Remove Duplicate Letters](/src/316-remove-duplicate-letters.cpp) | Hard | Accepted
 317 | Shortest Distance from All Buildings | Hard | 
@@ -314,7 +314,7 @@ ID | Title | Difficulty | Status
 322 | Coin Change | Medium | Accepted
 323 | Number of Connected Components in an Undirected Graph | Medium | 
 324 | [Wiggle Sort II](/src/324-wiggle-sort-ii.cpp) | Medium | Accepted
-325 | Maximum Size Subarray Sum Equals k | Medium | 
+325 | [Maximum Size Subarray Sum Equals k](/src/325-maximum-size-subarray-sum-equals-k.cpp) | Medium | 
 326 | [Power of Three](/src/326-power-of-three.cpp) | Easy | Accepted
 327 | Count of Range Sum | Hard | 
 328 | [Odd Even Linked List](/src/328-odd-even-linked-list.cpp) | Medium | Accepted
@@ -381,7 +381,7 @@ ID | Title | Difficulty | Status
 389 | Find the Difference | Easy | Accepted
 390 | Elimination Game | Medium | Accepted
 391 | [Perfect Rectangle](/src/391-perfect-rectangle.cpp) | Hard | Accepted
-392 | [Is Subsequence](/src/392-is-subsequence.cpp) | Medium | Accepted
+392 | [Is Subsequence](/src/392-is-subsequence.cpp) | Easy | Accepted
 393 | UTF-8 Validation | Medium | 
 394 | [Decode String](/src/394-decode-string.py) | Medium | Accepted
 395 | [Longest Substring with At Least K Repeating Characters](/src/395-longest-substring-with-at-least-k-repeating-characters.cpp) | Medium | Accepted
@@ -389,7 +389,7 @@ ID | Title | Difficulty | Status
 397 | [Integer Replacement](/src/397-integer-replacement.cpp) | Medium | Accepted
 398 | Random Pick Index | Medium | 
 399 | [Evaluate Division](/src/399-evaluate-division.cpp) | Medium | Accepted
-400 | Nth Digit | Easy | Accepted
+400 | Nth Digit | Medium | Accepted
 401 | [Binary Watch](/src/401-binary-watch.cpp) | Easy | Accepted
 402 | [Remove K Digits](/src/402-remove-k-digits.cpp) | Medium | Accepted
 403 | [Frog Jump](/src/403-frog-jump.cpp) | Hard | Accepted
@@ -626,7 +626,7 @@ ID | Title | Difficulty | Status
 667 | Beautiful Arrangement II | Medium | 
 668 | [Kth Smallest Number in Multiplication Table](/src/668-kth-smallest-number-in-multiplication-table.cpp) | Hard | Accepted
 669 | Trim a Binary Search Tree | Easy | 
-670 | Maximum Swap | Medium | 
+670 | [Maximum Swap](/src/670-maximum-swap.cpp) | Medium | Accepted
 671 | Second Minimum Node In a Binary Tree | Easy | 
 672 | Bulb Switcher II | Medium | 
 673 | Number of Longest Increasing Subsequence | Medium | 
@@ -636,7 +636,7 @@ ID | Title | Difficulty | Status
 677 | Map Sum Pairs | Medium | 
 678 | Valid Parenthesis String | Medium | 
 679 | 24 Game | Hard | 
-680 | Valid Palindrome II | Easy | 
+680 | Valid Palindrome II | Easy | Accepted
 681 | Next Closest Time | Medium | 
 682 | Baseball Game | Easy | 
 683 | K Empty Slots | Hard | 
@@ -645,7 +645,7 @@ ID | Title | Difficulty | Status
 686 | Repeated String Match | Easy | 
 687 | Longest Univalue Path | Easy | 
 688 | Knight Probability in Chessboard | Medium | 
-689 | Maximum Sum of 3 Non-Overlapping Subarrays | Hard | 
+689 | [Maximum Sum of 3 Non-Overlapping Subarrays](/src/689-maximum-sum-of-3-non-overlapping-subarrays.cpp) | Hard | Accepted
 690 | Employee Importance | Easy | 
 691 | Stickers to Spell Word | Hard | 
 692 | Top K Frequent Words | Medium | 
@@ -1079,3 +1079,19 @@ ID | Title | Difficulty | Status
 1145 | Binary Tree Coloring Game | Medium | 
 1146 | Snapshot Array | Medium | 
 1147 | Longest Chunked Palindrome Decomposition | Hard | 
+1150 | Check If a Number Is Majority Element in a Sorted Array | Easy | 
+1151 | Minimum Swaps to Group All 1's Together | Medium | 
+1152 | Analyze User Website Visit Pattern | Medium | 
+1153 | String Transforms Into Another String | Hard | 
+1154 | Day of the Year | Easy | 
+1155 | Number of Dice Rolls With Target Sum | Medium | 
+1156 | Swap For Longest Repeated Character Substring | Medium | 
+1157 | Online Majority Element In Subarray | Hard | 
+1160 | Find Words That Can Be Formed by Characters | Easy | 
+1161 | Maximum Level Sum of a Binary Tree | Medium | 
+1162 | As Far from Land as Possible | Medium | 
+1163 | Last Substring in Lexicographical Order | Hard | 
+1165 | Single-Row Keyboard | Easy | 
+1166 | Design File System | Medium | 
+1167 | Minimum Cost to Connect Sticks | Medium | 
+1168 | Optimize Water Distribution in a Village | Hard | 
