@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%%%%%%%%%%--------------------------------------} 37.5%   408/1088
+{ %%%%%%%%%%%%%%%%%%%%%%%-------------------------------------} 38.8%   425/1096
 ```
 
 ID | Title | Difficulty | Status
@@ -129,7 +129,7 @@ ID | Title | Difficulty | Status
 120 | [Triangle](/src/120-triangle.cpp) | Medium | Accepted
 121 | [Best Time to Buy and Sell Stock](/src/121-best-time-to-buy-and-sell-stock.cpp) | Easy | Accepted
 122 | [Best Time to Buy and Sell Stock II](/src/122-best-time-to-buy-and-sell-stock-ii.cpp) | Easy | Accepted
-123 | [Best Time to Buy and Sell Stock III](/src/123-best-time-to-buy-and-sell-stock-iii.py) | Hard | 
+123 | [Best Time to Buy and Sell Stock III](/src/123-best-time-to-buy-and-sell-stock-iii.py) | Hard | Accepted
 124 | [Binary Tree Maximum Path Sum](/src/124-binary-tree-maximum-path-sum.cpp) | Hard | Accepted
 125 | [Valid Palindrome](/src/125-valid-palindrome.cpp) | Easy | Accepted
 126 | Word Ladder II | Hard | 
@@ -208,7 +208,7 @@ ID | Title | Difficulty | Status
 215 | [Kth Largest Element in an Array](/src/215-kth-largest-element-in-an-array.py) | Medium | Accepted
 216 | [Combination Sum III](/src/216-combination-sum-iii.py) | Medium | Accepted
 217 | [Contains Duplicate](/src/217-contains-duplicate.py) | Easy | Accepted
-218 | [The Skyline Problem](/src/218-the-skyline-problem.cpp) | Hard | 
+218 | [The Skyline Problem](/src/218-the-skyline-problem.cpp) | Hard | Accepted
 219 | Contains Duplicate II | Easy | Accepted
 220 | [Contains Duplicate III](/src/220-contains-duplicate-iii.cpp) | Medium | Accepted
 221 | [Maximal Square](/src/221-maximal-square.cpp) | Medium | Accepted
@@ -258,7 +258,7 @@ ID | Title | Difficulty | Status
 266 | Palindrome Permutation | Easy | 
 267 | Palindrome Permutation II | Medium | 
 268 | [Missing Number](/src/268-missing-number.cpp) | Easy | Accepted
-269 | Alien Dictionary | Hard | 
+269 | [Alien Dictionary](/src/269-alien-dictionary.cpp) | Hard | 
 270 | Closest Binary Search Tree Value | Easy | 
 271 | Encode and Decode Strings | Medium | 
 272 | Closest Binary Search Tree Value II | Hard | 
@@ -275,7 +275,7 @@ ID | Title | Difficulty | Status
 283 | [Move Zeroes](/src/283-move-zeroes.py) | Easy | Accepted
 284 | Peeking Iterator | Medium | Accepted
 285 | Inorder Successor in BST | Medium | 
-286 | Walls and Gates | Medium | 
+286 | [Walls and Gates](/src/286-walls-and-gates.cpp) | Medium | 
 287 | [Find the Duplicate Number](/src/287-find-the-duplicate-number.py) | Medium | Accepted
 288 | Unique Word Abbreviation | Medium | 
 289 | [Game of Life](/src/289-game-of-life.cpp) | Medium | Accepted
@@ -387,7 +387,7 @@ ID | Title | Difficulty | Status
 395 | [Longest Substring with At Least K Repeating Characters](/src/395-longest-substring-with-at-least-k-repeating-characters.cpp) | Medium | Accepted
 396 | Rotate Function | Medium | Accepted
 397 | [Integer Replacement](/src/397-integer-replacement.cpp) | Medium | Accepted
-398 | Random Pick Index | Medium | 
+398 | [Random Pick Index](/src/398-random-pick-index.cpp) | Medium | Accepted
 399 | [Evaluate Division](/src/399-evaluate-division.cpp) | Medium | Accepted
 400 | Nth Digit | Medium | Accepted
 401 | [Binary Watch](/src/401-binary-watch.cpp) | Easy | Accepted
@@ -408,21 +408,21 @@ ID | Title | Difficulty | Status
 416 | [Partition Equal Subset Sum](/src/416-partition-equal-subset-sum.py) | Medium | Accepted
 417 | [Pacific Atlantic Water Flow](/src/417-pacific-atlantic-water-flow.cpp) | Medium | Accepted
 418 | Sentence Screen Fitting | Medium | 
-419 | Battleships in a Board | Medium | 
+419 | Battleships in a Board | Medium | Accepted
 420 | Strong Password Checker | Hard | 
 421 | Maximum XOR of Two Numbers in an Array | Medium | 
 422 | Valid Word Square | Easy | 
-423 | Reconstruct Original Digits from English | Medium | 
+423 | Reconstruct Original Digits from English | Medium | Accepted
 424 | [Longest Repeating Character Replacement](/src/424-longest-repeating-character-replacement.cpp) | Medium | Accepted
 425 | Word Squares | Hard | 
 426 | Convert Binary Search Tree to Sorted Doubly Linked List | Medium | 
-427 | Construct Quad Tree | Medium | 
+427 | Construct Quad Tree | Medium | Accepted
 428 | Serialize and Deserialize N-ary Tree | Hard | 
-429 | N-ary Tree Level Order Traversal | Easy | 
+429 | N-ary Tree Level Order Traversal | Easy | Accepted
 430 | [Flatten a Multilevel Doubly Linked List](/src/430-flatten-a-multilevel-doubly-linked-list.cpp) | Medium | Accepted
 431 | Encode N-ary Tree to Binary Tree | Hard | 
-432 | All O`one Data Structure | Hard | 
-433 | Minimum Genetic Mutation | Medium | 
+432 | [All O`one Data Structure](/src/432-all-oone-data-structure.cpp) | Hard | Accepted
+433 | [Minimum Genetic Mutation](/src/433-minimum-genetic-mutation.cpp) | Medium | Accepted
 434 | Number of Segments in a String | Easy | 
 435 | Non-overlapping Intervals | Medium | 
 436 | Find Right Interval | Medium | 
@@ -431,7 +431,7 @@ ID | Title | Difficulty | Status
 439 | Ternary Expression Parser | Medium | 
 440 | K-th Smallest in Lexicographical Order | Hard | 
 441 | Arranging Coins | Easy | 
-442 | Find All Duplicates in an Array | Medium | 
+442 | Find All Duplicates in an Array | Medium | Accepted
 443 | String Compression | Easy | 
 444 | Sequence Reconstruction | Medium | 
 445 | [Add Two Numbers II](/src/445-add-two-numbers-ii.cpp) | Medium | Accepted
@@ -466,7 +466,7 @@ ID | Title | Difficulty | Status
 474 | Ones and Zeroes | Medium | 
 475 | Heaters | Easy | 
 476 | Number Complement | Easy | 
-477 | Total Hamming Distance | Medium | 
+477 | Total Hamming Distance | Medium | Accepted
 478 | Generate Random Point in a Circle | Medium | 
 479 | Largest Palindrome Product | Hard | 
 480 | Sliding Window Median | Hard | 
@@ -510,7 +510,7 @@ ID | Title | Difficulty | Status
 520 | Detect Capital | Easy | 
 521 | Longest Uncommon Subsequence I  | Easy | 
 522 | Longest Uncommon Subsequence II | Medium | 
-523 | Continuous Subarray Sum | Medium | 
+523 | Continuous Subarray Sum | Medium | Accepted
 524 | [Longest Word in Dictionary through Deleting](/src/524-longest-word-in-dictionary-through-deleting.cpp) | Medium | Accepted
 525 | Contiguous Array | Medium | 
 526 | Beautiful Arrangement | Medium | 
@@ -539,7 +539,7 @@ ID | Title | Difficulty | Status
 551 | Student Attendance Record I | Easy | 
 552 | Student Attendance Record II | Hard | 
 553 | Optimal Division | Medium | 
-554 | Brick Wall | Medium | 
+554 | Brick Wall | Medium | Accepted
 555 | Split Concatenated Strings | Medium | 
 556 | Next Greater Element III | Medium | 
 557 | Reverse Words in a String III | Easy | 
@@ -592,13 +592,13 @@ ID | Title | Difficulty | Status
 633 | Sum of Square Numbers | Easy | 
 634 | Find the Derangement of An Array | Medium | 
 635 | Design Log Storage System | Medium | 
-636 | Exclusive Time of Functions | Medium | 
-637 | Average of Levels in Binary Tree | Easy | 
+636 | Exclusive Time of Functions | Medium | Accepted
+637 | Average of Levels in Binary Tree | Easy | Accepted
 638 | Shopping Offers | Medium | 
 639 | Decode Ways II | Hard | 
 640 | Solve the Equation | Medium | 
 641 | Design Circular Deque | Medium | 
-642 | Design Search Autocomplete System | Hard | 
+642 | [Design Search Autocomplete System](/src/642-design-search-autocomplete-system.cpp) | Hard | 
 643 | Maximum Average Subarray I | Easy | 
 644 | Maximum Average Subarray II | Hard | 
 645 | Set Mismatch | Easy | 
@@ -630,7 +630,7 @@ ID | Title | Difficulty | Status
 671 | Second Minimum Node In a Binary Tree | Easy | 
 672 | Bulb Switcher II | Medium | 
 673 | Number of Longest Increasing Subsequence | Medium | 
-674 | Longest Continuous Increasing Subsequence | Easy | 
+674 | Longest Continuous Increasing Subsequence | Easy | Accepted
 675 | Cut Off Trees for Golf Event | Hard | 
 676 | Implement Magic Dictionary | Medium | 
 677 | Map Sum Pairs | Medium | 
@@ -670,7 +670,7 @@ ID | Title | Difficulty | Status
 711 | Number of Distinct Islands II | Hard | 
 712 | Minimum ASCII Delete Sum for Two Strings | Medium | 
 713 | [Subarray Product Less Than K](/src/713-subarray-product-less-than-k.cpp) | Medium | Accepted
-714 | Best Time to Buy and Sell Stock with Transaction Fee | Medium | 
+714 | Best Time to Buy and Sell Stock with Transaction Fee | Medium | Accepted
 715 | Range Module | Hard | 
 716 | Max Stack | Easy | 
 717 | 1-bit and 2-bit Characters | Easy | 
@@ -893,7 +893,7 @@ ID | Title | Difficulty | Status
 934 | Shortest Bridge | Medium | 
 935 | Knight Dialer | Medium | 
 936 | Stamping The Sequence | Hard | 
-937 | Reorder Log Files | Easy | 
+937 | Reorder Data in Log Files | Easy | 
 938 | Range Sum of BST | Easy | 
 939 | Minimum Area Rectangle | Medium | 
 940 | Distinct Subsequences II | Hard | 
@@ -1095,3 +1095,11 @@ ID | Title | Difficulty | Status
 1166 | Design File System | Medium | 
 1167 | Minimum Cost to Connect Sticks | Medium | 
 1168 | Optimize Water Distribution in a Village | Hard | 
+1169 | Invalid Transactions | Medium | 
+1170 | Compare Strings by Frequency of the Smallest Character | Easy | 
+1171 | Remove Zero Sum Consecutive Nodes from Linked List | Medium | 
+1172 | Dinner Plate Stacks | Hard | 
+1175 | Prime Arrangements | Easy | 
+1176 | Diet Plan Performance | Easy | 
+1177 | Can Make Palindrome from Substring | Medium | 
+1178 | Number of Valid Words for Each Puzzle | Hard | 
