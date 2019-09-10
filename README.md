@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%%%%%%%%%%%-------------------------------------} 38.8%   425/1096
+{ %%%%%%%%%%%%%%%%%%%%%%%%------------------------------------} 39.4%   435/1104
 ```
 
 ID | Title | Difficulty | Status
@@ -243,7 +243,7 @@ ID | Title | Difficulty | Status
 250 | Count Univalue Subtrees | Medium | 
 251 | Flatten 2D Vector | Medium | 
 252 | Meeting Rooms | Easy | 
-253 | [Meeting Rooms II](/src/253-meeting-rooms-ii.cpp) | Medium | 
+253 | [Meeting Rooms II](/src/253-meeting-rooms-ii.cpp) | Medium | Accepted
 254 | [Factor Combinations](/src/254-factor-combinations.cpp) | Medium | 
 255 | Verify Preorder Sequence in Binary Search Tree | Medium | 
 256 | Paint House | Easy | 
@@ -262,7 +262,7 @@ ID | Title | Difficulty | Status
 270 | Closest Binary Search Tree Value | Easy | 
 271 | Encode and Decode Strings | Medium | 
 272 | Closest Binary Search Tree Value II | Hard | 
-273 | Integer to English Words | Hard | 
+273 | [Integer to English Words](/src/273-integer-to-english-words.cpp) | Hard | Accepted
 274 | H-Index | Medium | Accepted
 275 | [H-Index II](/src/275-h-index-ii.cpp) | Medium | Accepted
 276 | Paint Fence | Easy | 
@@ -423,16 +423,16 @@ ID | Title | Difficulty | Status
 431 | Encode N-ary Tree to Binary Tree | Hard | 
 432 | [All O`one Data Structure](/src/432-all-oone-data-structure.cpp) | Hard | Accepted
 433 | [Minimum Genetic Mutation](/src/433-minimum-genetic-mutation.cpp) | Medium | Accepted
-434 | Number of Segments in a String | Easy | 
-435 | Non-overlapping Intervals | Medium | 
-436 | Find Right Interval | Medium | 
+434 | Number of Segments in a String | Easy | Accepted
+435 | Non-overlapping Intervals | Medium | Accepted
+436 | Find Right Interval | Medium | Accepted
 437 | [Path Sum III](/src/437-path-sum-iii.py) | Easy | Accepted
 438 | [Find All Anagrams in a String](/src/438-find-all-anagrams-in-a-string.py) | Medium | Accepted
 439 | Ternary Expression Parser | Medium | 
-440 | K-th Smallest in Lexicographical Order | Hard | 
-441 | Arranging Coins | Easy | 
+440 | [K-th Smallest in Lexicographical Order](/src/440-k-th-smallest-in-lexicographical-order.cpp) | Hard | Accepted
+441 | Arranging Coins | Easy | Accepted
 442 | Find All Duplicates in an Array | Medium | Accepted
-443 | String Compression | Easy | 
+443 | String Compression | Easy | Accepted
 444 | Sequence Reconstruction | Medium | 
 445 | [Add Two Numbers II](/src/445-add-two-numbers-ii.cpp) | Medium | Accepted
 446 | Arithmetic Slices II - Subsequence | Hard | 
@@ -909,7 +909,7 @@ ID | Title | Difficulty | Status
 950 | Reveal Cards In Increasing Order | Medium | 
 951 | Flip Equivalent Binary Trees | Medium | 
 952 | Largest Component Size by Common Factor | Hard | 
-953 | Verifying an Alien Dictionary | Easy | 
+953 | Verifying an Alien Dictionary | Easy | Accepted
 954 | Array of Doubled Pairs | Medium | 
 955 | Delete Columns to Make Sorted II | Medium | 
 956 | Tallest Billboard | Hard | 
@@ -929,7 +929,7 @@ ID | Title | Difficulty | Status
 970 | [Powerful Integers](/src/970-powerful-integer.py) | Easy | Accepted
 971 | Flip Binary Tree To Match Preorder Traversal | Medium | 
 972 | Equal Rational Numbers | Hard | 
-973 | K Closest Points to Origin | Medium | 
+973 | [K Closest Points to Origin](/src/973-k-closest-points-to-origin.cpp) | Medium | Accepted
 974 | Subarray Sums Divisible by K | Medium | 
 975 | Odd Even Jump | Hard | 
 976 | Largest Perimeter Triangle | Easy | 
@@ -1103,3 +1103,11 @@ ID | Title | Difficulty | Status
 1176 | Diet Plan Performance | Easy | 
 1177 | Can Make Palindrome from Substring | Medium | 
 1178 | Number of Valid Words for Each Puzzle | Hard | 
+1180 | Count Substrings with Only One Distinct Letter | Easy | 
+1181 | Before and After Puzzle | Medium | 
+1182 | Shortest Distance to Target Color | Medium | 
+1183 | Maximum Number of Ones | Hard | 
+1184 | Distance Between Bus Stops | Easy | 
+1185 | Day of the Week | Easy | 
+1186 | Maximum Subarray Sum with One Deletion | Medium | 
+1187 | Make Array Strictly Increasing | Hard | 
