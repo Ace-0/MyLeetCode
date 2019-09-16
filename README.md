@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%%%%%%%%%%%%------------------------------------} 39.4%   435/1104
+{ %%%%%%%%%%%%%%%%%%%%%%%%------------------------------------} 39.4%   437/1108
 ```
 
 ID | Title | Difficulty | Status
@@ -164,7 +164,7 @@ ID | Title | Difficulty | Status
 155 | [Min Stack](/src/155-min-stack.py) | Easy | Accepted
 156 | [Binary Tree Upside Down](/src/156-binary-tree-upside-down.cpp) | Medium | 
 157 | [Read N Characters Given Read4](/src/157-read-n-characters-given-read4.cpp) | Easy | 
-158 | [Read N Characters Given Read4 II - Call multiple times](/src/158-read-n-characters-given-read4-ii-call-multiple-times.cpp) | Hard | 
+158 | [Read N Characters Given Read4 II - Call multiple times](/src/158-read-n-characters-given-read4-ii-call-multiple-times.cpp) | Hard | Accepted
 159 | [Longest Substring with At Most Two Distinct Characters](/src/159-longest-substring-with-at-most-two-distinct-characters.cpp) | Hard | 
 160 | [Intersection of Two Linked Lists](/src/160-intersection-of-two-linked-lists.cpp) | Easy | Accepted
 161 | [One Edit Distance](/src/161-one-edit-distance.cpp) | Medium | 
@@ -241,7 +241,7 @@ ID | Title | Difficulty | Status
 248 | Strobogrammatic Number III | Hard | 
 249 | Group Shifted Strings | Medium | 
 250 | Count Univalue Subtrees | Medium | 
-251 | Flatten 2D Vector | Medium | 
+251 | [Flatten 2D Vector](/src/251-flatten-2d-vector.cpp) | Medium | 
 252 | Meeting Rooms | Easy | 
 253 | [Meeting Rooms II](/src/253-meeting-rooms-ii.cpp) | Medium | Accepted
 254 | [Factor Combinations](/src/254-factor-combinations.cpp) | Medium | 
@@ -711,7 +711,7 @@ ID | Title | Difficulty | Status
 752 | Open the Lock | Medium | 
 753 | Cracking the Safe | Hard | 
 754 | Reach a Number | Easy | 
-755 | Pour Water | Medium | 
+755 | [Pour Water](/src/755-pour-water.cpp) | Medium | Accepted
 756 | Pyramid Transition Matrix | Medium | 
 757 | Set Intersection Size At Least Two | Hard | 
 758 | Bold Words in String | Easy | 
@@ -1111,3 +1111,7 @@ ID | Title | Difficulty | Status
 1185 | Day of the Week | Easy | 
 1186 | Maximum Subarray Sum with One Deletion | Medium | 
 1187 | Make Array Strictly Increasing | Hard | 
+1189 | Maximum Number of Balloons | Easy | 
+1190 | Reverse Substrings Between Each Pair of Parentheses | Medium | 
+1191 | K-Concatenation Maximum Sum | Medium | 
+1192 | Critical Connections in a Network | Hard | 
