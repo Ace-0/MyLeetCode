@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%%%%%%%%%%%%------------------------------------} 39.4%   437/1108
+{ %%%%%%%%%%%%%%%%%%%%%%%%------------------------------------} 39.8%   449/1129
 ```
 
 ID | Title | Difficulty | Status
@@ -167,7 +167,7 @@ ID | Title | Difficulty | Status
 158 | [Read N Characters Given Read4 II - Call multiple times](/src/158-read-n-characters-given-read4-ii-call-multiple-times.cpp) | Hard | Accepted
 159 | [Longest Substring with At Most Two Distinct Characters](/src/159-longest-substring-with-at-most-two-distinct-characters.cpp) | Hard | 
 160 | [Intersection of Two Linked Lists](/src/160-intersection-of-two-linked-lists.cpp) | Easy | Accepted
-161 | [One Edit Distance](/src/161-one-edit-distance.cpp) | Medium | 
+161 | [One Edit Distance](/src/161-one-edit-distance.cpp) | Medium | Accepted
 162 | [Find Peak Element](/src/162-find-peak-element.cpp) | Medium | Accepted
 163 | [Missing Ranges](/src/163-missing-ranges.cpp) | Medium | 
 164 | Maximum Gap | Hard | 
@@ -241,7 +241,7 @@ ID | Title | Difficulty | Status
 248 | Strobogrammatic Number III | Hard | 
 249 | Group Shifted Strings | Medium | 
 250 | Count Univalue Subtrees | Medium | 
-251 | [Flatten 2D Vector](/src/251-flatten-2d-vector.cpp) | Medium | 
+251 | [Flatten 2D Vector](/src/251-flatten-2d-vector.cpp) | Medium | Accepted
 252 | Meeting Rooms | Easy | 
 253 | [Meeting Rooms II](/src/253-meeting-rooms-ii.cpp) | Medium | Accepted
 254 | [Factor Combinations](/src/254-factor-combinations.cpp) | Medium | 
@@ -258,7 +258,7 @@ ID | Title | Difficulty | Status
 266 | Palindrome Permutation | Easy | 
 267 | Palindrome Permutation II | Medium | 
 268 | [Missing Number](/src/268-missing-number.cpp) | Easy | Accepted
-269 | [Alien Dictionary](/src/269-alien-dictionary.cpp) | Hard | 
+269 | [Alien Dictionary](/src/269-alien-dictionary.cpp) | Hard | Accepted
 270 | Closest Binary Search Tree Value | Easy | 
 271 | Encode and Decode Strings | Medium | 
 272 | Closest Binary Search Tree Value II | Hard | 
@@ -677,7 +677,7 @@ ID | Title | Difficulty | Status
 718 | Maximum Length of Repeated Subarray | Medium | 
 719 | Find K-th Smallest Pair Distance | Hard | 
 720 | Longest Word in Dictionary | Easy | 
-721 | Accounts Merge | Medium | 
+721 | [Accounts Merge](/src/721-accounts-merge.cpp) | Medium | Accepted
 722 | Remove Comments | Medium | 
 723 | Candy Crush | Medium | 
 724 | Find Pivot Index | Easy | 
@@ -695,7 +695,7 @@ ID | Title | Difficulty | Status
 736 | Parse Lisp Expression | Hard | 
 737 | Sentence Similarity II | Medium | 
 738 | Monotone Increasing Digits | Medium | 
-739 | Daily Temperatures | Medium | 
+739 | [Daily Temperatures](/src/739-daily-temperatures.cpp) | Medium | Accepted
 740 | Delete and Earn | Medium | 
 741 | Cherry Pickup | Hard | 
 742 | Closest Leaf in a Binary Tree | Medium | 
@@ -729,21 +729,21 @@ ID | Title | Difficulty | Status
 770 | Basic Calculator IV | Hard | 
 771 | [Jewels and Stones](/src/771-jewels-and-stones.py) | Easy | Accepted
 772 | Basic Calculator III | Hard | 
-773 | Sliding Puzzle | Hard | 
+773 | [Sliding Puzzle](/src/773-sliding-puzzle.cpp) | Hard | Accepted
 774 | Minimize Max Distance to Gas Station | Hard | 
 775 | Global and Local Inversions | Medium | 
 776 | Split BST | Medium | 
 777 | Swap Adjacent in LR String | Medium | 
 778 | Swim in Rising Water | Hard | 
 779 | K-th Symbol in Grammar | Medium | 
-780 | Reaching Points | Hard | 
+780 | Reaching Points | Hard | Accepted
 781 | Rabbits in Forest | Medium | 
 782 | Transform to Chessboard | Hard | 
 783 | Minimum Distance Between BST Nodes | Easy | 
 784 | Letter Case Permutation | Easy | Accepted
 785 | Is Graph Bipartite? | Medium | Accepted
 786 | K-th Smallest Prime Fraction | Hard | 
-787 | Cheapest Flights Within K Stops | Medium | 
+787 | Cheapest Flights Within K Stops | Medium | Accepted
 788 | Rotated Digits | Easy | 
 789 | Escape The Ghosts | Medium | 
 790 | Domino and Tromino Tiling | Medium | 
@@ -781,7 +781,7 @@ ID | Title | Difficulty | Status
 822 | Card Flipping Game | Medium | 
 823 | Binary Trees With Factors | Medium | 
 824 | Goat Latin | Easy | 
-825 | Friends Of Appropriate Ages | Medium | 
+825 | Friends Of Appropriate Ages | Medium | Accepted
 826 | [Most Profit Assigning Work](/src/826-most-profit-assigning-work.cpp) | Medium | Accepted
 827 | Making A Large Island | Hard | 
 828 | Unique Letter String | Hard | 
@@ -852,7 +852,7 @@ ID | Title | Difficulty | Status
 893 | Groups of Special-Equivalent Strings | Easy | 
 894 | All Possible Full Binary Trees | Medium | 
 895 | Maximum Frequency Stack | Hard | 
-896 | Monotonic Array | Easy | 
+896 | Monotonic Array | Easy | Accepted
 897 | Increasing Order Search Tree | Easy | 
 898 | Bitwise ORs of Subarrays | Medium | 
 899 | Orderly Queue | Hard | 
@@ -872,7 +872,7 @@ ID | Title | Difficulty | Status
 913 | Cat and Mouse | Hard | 
 914 | X of a Kind in a Deck of Cards | Easy | 
 915 | Partition Array into Disjoint Intervals | Medium | 
-916 | Word Subsets | Medium | 
+916 | Word Subsets | Medium | Accepted
 917 | Reverse Only Letters | Easy | 
 918 | Maximum Sum Circular Subarray | Medium | 
 919 | Complete Binary Tree Inserter | Medium | 
@@ -1115,3 +1115,24 @@ ID | Title | Difficulty | Status
 1190 | Reverse Substrings Between Each Pair of Parentheses | Medium | 
 1191 | K-Concatenation Maximum Sum | Medium | 
 1192 | Critical Connections in a Network | Hard | 
+1196 | How Many Apples Can You Put into the Basket | Easy | 
+1197 | Minimum Knight Moves | Medium | 
+1198 | Find Smallest Common Element in All Rows | Medium | 
+1199 | Minimum Time to Build Blocks | Hard | 
+1200 | Minimum Absolute Difference | Easy | Accepted
+1201 | Ugly Number III | Medium | 
+1202 | Smallest String With Swaps | Medium | 
+1203 | Sort Items by Groups Respecting Dependencies | Hard | 
+1206 | Design Skiplist | Hard | 
+1207 | Unique Number of Occurrences | Easy | 
+1208 | Get Equal Substrings Within Budget | Medium | 
+1209 | Remove All Adjacent Duplicates in String II | Medium | 
+1210 | Minimum Moves to Reach Target with Rotations | Hard | 
+1213 | Intersection of Three Sorted Arrays | Easy | 
+1214 | Two Sum BSTs | Medium | 
+1215 | Stepping Numbers | Medium | 
+1216 | Valid Palindrome III | Hard | 
+1217 | Play with Chips | Easy | 
+1218 | Longest Arithmetic Subsequence of Given Difference | Medium | 
+1219 | Path with Maximum Gold | Medium | 
+1220 | Count Vowels Permutation | Hard | 
