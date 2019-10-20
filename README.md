@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%%%%%%%%%%%%------------------------------------} 39.8%   449/1129
+{ %%%%%%%%%%%%%%%%%%%%%%%%------------------------------------} 39.8%   454/1142
 ```
 
 ID | Title | Difficulty | Status
@@ -286,11 +286,11 @@ ID | Title | Difficulty | Status
 294 | Flip Game II | Medium | 
 295 | [Find Median from Data Stream](/src/295-find-median-from-data-stream.cpp) | Hard | Accepted
 296 | Best Meeting Point | Hard | 
-297 | [Serialize and Deserialize Binary Tree](/src/297-serialize-and-deserialize-binary-tree.py) | Hard | Accepted
+297 | [Serialize and Deserialize Binary Tree](/src/297-serialize-and-deserialize-binary-tree.cpp) | Hard | Accepted
 298 | Binary Tree Longest Consecutive Sequence | Medium | 
 299 | [Bulls and Cows](/src/299-bulls-and-cows.cpp) | Easy | Accepted
 300 | [Longest Increasing Subsequence](/src/300-longest-increasing-subsequence.cpp) | Medium | Accepted
-301 | [Remove Invalid Parentheses](/src/301-remove-invalid-parentheses.py) | Hard | Accepted
+301 | [Remove Invalid Parentheses](/src/301-remove-invalid-parentheses.cpp) | Hard | Accepted
 302 | Smallest Rectangle Enclosing Black Pixels | Hard | 
 303 | [Range Sum Query - Immutable](/src/303-range-sum-query-immutable.cpp) | Easy | Accepted
 304 | [Range Sum Query 2D - Immutable](/src/304-range-sum-query-2d-immutable.cpp) | Medium | Accepted
@@ -348,7 +348,7 @@ ID | Title | Difficulty | Status
 356 | Line Reflection | Medium | 
 357 | [Count Numbers with Unique Digits](/src/357-count-numbers-with-unique-digits.cpp) | Medium | Accepted
 358 | Rearrange String k Distance Apart | Hard | 
-359 | Logger Rate Limiter | Easy | 
+359 | Logger Rate Limiter | Easy | Accepted
 360 | Sort Transformed Array | Medium | 
 361 | Bomb Enemy | Medium | 
 362 | Design Hit Counter | Medium | 
@@ -452,7 +452,7 @@ ID | Title | Difficulty | Status
 460 | LFU Cache | Hard | 
 461 | [Hamming Distance](/src/461-hamming-distance.py) | Easy | Accepted
 462 | Minimum Moves to Equal Array Elements II | Medium | 
-463 | Island Perimeter | Easy | 
+463 | Island Perimeter | Easy | Accepted
 464 | Can I Win | Medium | 
 465 | Optimal Account Balancing | Hard | 
 466 | Count The Repetitions | Hard | 
@@ -516,7 +516,7 @@ ID | Title | Difficulty | Status
 526 | Beautiful Arrangement | Medium | 
 527 | Word Abbreviation | Hard | 
 528 | Random Pick with Weight | Medium | 
-529 | Minesweeper | Medium | 
+529 | [Minesweeper](/src/529-minesweeper.cpp) | Medium | Accepted
 530 | Minimum Absolute Difference in BST | Easy | 
 531 | Lonely Pixel I | Medium | 
 532 | [K-diff Pairs in an Array](/src/532-k-diff-pairs-in-an-array.cpp) | Easy | Accepted
@@ -663,7 +663,7 @@ ID | Title | Difficulty | Status
 704 | [Binary Search](/src/704-binary-search.cpp) | Easy | Accepted
 705 | Design HashSet | Easy | 
 706 | Design HashMap | Easy | 
-707 | [Design Linked List](/src/707-design-linked-list.cpp) | Easy | Accepted
+707 | [Design Linked List](/src/707-design-linked-list.cpp) | Medium | Accepted
 708 | Insert into a Cyclic Sorted List | Medium | 
 709 | To Lower Case | Easy | 
 710 | Random Pick with Blacklist | Hard | 
@@ -743,7 +743,7 @@ ID | Title | Difficulty | Status
 784 | Letter Case Permutation | Easy | Accepted
 785 | Is Graph Bipartite? | Medium | Accepted
 786 | K-th Smallest Prime Fraction | Hard | 
-787 | Cheapest Flights Within K Stops | Medium | Accepted
+787 | [Cheapest Flights Within K Stops](/src/787-cheapest-flights-within-k-stops.cpp) | Medium | Accepted
 788 | Rotated Digits | Easy | 
 789 | Escape The Ghosts | Medium | 
 790 | Domino and Tromino Tiling | Medium | 
@@ -997,7 +997,7 @@ ID | Title | Difficulty | Status
 1038 | Binary Search Tree to Greater Sum Tree | Medium | 
 1039 | Minimum Score Triangulation of Polygon | Medium | 
 1040 | Moving Stones Until Consecutive II | Medium | 
-1041 | Robot Bounded In Circle | Medium | Accepted
+1041 | [Robot Bounded In Circle](/src/1041-robot-bounded-in-circle.cpp) | Medium | Accepted
 1042 | [Flower Planting With No Adjacent](/src/1042-flower-planting-with-no-adjacent.cpp) | Easy | Accepted
 1043 | [Partition Array for Maximum Sum](/src/1043-partition-array-for-maximum-sum.cpp) | Medium | Accepted
 1044 | Longest Duplicate Substring | Hard | 
@@ -1011,7 +1011,7 @@ ID | Title | Difficulty | Status
 1054 | Distant Barcodes | Medium | 
 1055 | Shortest Way to Form String | Medium | 
 1056 | Confusing Number | Easy | 
-1057 | Campus Bikes | Medium | 
+1057 | [Campus Bikes](/src/1057-campus-bikes.cpp) | Medium | Accepted
 1058 | Minimize Rounding Error to Meet Target | Medium | 
 1059 | All Paths from Source Lead to Destination | Medium | 
 1060 | Missing Element in Sorted Array | Medium | 
@@ -1096,7 +1096,7 @@ ID | Title | Difficulty | Status
 1167 | Minimum Cost to Connect Sticks | Medium | 
 1168 | Optimize Water Distribution in a Village | Hard | 
 1169 | Invalid Transactions | Medium | 
-1170 | Compare Strings by Frequency of the Smallest Character | Easy | 
+1170 | [Compare Strings by Frequency of the Smallest Character](/src/1170-compare-strings-by-frequency-of-the-smallest-character.cpp) | Easy | Accepted
 1171 | Remove Zero Sum Consecutive Nodes from Linked List | Medium | 
 1172 | Dinner Plate Stacks | Hard | 
 1175 | Prime Arrangements | Easy | 
@@ -1136,3 +1136,16 @@ ID | Title | Difficulty | Status
 1218 | Longest Arithmetic Subsequence of Given Difference | Medium | 
 1219 | Path with Maximum Gold | Medium | 
 1220 | Count Vowels Permutation | Hard | 
+1221 | Split a String in Balanced Strings | Easy | 
+1222 | Queens That Can Attack the King | Medium | 
+1223 | Dice Roll Simulation | Medium | 
+1224 | Maximum Equal Frequency | Hard | 
+1227 | Airplane Seat Assignment Probability | Medium | 
+1228 | Missing Number In Arithmetic Progression | Easy | 
+1229 | Meeting Scheduler | Medium | 
+1230 | Toss Strange Coins | Medium | 
+1231 | Divide Chocolate | Hard | 
+1232 | Check If It Is a Straight Line | Easy | 
+1233 | Remove Sub-Folders from the Filesystem | Medium | 
+1234 | Replace the Substring for Balanced String | Medium | 
+1235 | Maximum Profit in Job Scheduling | Hard | 
