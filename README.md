@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%%%%%%%%%%%%------------------------------------} 39.8%   463/1163
+{ %%%%%%%%%%%%%%%%%%%%%%%%------------------------------------} 40.0%   467/1167
 ```
 
 ID | Title | Difficulty | Status
@@ -614,7 +614,7 @@ ID | Title | Difficulty | Status
 655 | Print Binary Tree | Medium | 
 656 | Coin Path | Hard | 
 657 | Robot Return to Origin | Easy | 
-658 | Find K Closest Elements | Medium | 
+658 | [Find K Closest Elements](/src/658-find-k-closest-elements.cpp) | Medium | Accepted
 659 | Split Array into Consecutive Subsequences | Medium | 
 660 | Remove 9 | Hard | 
 661 | Image Smoother | Easy | 
@@ -1170,3 +1170,7 @@ ID | Title | Difficulty | Status
 1257 | Smallest Common Region | Medium | 
 1258 | Synonymous Sentences | Medium | 
 1259 | Handshakes That Don't Cross | Hard | 
+1260 | [Shift 2D Grid](/src/1260-shift-2d-grid.cpp) | Easy | Accepted
+1261 | [Find Elements in a Contaminated Binary Tree](/src/1261-find-elements-in-a-contaminated-binary-tree.cpp) | Medium | Accepted
+1262 | [Greatest Sum Divisible by Three](/src/1262-greatest-sum-divisible-by-three.cpp) | Medium | Accepted
+1263 | Minimum Moves to Move a Box to Their Target Location | Hard | 
