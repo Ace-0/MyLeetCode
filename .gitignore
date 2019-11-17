@@ -16,3 +16,6 @@ venv
 
 # executable
 main.out
+
+# test file
+src/test.cpp
