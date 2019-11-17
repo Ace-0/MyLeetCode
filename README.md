@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%%%%%%%%%%%%------------------------------------} 39.8%   454/1142
+{ %%%%%%%%%%%%%%%%%%%%%%%%------------------------------------} 39.8%   463/1163
 ```
 
 ID | Title | Difficulty | Status
@@ -245,7 +245,7 @@ ID | Title | Difficulty | Status
 252 | Meeting Rooms | Easy | 
 253 | [Meeting Rooms II](/src/253-meeting-rooms-ii.cpp) | Medium | Accepted
 254 | [Factor Combinations](/src/254-factor-combinations.cpp) | Medium | 
-255 | Verify Preorder Sequence in Binary Search Tree | Medium | 
+255 | Verify Preorder Sequence in Binary Search Tree | Medium | Accepted
 256 | Paint House | Easy | 
 257 | Binary Tree Paths | Easy | Accepted
 258 | Add Digits | Easy | Accepted
@@ -286,11 +286,11 @@ ID | Title | Difficulty | Status
 294 | Flip Game II | Medium | 
 295 | [Find Median from Data Stream](/src/295-find-median-from-data-stream.cpp) | Hard | Accepted
 296 | Best Meeting Point | Hard | 
-297 | [Serialize and Deserialize Binary Tree](/src/297-serialize-and-deserialize-binary-tree.cpp) | Hard | Accepted
+297 | [Serialize and Deserialize Binary Tree](/src/297-serialize-and-deserialize-binary-tree.py) | Hard | Accepted
 298 | Binary Tree Longest Consecutive Sequence | Medium | 
 299 | [Bulls and Cows](/src/299-bulls-and-cows.cpp) | Easy | Accepted
 300 | [Longest Increasing Subsequence](/src/300-longest-increasing-subsequence.cpp) | Medium | Accepted
-301 | [Remove Invalid Parentheses](/src/301-remove-invalid-parentheses.cpp) | Hard | Accepted
+301 | [Remove Invalid Parentheses](/src/301-remove-invalid-parentheses.py) | Hard | Accepted
 302 | Smallest Rectangle Enclosing Black Pixels | Hard | 
 303 | [Range Sum Query - Immutable](/src/303-range-sum-query-immutable.cpp) | Easy | Accepted
 304 | [Range Sum Query 2D - Immutable](/src/304-range-sum-query-2d-immutable.cpp) | Medium | Accepted
@@ -350,7 +350,7 @@ ID | Title | Difficulty | Status
 358 | Rearrange String k Distance Apart | Hard | 
 359 | Logger Rate Limiter | Easy | Accepted
 360 | Sort Transformed Array | Medium | 
-361 | Bomb Enemy | Medium | 
+361 | [Bomb Enemy](/src/361-bomb-enemy.cpp) | Medium | Accepted
 362 | Design Hit Counter | Medium | 
 363 | [Max Sum of Rectangle No Larger Than K](/src/363-max-sum-of-rectangle-no-larger-than-k.cpp) | Hard | Accepted
 364 | Nested List Weight Sum II | Medium | 
@@ -418,7 +418,7 @@ ID | Title | Difficulty | Status
 426 | Convert Binary Search Tree to Sorted Doubly Linked List | Medium | 
 427 | Construct Quad Tree | Medium | Accepted
 428 | Serialize and Deserialize N-ary Tree | Hard | 
-429 | N-ary Tree Level Order Traversal | Easy | Accepted
+429 | N-ary Tree Level Order Traversal | Medium | Accepted
 430 | [Flatten a Multilevel Doubly Linked List](/src/430-flatten-a-multilevel-doubly-linked-list.cpp) | Medium | Accepted
 431 | Encode N-ary Tree to Binary Tree | Hard | 
 432 | [All O`one Data Structure](/src/432-all-oone-data-structure.cpp) | Hard | Accepted
@@ -454,7 +454,7 @@ ID | Title | Difficulty | Status
 462 | Minimum Moves to Equal Array Elements II | Medium | 
 463 | Island Perimeter | Easy | Accepted
 464 | Can I Win | Medium | 
-465 | Optimal Account Balancing | Hard | 
+465 | [Optimal Account Balancing](/src/465-optimal-account-balancing.cpp) | Hard | Accepted
 466 | Count The Repetitions | Hard | 
 467 | Unique Substrings in Wraparound String | Medium | 
 468 | Validate IP Address | Medium | 
@@ -471,7 +471,7 @@ ID | Title | Difficulty | Status
 479 | Largest Palindrome Product | Hard | 
 480 | Sliding Window Median | Hard | 
 481 | Magical String | Medium | 
-482 | License Key Formatting | Easy | 
+482 | [License Key Formatting](/src/482-license-key-formatting.cpp) | Easy | Accepted
 483 | Smallest Good Base | Hard | 
 484 | Find Permutation | Medium | 
 485 | Max Consecutive Ones | Easy | 
@@ -536,7 +536,7 @@ ID | Title | Difficulty | Status
 547 | Friend Circles | Medium | 
 548 | Split Array with Equal Sum | Medium | 
 549 | Binary Tree Longest Consecutive Sequence II | Medium | 
-551 | Student Attendance Record I | Easy | 
+551 | Student Attendance Record I | Easy | Accepted
 552 | Student Attendance Record II | Hard | 
 553 | Optimal Division | Medium | 
 554 | Brick Wall | Medium | Accepted
@@ -699,7 +699,7 @@ ID | Title | Difficulty | Status
 740 | Delete and Earn | Medium | 
 741 | Cherry Pickup | Hard | 
 742 | Closest Leaf in a Binary Tree | Medium | 
-743 | Network Delay Time | Medium | 
+743 | [Network Delay Time](/src/743-network-delay-time.cpp) | Medium | Accepted
 744 | Find Smallest Letter Greater Than Target | Easy | 
 745 | Prefix and Suffix Search | Hard | 
 746 | Min Cost Climbing Stairs | Easy | 
@@ -765,7 +765,7 @@ ID | Title | Difficulty | Status
 806 | Number of Lines To Write String | Easy | Accepted
 807 | Max Increase to Keep City Skyline | Medium | 
 808 | Soup Servings | Medium | 
-809 | Expressive Words | Medium | 
+809 | [Expressive Words](/src/809-expressive-words.cpp) | Medium | Accepted
 810 | Chalkboard XOR Game | Hard | 
 811 | Subdomain Visit Count | Easy | 
 812 | Largest Triangle Area | Easy | 
@@ -937,7 +937,7 @@ ID | Title | Difficulty | Status
 978 | Longest Turbulent Subarray | Medium | 
 979 | Distribute Coins in Binary Tree | Medium | 
 980 | [Unique Paths III](/src/980-unique-paths-iii.cpp) | Hard | Accepted
-981 | Time Based Key-Value Store | Medium | 
+981 | Time Based Key-Value Store | Medium | Accepted
 982 | Triples with Bitwise AND Equal To Zero | Hard | 
 983 | Minimum Cost For Tickets | Medium | 
 984 | String Without AAA or BBB | Medium | 
@@ -1009,7 +1009,7 @@ ID | Title | Difficulty | Status
 1052 | Grumpy Bookstore Owner | Medium | 
 1053 | Previous Permutation With One Swap | Medium | 
 1054 | Distant Barcodes | Medium | 
-1055 | Shortest Way to Form String | Medium | 
+1055 | [Shortest Way to Form String](/src/1055-shortest-way-to-form-string.cpp) | Medium | Accepted
 1056 | Confusing Number | Easy | 
 1057 | [Campus Bikes](/src/1057-campus-bikes.cpp) | Medium | Accepted
 1058 | Minimize Rounding Error to Meet Target | Medium | 
@@ -1149,3 +1149,24 @@ ID | Title | Difficulty | Status
 1233 | Remove Sub-Folders from the Filesystem | Medium | 
 1234 | Replace the Substring for Balanced String | Medium | 
 1235 | Maximum Profit in Job Scheduling | Hard | 
+1236 | Web Crawler | Medium | 
+1237 | Find Positive Integer Solution for a Given Equation | Easy | 
+1238 | Circular Permutation in Binary Representation | Medium | 
+1239 | Maximum Length of a Concatenated String with Unique Characters | Medium | 
+1240 | Tiling a Rectangle with the Fewest Squares | Hard | 
+1243 | Array Transformation | Easy | 
+1244 | Design A Leaderboard | Medium | 
+1245 | Tree Diameter | Medium | 
+1246 | Palindrome Removal | Hard | 
+1247 | Minimum Swaps to Make Strings Equal | Medium | 
+1248 | Count Number of Nice Subarrays | Medium | 
+1249 | Minimum Remove to Make Valid Parentheses | Medium | 
+1250 | Check If It Is a Good Array | Hard | 
+1252 | Cells with Odd Values in a Matrix | Easy | 
+1253 | Reconstruct a 2-Row Binary Matrix | Medium | 
+1254 | Number of Closed Islands | Medium | 
+1255 | Maximum Score Words Formed by Letters | Hard | 
+1256 | Encode Number | Medium | 
+1257 | Smallest Common Region | Medium | 
+1258 | Synonymous Sentences | Medium | 
+1259 | Handshakes That Don't Cross | Hard | 
