@@ -2,7 +2,7 @@
 
 
 ```shell
-{ %%%%%%%%%%%%%%%%%%%%%%%%------------------------------------} 40.0%   467/1167
+{ %%%%%%%%%%%%%%%%%%%%%%%%------------------------------------} 40.5%   475/1172
 ```
 
 ID | Title | Difficulty | Status
@@ -256,7 +256,7 @@ ID | Title | Difficulty | Status
 264 | [Ugly Number II](/src/264-ugly-number-ii.cpp) | Medium | Accepted
 265 | Paint House II | Hard | 
 266 | Palindrome Permutation | Easy | 
-267 | Palindrome Permutation II | Medium | 
+267 | Palindrome Permutation II | Medium | Accepted
 268 | [Missing Number](/src/268-missing-number.cpp) | Easy | Accepted
 269 | [Alien Dictionary](/src/269-alien-dictionary.cpp) | Hard | Accepted
 270 | Closest Binary Search Tree Value | Easy | 
@@ -515,7 +515,7 @@ ID | Title | Difficulty | Status
 525 | Contiguous Array | Medium | 
 526 | Beautiful Arrangement | Medium | 
 527 | Word Abbreviation | Hard | 
-528 | Random Pick with Weight | Medium | 
+528 | Random Pick with Weight | Medium | Accepted
 529 | [Minesweeper](/src/529-minesweeper.cpp) | Medium | Accepted
 530 | Minimum Absolute Difference in BST | Easy | 
 531 | Lonely Pixel I | Medium | 
@@ -611,7 +611,7 @@ ID | Title | Difficulty | Status
 652 | Find Duplicate Subtrees | Medium | 
 653 | Two Sum IV - Input is a BST | Easy | 
 654 | [Maximum Binary Tree](/src/654-maximum-binary-tree.py) | Medium | Accepted
-655 | Print Binary Tree | Medium | 
+655 | Print Binary Tree | Medium | Accepted
 656 | Coin Path | Hard | 
 657 | Robot Return to Origin | Easy | 
 658 | [Find K Closest Elements](/src/658-find-k-closest-elements.cpp) | Medium | Accepted
@@ -664,7 +664,7 @@ ID | Title | Difficulty | Status
 705 | Design HashSet | Easy | 
 706 | Design HashMap | Easy | 
 707 | [Design Linked List](/src/707-design-linked-list.cpp) | Medium | Accepted
-708 | Insert into a Cyclic Sorted List | Medium | 
+708 | Insert into a Sorted Circular Linked List | Medium | 
 709 | To Lower Case | Easy | 
 710 | Random Pick with Blacklist | Hard | 
 711 | Number of Distinct Islands II | Hard | 
@@ -819,7 +819,7 @@ ID | Title | Difficulty | Status
 860 | Lemonade Change | Easy | 
 861 | Score After Flipping Matrix | Medium | 
 862 | Shortest Subarray with Sum at Least K | Hard | 
-863 | All Nodes Distance K in Binary Tree | Medium | 
+863 | All Nodes Distance K in Binary Tree | Medium | Accepted
 864 | Shortest Path to Get All Keys | Hard | 
 865 | Smallest Subtree with all the Deepest Nodes | Medium | 
 866 | Prime Palindrome | Medium | 
@@ -1174,3 +1174,8 @@ ID | Title | Difficulty | Status
 1261 | [Find Elements in a Contaminated Binary Tree](/src/1261-find-elements-in-a-contaminated-binary-tree.cpp) | Medium | Accepted
 1262 | [Greatest Sum Divisible by Three](/src/1262-greatest-sum-divisible-by-three.cpp) | Medium | Accepted
 1263 | Minimum Moves to Move a Box to Their Target Location | Hard | 
+1265 | Print Immutable Linked List in Reverse | Medium | 
+1266 | [Minimum Time Visiting All Points](/src/1266-minimum-time-visiting-all-points.cpp) | Easy | Accepted
+1267 | [Count Servers that Communicate](/src/1267-count-servers-that-communicate.cpp) | Medium | Accepted
+1268 | [Search Suggestions System](/src/1268-search-suggestions-system.cpp) | Medium | Accepted
+1269 | [Number of Ways to Stay in the Same Place After Some Steps](/src/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps.cpp) | Hard | Accepted
